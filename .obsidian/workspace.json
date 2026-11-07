@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scipture/Tanakh/Torah/Exodus (Sh'mot).md",
+                "file": "Notes/Tanakh/Prophets/Earlier Prophets/2 Samuel (Shmuel Bet).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exodus (Sh'mot)"
+              "title": "2 Samuel (Shmuel Bet)"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scipture/Tanakh/Torah/Exodus (Sh'mot).md",
+                "file": "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Jonah (Yonah).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scipture/Tanakh/Torah/Exodus (Sh'mot).md",
+                "file": "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Jonah (Yonah).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scipture/Tanakh/Torah/Exodus (Sh'mot).md",
+                "file": "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Jonah (Yonah).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,43 +199,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "a74b863f45c13bc4",
+  "active": "720f8c81fc05b7bf",
   "lastOpenFiles": [
-    "English webu readaloud version/signature.txt.asc",
-    "English webu readaloud version/keys.asc",
-    "English webu readaloud version/engwebu_096_REV_22_read.txt",
-    "English webu readaloud version/engwebu_096_REV_21_read.txt",
-    "English webu readaloud version/engwebu_096_REV_20_read.txt",
-    "English webu readaloud version/engwebu_096_REV_19_read.txt",
-    "English webu readaloud version/engwebu_096_REV_18_read.txt",
-    "English webu readaloud version/engwebu_096_REV_17_read.txt",
-    "English webu readaloud version/engwebu_096_REV_16_read.txt",
-    "English webu readaloud version/engwebu_096_REV_15_read.txt",
-    "English webu readaloud version/engwebu_096_REV_14_read.txt",
-    "Scipture/Tanakh/Torah/Genesis (B'resheet).md",
-    "Scipture/Table of Contents.md",
-    "Scipture/Tanakh/Tanakh Table of Contents.md",
-    "Scipture/Brit-Chadashah/Brit-Chadashah Table of Contents.md",
-    "Scipture/Tanakh/Writings/Esther (Ester).md",
-    "Scipture/Tanakh/Torah/Deuteronomy (D'varim).md",
-    "Scipture/Tanakh/Torah/Numbers (B'midbar).md",
-    "Scipture/Tanakh/Torah/Leviticus (Vayikra).md",
-    "Scipture/Tanakh/Torah/Exodus (Sh'mot).md",
-    "Scipture/Brit-Chadashah/Revelation (Revelation of Yeshua to Yochanan).md",
-    "Scipture/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Malachi (Mal'akhi).md",
-    "Scipture/Tanakh/Writings/Psalms (Tehillim).md",
-    "Scipture/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Zechariah (Zekharyah).md",
-    "Scipture/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Haggai (Chagai).md",
-    "Scipture/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Zephaniah (Tzefanyah).md",
-    "Scipture/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Habakkuk (Chavakuk).md",
-    "Scipture/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Nahum (Nachum).md",
-    "Scipture/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Micah (Mikhah).md",
-    "Scipture/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Jonah (Yonah).md",
-    "Scipture/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Obadiah ('Ovadyah).md",
-    "Scipture/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Amos ('Amos).md",
-    "Scipture/Brit-Chadashah/Epistles (Letters)/Jude (Y'hudah).md",
-    "Scipture/Brit-Chadashah/Epistles (Letters)/3 John (3 Yochanan).md",
-    "Scipture/Brit-Chadashah/Epistles (Letters)/2 John (2 Yochanan).md",
-    "Scipture/Brit-Chadashah/Epistles (Letters)/1 John (1 Yochanan).md"
+    "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Jonah (Yonah).md",
+    "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Micah (Mikhah).md",
+    "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Obadiah ('Ovadyah).md",
+    "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Amos ('Amos).md",
+    "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Joel (Yo'el).md",
+    "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Hosea (Hoshea).md",
+    "Notes/Tanakh/Prophets/Latter Prophets/'Greater' Prophets/Ezekiel (Yechezkel).md",
+    "Notes/Tanakh/Prophets/Latter Prophets/'Greater' Prophets/Jeremiah (Yirmiyahu).md",
+    "Notes/Tanakh/Prophets/Latter Prophets/'Greater' Prophets/Isaiah (Yeshayahu).md",
+    "Notes/Tanakh/Prophets/Earlier Prophets/2 Kings (Melachim Bet).md",
+    "Notes/Tanakh/Prophets/Earlier Prophets/1 Kings (Melachim Alef).md",
+    "Notes/Tanakh/Prophets/Earlier Prophets/2 Samuel (Shmuel Bet).md",
+    "Notes/Tanakh/Prophets/Earlier Prophets/1 Samuel (Shmuel Alef).md",
+    "Notes/Tanakh/Prophets/Earlier Prophets/Judges (Shoftim).md",
+    "Notes/Tanakh/Prophets/Earlier Prophets/Joshua (Yehoshua).md",
+    "Notes/Tanakh/Torah/Deuteronomy (D'varim).md",
+    "Notes/Tanakh/Torah/Numbers (B'midbar).md",
+    "Notes/Tanakh/Torah/Leviticus (Vayikra).md",
+    "Notes/Tanakh/Torah/Exodus (Sh'mot).md",
+    "Notes/Tanakh/Torah/Genesis (B'resheet).md",
+    "Genesis 2.md",
+    "Genesis 1.md",
+    "Notes/Table of Contents.md",
+    "Scripture - English webu readaloud version/signature.txt.asc",
+    "Scripture - English webu readaloud version/keys.asc",
+    "Scripture - English webu readaloud version/engwebu_096_REV_22_read.txt",
+    "Scripture - English webu readaloud version/engwebu_096_REV_21_read.txt",
+    "Scripture - English webu readaloud version/engwebu_096_REV_20_read.txt",
+    "Scripture - English webu readaloud version/engwebu_096_REV_19_read.txt",
+    "Scripture - English webu readaloud version/engwebu_096_REV_18_read.txt",
+    "Scripture - English webu readaloud version/engwebu_096_REV_17_read.txt",
+    "Scripture - English webu readaloud version/engwebu_096_REV_16_read.txt",
+    "Scripture - English webu readaloud version/engwebu_096_REV_15_read.txt",
+    "Notes/Tanakh/Tanakh Table of Contents.md",
+    "Notes/Brit-Chadashah/Brit-Chadashah Table of Contents.md",
+    "Notes/Tanakh/Writings/Esther (Ester).md"
   ]
 }
