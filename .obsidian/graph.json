@@ -6,17 +6,480 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"/Genesis/\" OR file:\"Genesis (B'resheet).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14825014
+      }
+    },
+    {
+      "query": "path:\"/Exodus/\" OR file:\"Exodus (Sh'mot).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14828854
+      }
+    },
+    {
+      "query": "path:\"/Leviticus/\" OR file:\"Leviticus (Vayikra).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14832950
+      }
+    },
+    {
+      "query": "path:\"/Numbers/\" OR file:\"Numbers (B'midbar).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14837046
+      }
+    },
+    {
+      "query": "path:\"/Deuteronomy/\" OR file:\"Deuteronomy (D'varim).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14840886
+      }
+    },
+    {
+      "query": "path:\"/Joshua/\" OR file:\"Joshua (Yehoshua).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14844982
+      }
+    },
+    {
+      "query": "path:\"/Judges/\" OR file:\"Judges (Shoftim).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14849078
+      }
+    },
+    {
+      "query": "path:\"/Ruth/\" OR file:\"Ruth (Rut).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14852918
+      }
+    },
+    {
+      "query": "path:\"/1 Samuel/\" OR file:\"1 Samuel (Shmuel Alef).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14857014
+      }
+    },
+    {
+      "query": "path:\"/2 Samuel/\" OR file:\"2 Samuel (Shmuel Bet).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14861110
+      }
+    },
+    {
+      "query": "path:\"/1 Kings/\" OR file:\"1 Kings (Melachim Alef).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14864950
+      }
+    },
+    {
+      "query": "path:\"/2 Kings/\" OR file:\"2 Kings (Melachim Bet).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14869046
+      }
+    },
+    {
+      "query": "path:\"/1 Chronicles/\" OR file:\"1 Chronicles (Divrei-HamYamim Alef).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 13820470
+      }
+    },
+    {
+      "query": "path:\"/2 Chronicles/\" OR file:\"2 Chronicles (Divrei-HamYamim Bet).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 12837430
+      }
+    },
+    {
+      "query": "path:\"/Ezra/\" OR file:\"Ezra ('Ezra).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 11788854
+      }
+    },
+    {
+      "query": "path:\"/Nehemiah/\" OR file:\"Nehemiah (Nechemyah).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 10740278
+      }
+    },
+    {
+      "query": "path:\"/Esther/\" OR file:\"Esther (Ester).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 9757238
+      }
+    },
+    {
+      "query": "path:\"/Job/\" OR file:\"Job (Iyov).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 8708662
+      }
+    },
+    {
+      "query": "path:\"/Psalms/\" OR file:\"Psalms (Tehillim).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 7660086
+      }
+    },
+    {
+      "query": "path:\"/Proverbs/\" OR file:\"Proverbs (Mishlei).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 6677046
+      }
+    },
+    {
+      "query": "path:\"/Ecclesiastes/\" OR file:\"Ecclesiastes (Kohelet).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 5628470
+      }
+    },
+    {
+      "query": "path:\"/Song of Solomon/\" OR file:\"Song of Songs (Shir Hashirim).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 4579894
+      }
+    },
+    {
+      "query": "path:\"/Isaiah/\" OR file:\"Isaiah (Yeshayahu).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3596854
+      }
+    },
+    {
+      "query": "path:\"/Jeremiah/\" OR file:\"Jeremiah (Yirmiyahu).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3596869
+      }
+    },
+    {
+      "query": "path:\"/Lamentations/\" OR file:\"Lamentations (Eichah).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3596885
+      }
+    },
+    {
+      "query": "path:\"/Ezekiel/\" OR path:\"/Ezekial/\" OR file:\"Ezekiel (Yechezkel).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3596901
+      }
+    },
+    {
+      "query": "path:\"/Daniel/\" OR file:\"Daniel (Dani'el).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3596916
+      }
+    },
+    {
+      "query": "path:\"/Hosea/\" OR file:\"Hosea (Hoshea).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3596932
+      }
+    },
+    {
+      "query": "path:\"/Joel/\" OR file:\"Joel (Yo'el).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3596948
+      }
+    },
+    {
+      "query": "path:\"/Amos/\" OR file:\"Amos ('Amos).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3596963
+      }
+    },
+    {
+      "query": "path:\"/Obadiah/\" OR file:\"Obadiah ('Ovadyah).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3596979
+      }
+    },
+    {
+      "query": "path:\"/Jonah/\" OR file:\"Jonah (Yonah).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3596995
+      }
+    },
+    {
+      "query": "path:\"/Micah/\" OR file:\"Micah (Mikhah).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3597010
+      }
+    },
+    {
+      "query": "path:\"/Nahum/\" OR file:\"Nahum (Nachum).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3597026
+      }
+    },
+    {
+      "query": "path:\"/Habakkuk/\" OR file:\"Habakkuk (Chavakuk).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3592930
+      }
+    },
+    {
+      "query": "path:\"/Zephaniah/\" OR file:\"Zephaniah (Tzefanyah).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3589090
+      }
+    },
+    {
+      "query": "path:\"/Haggai/\" OR file:\"Haggai (Chaggai).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3584994
+      }
+    },
+    {
+      "query": "path:\"/Zechariah/\" OR file:\"Zechariah (Zekharyah).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3580898
+      }
+    },
+    {
+      "query": "path:\"/Malachi/\" OR file:\"Malachi (Mal'akhi).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3577058
+      }
+    },
+    {
+      "query": "path:\"/Matthew/\" OR file:\"Matthew (Mattityahu).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3572962
+      }
+    },
+    {
+      "query": "path:\"/Mark/\" OR file:\"Mark.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3568866
+      }
+    },
+    {
+      "query": "path:\"/Luke/\" OR file:\"Luke.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3565026
+      }
+    },
+    {
+      "query": "path:\"/John/\" OR file:\"John (Yochanan).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3560930
+      }
+    },
+    {
+      "query": "path:\"/Acts/\" OR file:\"Acts (Acts of the Emissaries of Yeshua).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3556834
+      }
+    },
+    {
+      "query": "path:\"/Romans/\" OR file:\"Romans.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 3552994
+      }
+    },
+    {
+      "query": "path:\"/1 Corinthians/\" OR file:\"1 Corinthians.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 4536034
+      }
+    },
+    {
+      "query": "path:\"/2 Corinthians/\" OR file:\"2 Corinthians.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 5584610
+      }
+    },
+    {
+      "query": "path:\"/Galatians/\" OR file:\"Galatians.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 6633186
+      }
+    },
+    {
+      "query": "path:\"/Ephesians/\" OR file:\"Ephesians.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 7616226
+      }
+    },
+    {
+      "query": "path:\"/Philippians/\" OR file:\"Philippians.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 8664802
+      }
+    },
+    {
+      "query": "path:\"/Colossians/\" OR file:\"Colossians.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 9713378
+      }
+    },
+    {
+      "query": "path:\"/1 Thessalonians/\" OR path:\"/1 Thesalonians/\" OR file:\"1 Thessalonians.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 10696418
+      }
+    },
+    {
+      "query": "path:\"/2 Thessalonians/\" OR file:\"2 Thessalonians.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 11744994
+      }
+    },
+    {
+      "query": "path:\"/1 Timothy/\" OR file:\"1 Timothy.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 12793570
+      }
+    },
+    {
+      "query": "path:\"/2 Timothy/\" OR file:\"2 Timothy.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 13776610
+      }
+    },
+    {
+      "query": "path:\"/Titus/\" OR file:\"Titus.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14825186
+      }
+    },
+    {
+      "query": "path:\"/Philemon/\" OR file:\"Philemon.md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14825170
+      }
+    },
+    {
+      "query": "path:\"/Hebrews/\" OR file:\"Hebrews (Messianic Jews).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14825155
+      }
+    },
+    {
+      "query": "path:\"/James/\" OR file:\"James (Ya'akov).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14825139
+      }
+    },
+    {
+      "query": "path:\"/1 Peter/\" OR file:\"1 Peter (1 Kefa).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14825123
+      }
+    },
+    {
+      "query": "path:\"/2 Peter/\" OR file:\"2 Peter (2 Kefa).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14825108
+      }
+    },
+    {
+      "query": "path:\"/1 John/\" OR file:\"1 John (1 Yochanan).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14825092
+      }
+    },
+    {
+      "query": "path:\"/2 John/\" OR file:\"2 John (2 Yochanan).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14825076
+      }
+    },
+    {
+      "query": "path:\"/3 John/\" OR file:\"3 John (3 Yochanan).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14825061
+      }
+    },
+    {
+      "query": "path:\"/Jude/\" OR file:\"Jude (Y'hudah).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14825045
+      }
+    },
+    {
+      "query": "path:\"/Revelation/\" OR file:\"Revelation (Revelation of Yeshua to Yochanan).md\"",
+      "color": {
+        "a": 1,
+        "rgb": 14825029
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.558520629574454,
+  "centerStrength": 0.500485782757951,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.04231590268975909,
+  "scale": 0.021528718442430195,
   "close": false
 }

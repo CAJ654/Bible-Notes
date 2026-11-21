@@ -11,10 +11,14 @@
             "id": "0c05b0744015eed0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Brit-Chadashah/Letters of Paul (Sha'ul)/Colossians.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Colossians"
             }
           },
           {
@@ -72,8 +76,19 @@
               "icon": "lucide-file",
               "title": "Acts (Acts of the Emissaries of Yeshua)"
             }
+          },
+          {
+            "id": "2260c0946cbd9678",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -241,10 +256,14 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "0c05b0744015eed0",
+  "active": "2260c0946cbd9678",
   "lastOpenFiles": [
-    "Notes/Brit-Chadashah/Acts (Acts of the Emissaries of Yeshua).md",
     "Notes/Apocrypha/Apocrypha Table of Contents.md",
+    "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Haggai (Chaggai).md",
+    "Notes/Tanakh/Prophets/Earlier Prophets/Judges (Shoftim).md",
+    "Notes/Brit-Chadashah/Letters of Paul (Sha'ul)/Colossians.md",
+    "sortspec.md",
+    "Notes/Brit-Chadashah/Acts (Acts of the Emissaries of Yeshua).md",
     "Notes/Apocrypha/Daniel (Greek).md",
     "Notes/Apocrypha/Ecclesiasticus (Sirach).md",
     "Notes/Apocrypha/Esther (Greek).md",
@@ -253,7 +272,6 @@
     "Notes/Apocrypha",
     "Scripture - World Messianic Bible (WMB)/Genesis/Genesis 1 - WMB.md",
     "Notes/Tanakh/Tanakh Table of Contents.md",
-    "Notes/Tanakh/Prophets/Earlier Prophets/Judges (Shoftim).md",
     "Notes/Tanakh/Prophets/Earlier Prophets/Joshua (Yehoshua).md",
     "Notes/Tanakh/Torah/Deuteronomy (D'varim).md",
     "Notes/Tanakh/Torah/Numbers (B'midbar).md",
@@ -262,14 +280,11 @@
     "Notes/Tanakh/Torah/Genesis (B'resheet).md",
     "Scripture - English webu readaloud version/Genesis/Genesis 50 - WEBU.md",
     "Notes/Tanakh/Writings/2 Chronicles (Divrei-HamYamim Bet).md",
-    "sortspec.md",
-    "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Haggai (Chaggai).md",
     "Notes/Tanakh/Prophets/Latter Prophets/'Greater' Prophets/Untitled.md",
     "Notes/Tanakh/Prophets/Latter Prophets/'Greater' Prophets/Jeremiah (Yirmiyahu).md",
     "Notes/Tanakh/Prophets/Prophets Table of Contents.md",
     "Notes/Tanakh/Prophets/Earlier Prophets/Earlier Prophets Table of Contents.md",
     "Notes/Tanakh/Torah/Torah Table of Contents.md",
-    "Notes/Brit-Chadashah/Letters of Paul (Sha'ul)/1 Corinthians.md",
     "Scripture - English webu readaloud version/Genesis",
     "Scripture - English webu readaloud version/signature.txt.asc",
     "Scripture - English webu readaloud version/keys.asc",
