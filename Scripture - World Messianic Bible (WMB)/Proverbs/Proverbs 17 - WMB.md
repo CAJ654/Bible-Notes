@@ -1,0 +1,64 @@
+---
+book: Proverbs
+chapter: 17
+version: WMB
+---
+# Proverbs 17 (WMB)
+
+← [[Proverbs 16 - WMB]] | [[Proverbs 18 - WMB]] →
+
+**1** Better is a dry morsel with quietness, than a house full of feasting with strife. ^1
+
+**2** A servant who deals wisely will rule over a son who causes shame, and shall have a part in the inheritance among the brothers. ^2
+
+**3** The refining pot is for silver, and the furnace for gold, but the LORD tests the hearts. ^3
+
+**4** An evildoer heeds wicked lips. A liar gives ear to a mischievous tongue. ^4
+
+**5** Whoever mocks the poor reproaches his Maker. He who is glad at calamity shall not be unpunished. ^5
+
+**6** Children’s children are the crown of old men; the glory of children is their parents. ^6
+
+**7** Excellent speech isn’t fitting for a fool, much less do lying lips fit a prince. ^7
+
+**8** A bribe is a precious stone in the eyes of him who gives it; wherever he turns, he prospers. ^8
+
+**9** He who covers an offense promotes love; but he who repeats a matter separates best friends. ^9
+
+**10** A rebuke enters deeper into one who has understanding than a hundred lashes into a fool. ^10
+
+**11** An evil man seeks only rebellion; therefore a cruel messenger shall be sent against him. ^11
+
+**12** Let a bear robbed of her cubs meet a man, rather than a fool in his folly. ^12
+
+**13** Whoever rewards evil for good, evil shall not depart from his house. ^13
+
+**14** The beginning of strife is like breaching a dam, therefore stop contention before quarreling breaks out. ^14
+
+**15** He who justifies the wicked, and he who condemns the righteous, both of them alike are an abomination to the LORD. ^15
+
+**16** Why is there money in the hand of a fool to buy wisdom, since he has no understanding? ^16
+
+**17** A friend loves at all times; and a brother is born for adversity. ^17
+
+**18** A man void of understanding strikes hands, and becomes collateral in the presence of his neighbor. ^18
+
+**19** He who loves disobedience loves strife. One who builds a high gate seeks destruction. ^19
+
+**20** One who has a perverse heart doesn’t find prosperity, and one who has a deceitful tongue falls into trouble. ^20
+
+**21** He who becomes the father of a fool grieves. The father of a fool has no joy. ^21
+
+**22** A cheerful heart makes good medicine, but a crushed spirit dries up the bones. ^22
+
+**23** A wicked man receives a bribe in secret, to pervert the ways of justice. ^23
+
+**24** Wisdom is before the face of one who has understanding, but the eyes of a fool wander to the ends of the earth. ^24
+
+**25** A foolish son brings grief to his father, and bitterness to her who bore him. ^25
+
+**26** Also to punish the righteous is not good, nor to flog officials for their integrity. ^26
+
+**27** He who spares his words has knowledge. He who is even tempered is a man of understanding. ^27
+
+**28** Even a fool, when he keeps silent, is counted wise. When he shuts his lips, he is thought to be discerning. ^28

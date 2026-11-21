@@ -1,0 +1,84 @@
+---
+book: Luke
+chapter: 3
+version: WMB
+---
+# Luke 3 (WMB)
+
+← [[Luke 2 - WMB]] | [[Luke 4 - WMB]] →
+
+**1** Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of the region of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene, ^1
+
+**2** during the high priesthood of Annas and Caiaphas, the word of God came to Yochanan, the son of Zechariah, in the wilderness. ^2
+
+**3** He came into all the region around the Jordan, proclaiming the immersion of repentance for remission of sins. ^3
+
+**4** As it is written in the scroll of the words of Isaiah the prophet, “The voice of one crying in the wilderness, ‘Make ready the way of the Lord. Make his paths straight. ^4
+
+**5** Every valley will be filled. Every mountain and hill will be brought low. The crooked will become straight, and the rough ways smooth. ^5
+
+**6** All flesh will see God’s salvation.’” ^6
+
+**7** He said therefore to the multitudes who went out to be immersed by him, “You offspring of vipers, who warned you to flee from the wrath to come? ^7
+
+**8** Therefore produce fruits worthy of repentance, and don’t begin to say among yourselves, ‘We have Abraham for our father;’ for I tell you that God is able to raise up children to Abraham from these stones! ^8
+
+**9** Even now the ax also lies at the root of the trees. Every tree therefore that doesn’t produce good fruit is cut down and thrown into the fire.” ^9
+
+**10** The multitudes asked him, “What then must we do?” ^10
+
+**11** He answered them, “He who has two coats, let him give to him who has none. He who has food, let him do likewise.” ^11
+
+**12** Tax collectors also came to be immersed, and they said to him, “Rabbi, what must we do?” ^12
+
+**13** He said to them, “Collect no more than that which is appointed to you.” ^13
+
+**14** Soldiers also asked him, saying, “What about us? What must we do?” He said to them, “Extort from no one by violence, neither accuse anyone wrongfully. Be content with your wages.” ^14
+
+**15** As the people were in expectation, and all men reasoned in their hearts concerning Yochanan, whether perhaps he was the Messiah, ^15
+
+**16** Yochanan answered them all, “I indeed immerse you with water, but he comes who is mightier than I, the strap of whose sandals I am not worthy to loosen. He will immerse you in the Holy Spirit and fire. ^16
+
+**17** His winnowing fan is in his hand, and he will thoroughly cleanse his threshing floor, and will gather the wheat into his barn; but he will burn up the chaff with unquenchable fire.” ^17
+
+**18** Then with many other exhortations he preached good news to the people, ^18
+
+**19** but Herod the tetrarch, being reproved by him for Herodias, his brother’s wife, and for all the evil things which Herod had done, ^19
+
+**20** added this also to them all, that he shut up Yochanan in prison. ^20
+
+**21** Now when all the people were immersed, Yeshua also had been immersed and was praying. The sky was opened, ^21
+
+**22** and the Holy Spirit descended in a bodily form like a dove on him; and a voice came out of the sky, saying “You are my beloved Son. In you I am well pleased.” ^22
+
+**23** Yeshua himself, when he began to teach, was about thirty years old, being the son (as was supposed) of Joseph, the son of Eli, ^23
+
+**24** the son of Matthat, the son of Levi, the son of Melchi, the son of Jannai, the son of Joseph, ^24
+
+**25** the son of Mattithiah, the son of Amos, the son of Nahum, the son of Esli, the son of Naggai, ^25
+
+**26** the son of Maath, the son of Mattithiah, the son of Shimei, the son of Joseph, the son of Judah, ^26
+
+**27** the son of Yochanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri, ^27
+
+**28** the son of Melchi, the son of Addi, the son of Cosam, the son of Elmodam, the son of Er, ^28
+
+**29** the son of Yosi, the son of Eliezer, the son of Jorim, the son of Matthat, the son of Levi, ^29
+
+**30** the son of Simeon, the son of Judah, the son of Joseph, the son of Jonan, the son of Eliakim, ^30
+
+**31** the son of Maleah, the son of Manah, the son of Mattathah, the son of Nathan, the son of David, ^31
+
+**32** the son of Jesse, the son of Obed, the son of Boaz, the son of Salmon, the son of Nahshon, ^32
+
+**33** the son of Amminadab, the son of Ram, the son of Hezron, the son of Perez, the son of Judah, ^33
+
+**34** the son of Jacob, the son of Isaac, the son of Abraham, the son of Terah, the son of Nahor, ^34
+
+**35** the son of Serug, the son of Reu, the son of Peleg, the son of Eber, the son of Shelah, ^35
+
+**36** the son of Kenan, the son of Arpachshad, the son of Shem, the son of Noah, the son of Lamech, ^36
+
+**37** the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalalel, the son of Kenan, ^37
+
+**38** the son of Enosh, the son of Seth, the son of Adam, the son of God. ^38

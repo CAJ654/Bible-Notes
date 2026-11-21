@@ -1,0 +1,36 @@
+---
+book: 2 Corinthians
+chapter: 13
+version: WMB
+---
+# 2 Corinthians 13 (WMB)
+
+← [[2 Corinthians 12 - WMB]]
+
+**1** This is the third time I am coming to you. “At the mouth of two or three witnesses shall every word be established.” ^1
+
+**2** I have warned previously, and I warn again, as when I was present the second time, so now, being absent, I write to those who have sinned before now and to all the rest that if I come again, I will not spare, ^2
+
+**3** seeing that you seek a proof of Messiah who speaks in me who is not weak, but is powerful in you. ^3
+
+**4** For he was crucified through weakness, yet he lives through the power of God. For we also are weak in him, but we will live with him through the power of God toward you. ^4
+
+**5** Examine your own selves, whether you are in the faith. Test your own selves. Or don’t you know about your own selves, that Yeshua the Messiah is in you?—unless indeed you are disqualified. ^5
+
+**6** But I hope that you will know that we aren’t disqualified. ^6
+
+**7** Now I pray to God that you do no evil; not that we may appear approved, but that you may do that which is honorable, though we may seem to have failed. ^7
+
+**8** For we can do nothing against the truth, but for the truth. ^8
+
+**9** For we rejoice when we are weak and you are strong. We also pray for this: your becoming perfect. ^9
+
+**10** For this cause I write these things while absent, that I may not deal sharply when present, according to the authority which the Lord gave me for building up and not for tearing down. ^10
+
+**11** Finally, brothers, rejoice! Be perfected. Be comforted. Be of the same mind. Live in peace, and the God of love and peace will be with you. ^11
+
+**12** Greet one another with a holy kiss. ^12
+
+**13** All the holy ones greet you. ^13
+
+**14** The grace of the Lord Yeshua the Messiah, God’s love, and the fellowship of the Holy Spirit be with you all. Amen. ^14

@@ -1,0 +1,32 @@
+---
+book: 2 Thessalonians
+chapter: 1
+version: WMB
+---
+# 2 Thessalonians 1 (WMB)
+
+[[2 Thessalonians 2 - WMB]] →
+
+**1** Paul, Silvanus, and Timothy, to the assembly of the Thessalonians in God our Father and the Lord Yeshua the Messiah: ^1
+
+**2** Grace to you and peace from God our Father and the Lord Yeshua the Messiah. ^2
+
+**3** We are bound to always give thanks to God for you, brothers, even as it is appropriate, because your faith grows exceedingly, and the love of each and every one of you toward one another abounds, ^3
+
+**4** so that we ourselves boast about you in the assemblies of God for your perseverance and faith in all your persecutions and in the afflictions which you endure. ^4
+
+**5** This is an obvious sign of the righteous judgment of God, to the end that you may be counted worthy of God’s Kingdom, for which you also suffer. ^5
+
+**6** For it is a righteous thing with God to repay affliction to those who afflict you, ^6
+
+**7** and to give relief to you who are afflicted with us when the Lord Yeshua is revealed from heaven with his mighty angels in flaming fire, ^7
+
+**8** punishing those who don’t know God, and to those who don’t obey the Good News of our Lord Yeshua, ^8
+
+**9** who will pay the penalty: eternal destruction from the face of the Lord and from the glory of his might, ^9
+
+**10** when he comes in that day to be glorified in his holy ones and to be admired among all those who have believed, because our testimony to you was believed. ^10
+
+**11** To this end we also pray always for you that our God may count you worthy of your calling, and fulfill every desire of goodness and work of faith with power, ^11
+
+**12** that the name of our Lord Yeshua may be glorified in you, and you in him, according to the grace of our God and the Lord Yeshua the Messiah. ^12

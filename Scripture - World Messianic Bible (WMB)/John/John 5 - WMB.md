@@ -1,0 +1,102 @@
+---
+book: John
+chapter: 5
+version: WMB
+---
+# John 5 (WMB)
+
+← [[John 4 - WMB]] | [[John 6 - WMB]] →
+
+**1** After these things, there was a Jewish festival, and Yeshua went up to Jerusalem. ^1
+
+**2** Now in Jerusalem by the sheep gate, there is a pool, which is called in Hebrew, “Bethesda”, having five porches. ^2
+
+**3** In these lay a great multitude of those who were sick, blind, lame, or paralyzed, waiting for the moving of the water; ^3
+
+**4** for an angel went down at certain times into the pool and stirred up the water. Whoever stepped in first after the stirring of the water was healed of whatever disease he had. ^4
+
+**5** A certain man was there who had been sick for thirty-eight years. ^5
+
+**6** When Yeshua saw him lying there, and knew that he had been sick for a long time, he asked him, “Do you want to be made well?” ^6
+
+**7** The sick man answered him, “Sir, I have no one to put me into the pool when the water is stirred up, but while I’m coming, another steps down before me.” ^7
+
+**8** Yeshua said to him, “Arise, take up your mat, and walk.” ^8
+
+**9** Immediately, the man was made well, and took up his mat and walked. Now that day was a Sabbath. ^9
+
+**10** So the Judeans said to him who was cured, “It is the Sabbath. It is not lawful for you to carry the mat.” ^10
+
+**11** He answered them, “He who made me well said to me, ‘Take up your mat and walk.’ ” ^11
+
+**12** Then they asked him, “Who is the man who said to you, ‘Take up your mat and walk’?” ^12
+
+**13** But he who was healed didn’t know who it was, for Yeshua had withdrawn, a crowd being in the place. ^13
+
+**14** Afterward Yeshua found him in the temple and said to him, “Behold, you are made well. Sin no more, so that nothing worse happens to you.” ^14
+
+**15** The man went away, and told the Judeans that it was Yeshua who had made him well. ^15
+
+**16** For this cause the Judeans persecuted Yeshua and sought to kill him, because he did these things on the Sabbath. ^16
+
+**17** But Yeshua answered them, “My Father is still working, so I am working, too.” ^17
+
+**18** For this cause therefore the Judeans sought all the more to kill him, because he not only broke the Sabbath, but also called God his own Father, making himself equal with God. ^18
+
+**19** Yeshua therefore answered them, “Most certainly, I tell you, the Son can do nothing of himself, but what he sees the Father doing. For whatever things he does, these the Son also does likewise. ^19
+
+**20** For the Father has affection for the Son, and shows him all things that he himself does. He will show him greater works than these, that you may marvel. ^20
+
+**21** For as the Father raises the dead and gives them life, even so the Son also gives life to whom he desires. ^21
+
+**22** For the Father judges no one, but he has given all judgment to the Son, ^22
+
+**23** that all may honor the Son, even as they honor the Father. He who doesn’t honor the Son doesn’t honor the Father who sent him. ^23
+
+**24** “Most certainly I tell you, he who hears my word and believes him who sent me has eternal life, and doesn’t come into judgment, but has passed out of death into life. ^24
+
+**25** Most certainly I tell you, the hour comes, and now is, when the dead will hear the Son of God’s voice; and those who hear will live. ^25
+
+**26** For as the Father has life in himself, even so he gave to the Son also to have life in himself. ^26
+
+**27** He also gave him authority to execute judgment, because he is a son of man. ^27
+
+**28** Don’t marvel at this, for the hour comes in which all who are in the tombs will hear his voice ^28
+
+**29** and will come out; those who have done good, to the resurrection of life; and those who have done evil, to the resurrection of judgment. ^29
+
+**30** I can of myself do nothing. As I hear, I judge; and my judgment is righteous, because I don’t seek my own will, but the will of my Father who sent me. ^30
+
+**31** “If I testify about myself, my witness is not valid. ^31
+
+**32** It is another who testifies about me. I know that the testimony which he testifies about me is true. ^32
+
+**33** You have sent to Yochanan, and he has testified to the truth. ^33
+
+**34** But the testimony which I receive is not from man. However, I say these things that you may be saved. ^34
+
+**35** He was the burning and shining lamp, and you were willing to rejoice for a while in his light. ^35
+
+**36** But the testimony which I have is greater than that of Yochanan; for the works which the Father gave me to accomplish, the very works that I do, testify about me, that the Father has sent me. ^36
+
+**37** The Father himself, who sent me, has testified about me. You have neither heard his voice at any time, nor seen his form. ^37
+
+**38** You don’t have his word living in you, because you don’t believe him whom he sent. ^38
+
+**39** “You search the Scriptures, because you think that in them you have eternal life; and these are they which testify about me. ^39
+
+**40** Yet you will not come to me, that you may have life. ^40
+
+**41** I don’t receive glory from men. ^41
+
+**42** But I know you, that you don’t have God’s love in yourselves. ^42
+
+**43** I have come in my Father’s name, and you don’t receive me. If another comes in his own name, you will receive him. ^43
+
+**44** How can you believe, who receive glory from one another, and you don’t seek the glory that comes from the only God? ^44
+
+**45** “Don’t think that I will accuse you to the Father. There is one who accuses you, even Moses, on whom you have set your hope. ^45
+
+**46** For if you believed Moses, you would believe me; for he wrote about me. ^46
+
+**47** But if you don’t believe his writings, how will you believe my words?” ^47

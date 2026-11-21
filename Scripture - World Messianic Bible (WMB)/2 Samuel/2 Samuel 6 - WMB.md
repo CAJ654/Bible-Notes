@@ -1,0 +1,54 @@
+---
+book: 2 Samuel
+chapter: 6
+version: WMB
+---
+# 2 Samuel 6 (WMB)
+
+← [[2 Samuel 5 - WMB]] | [[2 Samuel 7 - WMB]] →
+
+**1** David again gathered together all the chosen men of Israel, thirty thousand. ^1
+
+**2** David arose and went with all the people who were with him from Baale Judah, to bring up from there God’s ark, which is called by the Name, even the name of the LORD of Hosts who sits above the cherubim. ^2
+
+**3** They set God’s ark on a new cart, and brought it out of Abinadab’s house that was on the hill; and Uzzah and Ahio, the sons of Abinadab, drove the new cart. ^3
+
+**4** They brought it out of Abinadab’s house which was in the hill, with God’s ark; and Ahio went before the ark. ^4
+
+**5** David and all the house of Israel played before the LORD with all kinds of instruments made of cypress wood, with harps, with stringed instruments, with tambourines, with castanets, and with cymbals. ^5
+
+**6** When they came to the threshing floor of Nacon, Uzzah reached for God’s ark and took hold of it, for the cattle stumbled. ^6
+
+**7** The LORD’s anger burned against Uzzah, and God struck him there for his error; and he died there by God’s ark. ^7
+
+**8** David was displeased because the LORD had broken out against Uzzah; and he called that place Perez Uzzah to this day. ^8
+
+**9** David was afraid of the LORD that day; and he said, “How could the LORD’s ark come to me?” ^9
+
+**10** So David would not move the LORD’s ark to be with him in David’s city; but David carried it aside into Obed-Edom the Gittite’s house. ^10
+
+**11** The LORD’s ark remained in Obed-Edom the Gittite’s house three months; and the LORD blessed Obed-Edom and all his house. ^11
+
+**12** King David was told, “The LORD has blessed the house of Obed-Edom, and all that belongs to him, because of God’s ark.” So David went and brought up God’s ark from the house of Obed-Edom into David’s city with joy. ^12
+
+**13** When those who bore the LORD’s ark had gone six paces, he sacrificed an ox and a fattened calf. ^13
+
+**14** David danced before the LORD with all his might; and David was clothed in a linen ephod. ^14
+
+**15** So David and all the house of Israel brought up the LORD’s ark with shouting and with the sound of the shofar. ^15
+
+**16** As the LORD’s ark came into David’s city, Michal the daughter of Saul looked out through the window and saw King David leaping and dancing before the LORD; and she despised him in her heart. ^16
+
+**17** They brought in the LORD’s ark, and set it in its place in the middle of the tent that David had pitched for it; and David offered burnt offerings and peace offerings before the LORD. ^17
+
+**18** When David had finished offering the burnt offering and the peace offerings, he blessed the people in the name of the LORD of Hosts. ^18
+
+**19** He gave to all the people, even among the whole multitude of Israel, both to men and women, to everyone a portion of bread, dates, and raisins. So all the people departed, each to his own house. ^19
+
+**20** Then David returned to bless his household. Michal the daughter of Saul came out to meet David, and said, “How glorious the king of Israel was today, who uncovered himself today in the eyes of his servants’ maids, as one of the vain fellows shamelessly uncovers himself!” ^20
+
+**21** David said to Michal, “It was before the LORD, who chose me above your father, and above all his house, to appoint me prince over the people of the LORD, over Israel. Therefore I will celebrate before the LORD. ^21
+
+**22** I will be yet more undignified than this, and will be worthless in my own sight. But the maids of whom you have spoken will honor me.” ^22
+
+**23** Michal the daughter of Saul had no child to the day of her death. ^23

@@ -1,0 +1,74 @@
+---
+book: 2 Corinthians
+chapter: 11
+version: WMB
+---
+# 2 Corinthians 11 (WMB)
+
+← [[2 Corinthians 10 - WMB]] | [[2 Corinthians 12 - WMB]] →
+
+**1** I wish that you would bear with me in a little foolishness, but indeed you do bear with me. ^1
+
+**2** For I am jealous over you with a godly jealousy. For I promised you in marriage to one husband, that I might present you as a pure virgin to Messiah. ^2
+
+**3** But I am afraid that somehow, as the serpent deceived Havah in his craftiness, so your minds might be corrupted from the simplicity that is in Messiah. ^3
+
+**4** For if he who comes preaches another Yeshua whom we didn’t proclaim, or if you receive a different spirit which you didn’t receive, or a different “good news” which you didn’t accept, you put up with that well enough. ^4
+
+**5** For I reckon that I am not at all behind the very best emissaries. ^5
+
+**6** But though I am unskilled in speech, yet I am not unskilled in knowledge. No, in every way we have been revealed to you in all things. ^6
+
+**7** Or did I commit a sin in humbling myself that you might be exalted, because I preached to you God’s Good News free of charge? ^7
+
+**8** I robbed other assemblies, taking wages from them that I might serve you. ^8
+
+**9** When I was present with you and was in need, I wasn’t a burden on anyone, for the brothers, when they came from Macedonia, supplied the measure of my need. In everything I kept myself from being burdensome to you, and I will continue to do so. ^9
+
+**10** As the truth of Messiah is in me, no one will stop me from this boasting in the regions of Achaia. ^10
+
+**11** Why? Because I don’t love you? God knows. ^11
+
+**12** But what I do, that I will continue to do, that I may cut off opportunity from those who desire an opportunity, that in which they boast, they may be recognized just like us. ^12
+
+**13** For such men are false emissaries, deceitful workers, masquerading as Messiah’s emissaries. ^13
+
+**14** And no wonder, for even Satan masquerades as an angel of light. ^14
+
+**15** It is no great thing therefore if his servants also masquerade as servants of righteousness, whose end will be according to their works. ^15
+
+**16** I say again, let no one think me foolish. But if so, yet receive me as foolish, that I also may boast a little. ^16
+
+**17** That which I speak, I don’t speak according to the Lord, but as in foolishness, in this confidence of boasting. ^17
+
+**18** Seeing that many boast after the flesh, I will also boast. ^18
+
+**19** For you bear with the foolish gladly, being wise. ^19
+
+**20** For you bear with a man if he brings you into bondage, if he devours you, if he takes you captive, if he exalts himself, or if he strikes you on the face. ^20
+
+**21** To my shame, I speak as though we had been weak. Yet in whatever way anyone is bold (I speak in foolishness), I am bold also. ^21
+
+**22** Are they Hebrews? So am I. Are they Israelites? So am I. Are they the offspring of Abraham? So am I. ^22
+
+**23** Are they servants of Messiah? (I speak as one beside himself.) I am more so: in labors more abundantly, in prisons more abundantly, in stripes above measure, and in deaths often. ^23
+
+**24** Five times I received forty stripes minus one from the Jews. ^24
+
+**25** Three times I was beaten with rods. Once I was stoned. Three times I suffered shipwreck. I have been a night and a day in the deep. ^25
+
+**26** I have been in travels often, perils of rivers, perils of robbers, perils from my countrymen, perils from the Gentiles, perils in the city, perils in the wilderness, perils in the sea, perils among false brothers; ^26
+
+**27** in labor and travail, in watchings often, in hunger and thirst, in fastings often, and in cold and nakedness. ^27
+
+**28** Besides those things that are outside, there is that which presses on me daily: anxiety for all the assemblies. ^28
+
+**29** Who is weak, and I am not weak? Who is caused to stumble, and I don’t burn with indignation? ^29
+
+**30** If I must boast, I will boast of the things that concern my weakness. ^30
+
+**31** The God and Father of the Lord Yeshua the Messiah, he who is blessed forever more, knows that I don’t lie. ^31
+
+**32** In Damascus the governor under King Aretas guarded the Damascenes’ city, desiring to arrest me. ^32
+
+**33** I was let down in a basket through a window by the wall, and escaped his hands. ^33

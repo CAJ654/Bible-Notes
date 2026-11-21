@@ -1,0 +1,158 @@
+---
+book: Matthew
+chapter: 26
+version: WMB
+---
+# Matthew 26 (WMB)
+
+← [[Matthew 25 - WMB]] | [[Matthew 27 - WMB]] →
+
+**1** When Yeshua had finished all these words, he said to his disciples, ^1
+
+**2** “You know that after two days the Passover is coming, and the Son of Man will be delivered up to be crucified.” ^2
+
+**3** Then the chief priests, the scribes, and the elders of the people were gathered together in the court of the high priest, who was called Caiaphas. ^3
+
+**4** They took counsel together that they might take Yeshua by deceit and kill him. ^4
+
+**5** But they said, “Not during the feast, lest a riot occur among the people.” ^5
+
+**6** Now when Yeshua was in Bethany, in the house of Simon the leper, ^6
+
+**7** a woman came to him having an alabaster jar of very expensive ointment, and she poured it on his head as he sat at the table. ^7
+
+**8** But when his disciples saw this, they were indignant, saying, “Why this waste? ^8
+
+**9** For this ointment might have been sold for much and given to the poor.” ^9
+
+**10** However, knowing this, Yeshua said to them, “Why do you trouble the woman? She has done a good work for me. ^10
+
+**11** For you always have the poor with you, but you don’t always have me. ^11
+
+**12** For in pouring this ointment on my body, she did it to prepare me for burial. ^12
+
+**13** Most certainly I tell you, wherever this Good News is preached in the whole world, what this woman has done will also be spoken of as a memorial of her.” ^13
+
+**14** Then one of the twelve, who was called Judah Iscariot, went to the chief priests ^14
+
+**15** and said, “What are you willing to give me if I deliver him to you?” So they weighed out for him thirty pieces of silver. ^15
+
+**16** From that time he sought opportunity to betray him. ^16
+
+**17** Now on the first day of unleavened bread, the disciples came to Yeshua, saying to him, “Where do you want us to prepare for you to eat the Passover?” ^17
+
+**18** He said, “Go into the city to a certain person, and tell him, ‘The Rabbi says, “My time is at hand. I will keep the Passover at your house with my disciples.”’” ^18
+
+**19** The disciples did as Yeshua commanded them, and they prepared the Passover. ^19
+
+**20** Now when evening had come, he was reclining at the table with the twelve disciples. ^20
+
+**21** As they were eating, he said, “Most certainly I tell you that one of you will betray me.” ^21
+
+**22** They were exceedingly sorrowful, and each began to ask him, “It isn’t me, is it, Lord?” ^22
+
+**23** He answered, “He who dipped his hand with me in the dish will betray me. ^23
+
+**24** The Son of Man goes even as it is written of him, but woe to that man through whom the Son of Man is betrayed! It would be better for that man if he had not been born.” ^24
+
+**25** Judah, who betrayed him, answered, “It isn’t me, is it, Rabbi?” He said to him, “You said it.” ^25
+
+**26** As they were eating, Yeshua took bread, gave thanks for it, and broke it. He gave to the disciples and said, “Take, eat; this is my body.” ^26
+
+**27** He took the cup, gave thanks, and gave to them, saying, “All of you drink it, ^27
+
+**28** for this is my blood of the new covenant, which is poured out for many for the remission of sins. ^28
+
+**29** But I tell you that I will not drink of this fruit of the vine from now on, until that day when I drink it anew with you in my Father’s Kingdom.” ^29
+
+**30** When they had sung the Hallel, they went out to the Mount of Olives. ^30
+
+**31** Then Yeshua said to them, “All of you will be made to stumble because of me tonight, for it is written, ‘I will strike the shepherd, and the sheep of the flock will be scattered.’ ^31
+
+**32** But after I am raised up, I will go before you into Galilee.” ^32
+
+**33** But Peter answered him, “Even if all will be made to stumble because of you, I will never be made to stumble.” ^33
+
+**34** Yeshua said to him, “Most certainly I tell you that tonight, before the rooster crows, you will deny me three times.” ^34
+
+**35** Peter said to him, “Even if I must die with you, I will not deny you.” All of the disciples also said likewise. ^35
+
+**36** Then Yeshua came with them to a place called Gethsemane, and said to his disciples, “Sit here, while I go there and pray.” ^36
+
+**37** He took with him Peter and the two sons of Zebedee, and began to be sorrowful and severely troubled. ^37
+
+**38** Then he said to them, “My soul is exceedingly sorrowful, even to death. Stay here and watch with me.” ^38
+
+**39** He went forward a little, fell on his face, and prayed, saying, “My Father, if it is possible, let this cup pass away from me; nevertheless, not what I desire, but what you desire.” ^39
+
+**40** He came to the disciples and found them sleeping, and said to Peter, “What, couldn’t you watch with me for one hour? ^40
+
+**41** Watch and pray, that you don’t enter into temptation. The spirit indeed is willing, but the flesh is weak.” ^41
+
+**42** Again, a second time he went away and prayed, saying, “My Father, if this cup can’t pass away from me unless I drink it, your desire be done.” ^42
+
+**43** He came again and found them sleeping, for their eyes were heavy. ^43
+
+**44** He left them again, went away, and prayed a third time, saying the same words. ^44
+
+**45** Then he came to his disciples and said to them, “Are you still sleeping and resting? Behold, the hour is at hand, and the Son of Man is betrayed into the hands of sinners. ^45
+
+**46** Arise, let’s be going. Behold, he who betrays me is at hand.” ^46
+
+**47** While he was still speaking, behold, Judah, one of the twelve, came, and with him a great multitude with swords and clubs, from the chief priests and elders of the people. ^47
+
+**48** Now he who betrayed him had given them a sign, saying, “Whoever I kiss, he is the one. Seize him.” ^48
+
+**49** Immediately he came to Yeshua, and said, “Greetings, Rabbi!” and kissed him. ^49
+
+**50** Yeshua said to him, “Friend, why are you here?” Then they came and laid hands on Yeshua, and took him. ^50
+
+**51** Behold, one of those who were with Yeshua stretched out his hand and drew his sword, and struck the servant of the high priest, and cut off his ear. ^51
+
+**52** Then Yeshua said to him, “Put your sword back into its place, for all those who take the sword will die by the sword. ^52
+
+**53** Or do you think that I couldn’t ask my Father, and he would even now send me more than twelve legions of angels? ^53
+
+**54** How then would the Scriptures be fulfilled that it must be so?” ^54
+
+**55** In that hour Yeshua said to the multitudes, “Have you come out as against a robber with swords and clubs to seize me? I sat daily in the temple teaching, and you didn’t arrest me. ^55
+
+**56** But all this has happened that the Scriptures of the prophets might be fulfilled.” Then all the disciples left him and fled. ^56
+
+**57** Those who had taken Yeshua led him away to Caiaphas the high priest, where the scribes and the elders were gathered together. ^57
+
+**58** But Peter followed him from a distance to the court of the high priest, and entered in and sat with the officers, to see the end. ^58
+
+**59** Now the chief priests, the elders, and the whole council sought false testimony against Yeshua, that they might put him to death, ^59
+
+**60** and they found none. Even though many false witnesses came forward, they found none. But at last two false witnesses came forward ^60
+
+**61** and said, “This man said, ‘I am able to destroy the temple of God, and to build it in three days.’” ^61
+
+**62** The high priest stood up and said to him, “Have you no answer? What is this that these testify against you?” ^62
+
+**63** But Yeshua stayed silent. The high priest answered him, “I adjure you by the living God that you tell us whether you are the Messiah, the Son of God.” ^63
+
+**64** Yeshua said to him, “You have said so. Nevertheless, I tell you, after this you will see the Son of Man sitting at the right hand of Power, and coming on the clouds of the sky.” ^64
+
+**65** Then the high priest tore his clothing, saying, “He has spoken blasphemy! Why do we need any more witnesses? Behold, now you have heard his blasphemy. ^65
+
+**66** What do you think?” They answered, “He is worthy of death!” ^66
+
+**67** Then they spat in his face and beat him with their fists, and some slapped him, ^67
+
+**68** saying, “Prophesy to us, you Messiah! Who hit you?” ^68
+
+**69** Now Peter was sitting outside in the court, and a maid came to him, saying, “You were also with Yeshua, the Galilean!” ^69
+
+**70** But he denied it before them all, saying, “I don’t know what you are talking about.” ^70
+
+**71** When he had gone out onto the porch, someone else saw him and said to those who were there, “This man also was with Yeshua of Nazareth.” ^71
+
+**72** Again he denied it with an oath, “I don’t know the man.” ^72
+
+**73** After a little while those who stood by came and said to Peter, “Surely you are also one of them, for your speech makes you known.” ^73
+
+**74** Then he began to curse and to swear, “I don’t know the man!” Immediately the rooster crowed. ^74
+
+**75** Peter remembered the word which Yeshua had said to him, “Before the rooster crows, you will deny me three times.” Then he went out and wept bitterly. ^75

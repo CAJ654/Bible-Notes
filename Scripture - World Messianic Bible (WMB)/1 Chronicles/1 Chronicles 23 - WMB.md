@@ -1,0 +1,72 @@
+---
+book: 1 Chronicles
+chapter: 23
+version: WMB
+---
+# 1 Chronicles 23 (WMB)
+
+← [[1 Chronicles 22 - WMB]] | [[1 Chronicles 24 - WMB]] →
+
+**1** Now David was old and full of days; and he made Solomon his son king over Israel. ^1
+
+**2** He gathered together all the princes of Israel, with the priests and the Levites. ^2
+
+**3** The Levites were counted from thirty years old and upward; and their number by their polls, man by man, was thirty-eight thousand. ^3
+
+**4** David said, “Of these, twenty-four thousand were to oversee the work of the LORD’s house, six thousand were officers and judges, ^4
+
+**5** four thousand were doorkeepers, and four thousand praised the LORD with the instruments which I made for giving praise.” ^5
+
+**6** David divided them into divisions according to the sons of Levi: Gershon, Kohath, and Merari. ^6
+
+**7** Of the Gershonites: Ladan and Shimei. ^7
+
+**8** The sons of Ladan: Jehiel the chief, Zetham, and Joel, three. ^8
+
+**9** The sons of Shimei: Shelomoth, Haziel, and Haran, three. These were the heads of the fathers’ households of Ladan. ^9
+
+**10** The sons of Shimei: Jahath, Zina, Jeush, and Beriah. These four were the sons of Shimei. ^10
+
+**11** Jahath was the chief, and Zizah the second; but Jeush and Beriah didn’t have many sons; therefore they became a fathers’ house in one reckoning. ^11
+
+**12** The sons of Kohath: Amram, Izhar, Hebron, and Uzziel, four. ^12
+
+**13** The sons of Amram: Aaron and Moses; and Aaron was separated that he should sanctify the most holy things, he and his sons forever, to burn incense before the LORD, to minister to him, and to bless in his name forever. ^13
+
+**14** But as for Moses the man of God, his sons were named among the tribe of Levi. ^14
+
+**15** The sons of Moses: Gershom and Eliezer. ^15
+
+**16** The sons of Gershom: Shebuel the chief. ^16
+
+**17** The son of Eliezer was Rehabiah the chief; and Eliezer had no other sons, but the sons of Rehabiah were very many. ^17
+
+**18** The son of Izhar: Shelomith the chief. ^18
+
+**19** The sons of Hebron: Jeriah the chief, Amariah the second, Jahaziel the third, and Jekameam the fourth. ^19
+
+**20** The sons of Uzziel: Micah the chief, and Isshiah the second. ^20
+
+**21** The sons of Merari: Mahli and Mushi. The sons of Mahli: Eleazar and Kish. ^21
+
+**22** Eleazar died, and had no sons, but daughters only; and their relatives, the sons of Kish, took them as wives. ^22
+
+**23** The sons of Mushi: Mahli, Eder, and Jeremoth, three. ^23
+
+**24** These were the sons of Levi after their fathers’ houses, even the heads of the fathers’ houses of those who were counted individually, in the number of names by their polls, who did the work for the service of the LORD’s house, from twenty years old and upward. ^24
+
+**25** For David said, “The LORD, the God of Israel, has given rest to his people; and he dwells in Jerusalem forever. ^25
+
+**26** Also the Levites will no longer need to carry the tabernacle and all its vessels for its service.” ^26
+
+**27** For by the last words of David the sons of Levi were counted, from twenty years old and upward. ^27
+
+**28** For their duty was to wait on the sons of Aaron for the service of the LORD’s house—in the courts, in the rooms, and in the purifying of all holy things, even the work of the service of God’s house; ^28
+
+**29** for the show bread also, and for the fine flour for a meal offering, whether of unleavened wafers, or of that which is baked in the pan, or of that which is soaked, and for all measurements of quantity and size; ^29
+
+**30** and to stand every morning to thank and praise the LORD, and likewise in the evening; ^30
+
+**31** and to offer all burnt offerings to the LORD on the Sabbaths, on the new moons, and on the set feasts, in number according to the ordinance concerning them, continually before the LORD; ^31
+
+**32** and that they should keep the duty of the Tent of Meeting, the duty of the holy place, and the duty of the sons of Aaron their brothers for the service of the LORD’s house. ^32

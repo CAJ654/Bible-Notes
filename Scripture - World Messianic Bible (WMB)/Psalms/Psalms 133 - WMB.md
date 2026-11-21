@@ -1,0 +1,14 @@
+---
+book: Psalms
+chapter: 133
+version: WMB
+---
+# Psalms 133 (WMB)
+
+← [[Psalms 132 - WMB]] | [[Psalms 134 - WMB]] →
+
+**1** A Song of Ascents. By David. See how good and how pleasant it is for brothers to live together in unity! ^1
+
+**2** It is like the precious oil on the head, that ran down on the beard, even Aaron’s beard, that came down on the edge of his robes, ^2
+
+**3** like the dew of Hermon, that comes down on the hills of Zion; for there the LORD gives the blessing, even life forever more. ^3

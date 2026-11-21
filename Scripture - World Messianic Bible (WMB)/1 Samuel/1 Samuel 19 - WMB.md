@@ -1,0 +1,56 @@
+---
+book: 1 Samuel
+chapter: 19
+version: WMB
+---
+# 1 Samuel 19 (WMB)
+
+← [[1 Samuel 18 - WMB]] | [[1 Samuel 20 - WMB]] →
+
+**1** Saul spoke to Jonathan his son and to all his servants, that they should kill David. But Jonathan, Saul’s son, greatly delighted in David. ^1
+
+**2** Jonathan told David, saying, “Saul my father seeks to kill you. Now therefore, please take care of yourself in the morning, live in a secret place, and hide yourself. ^2
+
+**3** I will go out and stand beside my father in the field where you are, and I will talk with my father about you; and if I see anything, I will tell you.” ^3
+
+**4** Jonathan spoke good of David to Saul his father, and said to him, “Don’t let the king sin against his servant, against David; because he has not sinned against you, and because his works have been very good toward you; ^4
+
+**5** for he put his life in his hand and struck the Philistine, and the LORD worked a great victory for all Israel. You saw it and rejoiced. Why then will you sin against innocent blood, to kill David without a cause?” ^5
+
+**6** Saul listened to the voice of Jonathan; and Saul swore, “As the LORD lives, he shall not be put to death.” ^6
+
+**7** Jonathan called David, and Jonathan showed him all those things. Then Jonathan brought David to Saul, and he was in his presence as before. ^7
+
+**8** There was war again. David went out and fought with the Philistines, and killed them with a great slaughter; and they fled before him. ^8
+
+**9** An evil spirit from the LORD was on Saul as he sat in his house with his spear in his hand; and David was playing music with his hand. ^9
+
+**10** Saul sought to pin David to the wall with the spear, but he slipped away out of Saul’s presence; and he stuck the spear into the wall. David fled and escaped that night. ^10
+
+**11** Saul sent messengers to David’s house to watch him and to kill him in the morning. Michal, David’s wife, told him, saying, “If you don’t save your life tonight, tomorrow you will be killed.” ^11
+
+**12** So Michal let David down through the window. He went away, fled, and escaped. ^12
+
+**13** Michal took the teraphim and laid it in the bed, and put a pillow of goats’ hair at its head and covered it with clothes. ^13
+
+**14** When Saul sent messengers to take David, she said, “He is sick.” ^14
+
+**15** Saul sent the messengers to see David, saying, “Bring him up to me in the bed, that I may kill him.” ^15
+
+**16** When the messengers came in, behold, the teraphim was in the bed, with the pillow of goats’ hair at its head. ^16
+
+**17** Saul said to Michal, “Why have you deceived me like this and let my enemy go, so that he has escaped?” Michal answered Saul, “He said to me, ‘Let me go! Why should I kill you?’” ^17
+
+**18** Now David fled and escaped, and came to Samuel at Ramah, and told him all that Saul had done to him. He and Samuel went and lived in Naioth. ^18
+
+**19** Saul was told, saying, “Behold, David is at Naioth in Ramah.” ^19
+
+**20** Saul sent messengers to seize David; and when they saw the company of the prophets prophesying, and Samuel standing as head over them, God’s Spirit came on Saul’s messengers, and they also prophesied. ^20
+
+**21** When Saul was told, he sent other messengers, and they also prophesied. Saul sent messengers again the third time, and they also prophesied. ^21
+
+**22** Then he also went to Ramah, and came to the great well that is in Secu: and he asked, “Where are Samuel and David?” One said, “Behold, they are at Naioth in Ramah.” ^22
+
+**23** He went there to Naioth in Ramah. Then God’s Spirit came on him also, and he went on, and prophesied, until he came to Naioth in Ramah. ^23
+
+**24** He also stripped off his clothes. He also prophesied before Samuel and lay down naked all that day and all that night. Therefore they say, “Is Saul also among the prophets?” ^24

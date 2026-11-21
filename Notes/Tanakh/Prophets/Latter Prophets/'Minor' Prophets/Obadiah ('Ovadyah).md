@@ -12,6 +12,8 @@ tags:
 
 **KJV:** [[Obadiah 1 - KJV|1]]
 
+**WMB:** [[Obadiah 1 - WMB|1]]
+
 **BSB:** [[Obadiah 1 - BSB|1]]
 
 **WEBU:** [[Obadiah 1 - WEBU|1]]

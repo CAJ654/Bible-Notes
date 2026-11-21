@@ -1,0 +1,58 @@
+---
+book: Deuteronomy
+chapter: 6
+version: WMB
+---
+# Deuteronomy 6 (WMB)
+
+← [[Deuteronomy 5 - WMB]] | [[Deuteronomy 7 - WMB]] →
+
+**1** Now these are the commandments, the statutes, and the ordinances, which the LORD your God commanded to teach you, that you might do them in the land that you go over to possess; ^1
+
+**2** that you might fear the LORD your God, to keep all his statutes and his commandments, which I command you—you, your son, and your son’s son, all the days of your life; and that your days may be prolonged. ^2
+
+**3** Hear therefore, Israel, and observe to do it, that it may be well with you, and that you may increase mightily, as the LORD, the God of your fathers, has promised to you, in a land flowing with milk and honey. ^3
+
+**4** Hear, Israel: the LORD is our God. The LORD is one. ^4
+
+**5** You shall love the LORD your God with all your heart, with all your soul, and with all your might. ^5
+
+**6** These words, which I command you today, shall be on your heart; ^6
+
+**7** and you shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise up. ^7
+
+**8** You shall bind them for a sign on your hand, and they shall be for frontlets between your eyes. ^8
+
+**9** You shall write them on the door posts of your house and on your gates. ^9
+
+**10** It shall be, when the LORD your God brings you into the land which he swore to your fathers, to Abraham, to Isaac, and to Jacob, to give you, great and goodly cities which you didn’t build, ^10
+
+**11** and houses full of all good things which you didn’t fill, and cisterns dug out which you didn’t dig, vineyards and olive trees which you didn’t plant, and you shall eat and be full; ^11
+
+**12** then beware lest you forget the LORD, who brought you out of the land of Egypt, out of the house of bondage. ^12
+
+**13** You shall fear the LORD your God; and you shall serve him, and shall swear by his name. ^13
+
+**14** You shall not go after other gods, of the gods of the peoples who are around you, ^14
+
+**15** for the LORD your God among you is a jealous God, lest the anger of the LORD your God be kindled against you, and he destroy you from off the face of the earth. ^15
+
+**16** You shall not tempt the LORD your God, as you tempted him in Massah. ^16
+
+**17** You shall diligently keep the commandments of the LORD your God, and his testimonies, and his statutes, which he has commanded you. ^17
+
+**18** You shall do that which is right and good in the LORD’s sight, that it may be well with you and that you may go in and possess the good land which the LORD swore to your fathers, ^18
+
+**19** to thrust out all your enemies from before you, as the LORD has spoken. ^19
+
+**20** When your son asks you in time to come, saying, “What do the testimonies, the statutes, and the ordinances, which the LORD our God has commanded you mean?” ^20
+
+**21** then you shall tell your son, “We were Pharaoh’s slaves in Egypt. The LORD brought us out of Egypt with a mighty hand; ^21
+
+**22** and the LORD showed great and awesome signs and wonders on Egypt, on Pharaoh, and on all his house, before our eyes; ^22
+
+**23** and he brought us out from there, that he might bring us in, to give us the land which he swore to our fathers. ^23
+
+**24** The LORD commanded us to do all these statutes, to fear the LORD our God, for our good always, that he might preserve us alive, as we are today. ^24
+
+**25** It shall be righteousness to us, if we observe to do all these commandments before the LORD our God, as he has commanded us.” ^25

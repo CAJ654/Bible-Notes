@@ -1,0 +1,58 @@
+---
+book: John
+chapter: 2
+version: WMB
+---
+# John 2 (WMB)
+
+← [[John 1 - WMB]] | [[John 3 - WMB]] →
+
+**1** The third day, there was a wedding in Cana of Galilee. Yeshua’s mother was there. ^1
+
+**2** Yeshua also was invited, with his disciples, to the wedding. ^2
+
+**3** When the wine ran out, Yeshua’s mother said to him, “They have no wine.” ^3
+
+**4** Yeshua said to her, “Woman, what does that have to do with you and me? My hour has not yet come.” ^4
+
+**5** His mother said to the servants, “Whatever he says to you, do it.” ^5
+
+**6** Now there were six water pots of stone set there after the Jews’ way of purifying, containing two or three metretes apiece. ^6
+
+**7** Yeshua said to them, “Fill the water pots with water.” So they filled them up to the brim. ^7
+
+**8** He said to them, “Now draw some out, and take it to the ruler of the feast.” So they took it. ^8
+
+**9** When the ruler of the feast tasted the water now become wine, and didn’t know where it came from (but the servants who had drawn the water knew), the ruler of the feast called the bridegroom ^9
+
+**10** and said to him, “Everyone serves the good wine first, and when the guests have drunk freely, then that which is worse. You have kept the good wine until now!” ^10
+
+**11** This beginning of his signs Yeshua did in Cana of Galilee, and revealed his glory; and his disciples believed in him. ^11
+
+**12** After this, he went down to Capernaum, he, and his mother, his brothers, and his disciples; and they stayed there a few days. ^12
+
+**13** The Passover in Judea was at hand, and Yeshua went up to Jerusalem. ^13
+
+**14** He found in the temple those who sold oxen, sheep, and doves, and the changers of money sitting. ^14
+
+**15** He made a whip of cords and drove all out of the temple, both the sheep and the oxen; and he poured out the changers’ money and overthrew their tables. ^15
+
+**16** To those who sold the doves, he said, “Take these things out of here! Don’t make my Father’s house a marketplace!” ^16
+
+**17** His disciples remembered that it was written, “Zeal for your house will eat me up.” ^17
+
+**18** The Judeans therefore answered him, “What sign do you show us, seeing that you do these things?” ^18
+
+**19** Yeshua answered them, “Destroy this temple, and in three days I will raise it up.” ^19
+
+**20** The Judeans therefore said, “It took forty-six years to build this temple! Will you raise it up in three days?” ^20
+
+**21** But he spoke of the temple of his body. ^21
+
+**22** When therefore he was raised from the dead, his disciples remembered that he said this, and they believed the Scripture and the word which Yeshua had said. ^22
+
+**23** Now when he was in Jerusalem at the Passover, during the feast, many believed in his name, observing his signs which he did. ^23
+
+**24** But Yeshua didn’t entrust himself to them, because he knew everyone, ^24
+
+**25** and because he didn’t need for anyone to testify concerning man; for he himself knew what was in man. ^25

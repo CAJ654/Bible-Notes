@@ -1,0 +1,66 @@
+---
+book: Galatians
+chapter: 3
+version: WMB
+---
+# Galatians 3 (WMB)
+
+← [[Galatians 2 - WMB]] | [[Galatians 4 - WMB]] →
+
+**1** Foolish Galatians, who has bewitched you not to obey the truth, before whose eyes Yeshua the Messiah was openly portrayed among you as crucified? ^1
+
+**2** I just want to learn this from you: Did you receive the Spirit by the works of the law, or by hearing of faith? ^2
+
+**3** Are you so foolish? Having begun in the Spirit, are you now completed in the flesh? ^3
+
+**4** Did you suffer so many things in vain, if it is indeed in vain? ^4
+
+**5** He therefore who supplies the Spirit to you and does miracles among you, does he do it by the works of the law, or by hearing of faith? ^5
+
+**6** Even so, Abraham “believed God, and it was counted to him for righteousness.” ^6
+
+**7** Know therefore that those who are of faith are children of Abraham. ^7
+
+**8** The Scripture, foreseeing that God would justify the Gentiles by faith, preached the Good News beforehand to Abraham, saying, “In you all the nations will be blessed.” ^8
+
+**9** So then, those who are of faith are blessed with the faithful Abraham. ^9
+
+**10** For as many as are of the works of the law are under a curse. For it is written, “Cursed is everyone who doesn’t continue in all things that are written in the scroll of the Torah, to do them.” ^10
+
+**11** Now that no man is justified by the law before God is evident, for, “The righteous will live by faith.” ^11
+
+**12** The law is not of faith, but, “The man who does them will live by them.” ^12
+
+**13** Messiah redeemed us from the curse of the law, having become a curse for us. For it is written, “Cursed is everyone who hangs on a tree,” ^13
+
+**14** that the blessing of Abraham might come on the Gentiles through Messiah Yeshua, that we might receive the promise of the Spirit through faith. ^14
+
+**15** Brothers, speaking of human terms, though it is only a man’s covenant, yet when it has been confirmed, no one makes it void or adds to it. ^15
+
+**16** Now the promises were spoken to Abraham and to his offspring. He doesn’t say, “To descendants”, as of many, but as of one, “To your offspring”, which is Messiah. ^16
+
+**17** Now I say this: A covenant confirmed beforehand by God in Messiah, the law, which came four hundred thirty years after, does not annul, so as to make the promise of no effect. ^17
+
+**18** For if the inheritance is of the law, it is no more of promise; but God has granted it to Abraham by promise. ^18
+
+**19** Then why is there the law? It was added because of transgressions, until the offspring should come to whom the promise has been made. It was ordained through angels by the hand of a mediator. ^19
+
+**20** Now a mediator is not between one, but God is one. ^20
+
+**21** Is the law then against the promises of God? Certainly not! For if there had been a law given which could make alive, most certainly righteousness would have been of the law. ^21
+
+**22** But the Scripture imprisoned all things under sin, that the promise by faith in Yeshua the Messiah might be given to those who believe. ^22
+
+**23** But before faith came, we were kept in custody under the law, confined for the faith which should afterwards be revealed. ^23
+
+**24** So that the law has become our tutor to bring us to Messiah, that we might be justified by faith. ^24
+
+**25** But now that faith has come, we are no longer under a tutor. ^25
+
+**26** For you are all children of God, through faith in Messiah Yeshua. ^26
+
+**27** For as many of you as were immersed into Messiah have put on Messiah. ^27
+
+**28** There is neither Jew nor Greek, there is neither slave nor free man, there is neither male nor female; for you are all one in Messiah Yeshua. ^28
+
+**29** If you are Messiah’s, then you are Abraham’s offspring and heirs according to promise. ^29

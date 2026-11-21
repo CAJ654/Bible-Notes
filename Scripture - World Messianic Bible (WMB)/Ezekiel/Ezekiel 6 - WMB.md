@@ -1,0 +1,36 @@
+---
+book: Ezekiel
+chapter: 6
+version: WMB
+---
+# Ezekiel 6 (WMB)
+
+← [[Ezekiel 5 - WMB]] | [[Ezekiel 7 - WMB]] →
+
+**1** The LORD’s word came to me, saying, ^1
+
+**2** “Son of man, set your face toward the mountains of Israel, and prophesy to them, ^2
+
+**3** and say, ‘You mountains of Israel, hear the word of the Lord GOD! The Lord GOD says to the mountains and to the hills, to the watercourses and to the valleys: “Behold, I, even I, will bring a sword on you, and I will destroy your high places. ^3
+
+**4** Your altars will become desolate, and your incense altars will be broken. I will cast down your slain men before your idols. ^4
+
+**5** I will lay the dead bodies of the children of Israel before their idols. I will scatter your bones around your altars. ^5
+
+**6** In all your dwelling places, the cities will be laid waste and the high places will be desolate, so that your altars may be laid waste and made desolate, and your idols may be broken and cease, and your incense altars may be cut down, and your works may be abolished. ^6
+
+**7** The slain will fall among you, and you will know that I am the LORD. ^7
+
+**8** “‘“Yet I will leave a remnant, in that you will have some that escape the sword among the nations, when you are scattered through the countries. ^8
+
+**9** Those of you that escape will remember me among the nations where they are carried captive, how I have been broken with their lewd heart, which has departed from me, and with their eyes, which play the prostitute after their idols. Then they will loathe themselves in their own sight for the evils which they have committed in all their abominations. ^9
+
+**10** They will know that I am the LORD. I have not said in vain that I would do this evil to them.”’ ^10
+
+**11** “The Lord GOD says: ‘Strike with your hand, and stamp with your foot, and say, “Alas!”, because of all the evil abominations of the house of Israel; for they will fall by the sword, by the famine, and by the pestilence. ^11
+
+**12** He who is far off will die of the pestilence. He who is near will fall by the sword. He who remains and is besieged will die by the famine. Thus I will accomplish my wrath on them. ^12
+
+**13** You will know that I am the LORD when their slain men are among their idols around their altars, on every high hill, on all the tops of the mountains, under every green tree, and under every thick oak—the places where they offered pleasant aroma to all their idols. ^13
+
+**14** I will stretch out my hand on them and make the land desolate and waste, from the wilderness toward Diblah, throughout all their habitations. Then they will know that I am the LORD.’” ^14

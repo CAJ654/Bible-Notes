@@ -1,0 +1,58 @@
+---
+book: Matthew
+chapter: 4
+version: WMB
+---
+# Matthew 4 (WMB)
+
+← [[Matthew 3 - WMB]] | [[Matthew 5 - WMB]] →
+
+**1** Then Yeshua was led up by the Spirit into the wilderness to be tempted by the devil. ^1
+
+**2** When he had fasted forty days and forty nights, he was hungry afterward. ^2
+
+**3** The tempter came and said to him, “If you are the Son of God, command that these stones become bread.” ^3
+
+**4** But he answered, “It is written, ‘Man shall not live by bread alone, but by every word that proceeds out of God’s mouth.’” ^4
+
+**5** Then the devil took him into the holy city. He set him on the pinnacle of the temple, ^5
+
+**6** and said to him, “If you are the Son of God, throw yourself down, for it is written, ‘He will command his angels concerning you,’ and, ‘On their hands they will bear you up, so that you don’t dash your foot against a stone.’” ^6
+
+**7** Yeshua said to him, “Again, it is written, ‘You shall not test the Lord, your God.’” ^7
+
+**8** Again, the devil took him to an exceedingly high mountain, and showed him all the kingdoms of the world and their glory. ^8
+
+**9** He said to him, “I will give you all of these things, if you will fall down and worship me.” ^9
+
+**10** Then Yeshua said to him, “Get behind me, Satan! For it is written, ‘You shall worship the Lord your God, and you shall serve him only.’” ^10
+
+**11** Then the devil left him, and behold, angels came and served him. ^11
+
+**12** Now when Yeshua heard that Yochanan was delivered up, he withdrew into Galilee. ^12
+
+**13** Leaving Nazareth, he came and lived in Capernaum, which is by the sea, in the region of Zebulun and Naphtali, ^13
+
+**14** that it might be fulfilled which was spoken through Isaiah the prophet, saying, ^14
+
+**15** “The land of Zebulun and the land of Naphtali, toward the sea, beyond the Jordan, Galilee of the Gentiles, ^15
+
+**16** the people who sat in darkness saw a great light; to those who sat in the region and shadow of death, to them light has dawned.” ^16
+
+**17** From that time, Yeshua began to proclaim, and to say, “Repent! For the Kingdom of Heaven is at hand.” ^17
+
+**18** Walking by the sea of Galilee, he saw two brothers: Simon, who is called Peter, and Andrew, his brother, casting a net into the sea; for they were fishermen. ^18
+
+**19** He said to them, “Come after me, and I will make you fishers for men.” ^19
+
+**20** They immediately left their nets and followed him. ^20
+
+**21** Going on from there, he saw two other brothers, Jacob the son of Zebedee, and Yochanan his brother, in the boat with Zebedee their father, mending their nets. He called them. ^21
+
+**22** They immediately left the boat and their father, and followed him. ^22
+
+**23** Yeshua went about in all Galilee, teaching in their synagogues, proclaiming the Good News of the Kingdom, and healing every disease and every sickness among the people. ^23
+
+**24** The report about him went out into all Syria. They brought to him all who were sick, afflicted with various diseases and torments, possessed with demons, epileptics, and paralytics; and he healed them. ^24
+
+**25** Great multitudes from Galilee, Decapolis, Jerusalem, Judea, and from beyond the Jordan followed him. ^25

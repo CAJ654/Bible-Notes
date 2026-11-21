@@ -1,0 +1,30 @@
+---
+book: 2 Chronicles
+chapter: 19
+version: WMB
+---
+# 2 Chronicles 19 (WMB)
+
+← [[2 Chronicles 18 - WMB]] | [[2 Chronicles 20 - WMB]] →
+
+**1** Jehoshaphat the king of Judah returned to his house in peace to Jerusalem. ^1
+
+**2** Jehu the son of Hanani the seer went out to meet him, and said to King Jehoshaphat, “Should you help the wicked, and love those who hate the LORD? Because of this, wrath is on you from before the LORD. ^2
+
+**3** Nevertheless there are good things found in you, in that you have put away the Asheroth out of the land, and have set your heart to seek God.” ^3
+
+**4** Jehoshaphat lived at Jerusalem; and he went out again among the people from Beersheba to the hill country of Ephraim, and brought them back to the LORD, the God of their fathers. ^4
+
+**5** He set judges in the land throughout all the fortified cities of Judah, city by city, ^5
+
+**6** and said to the judges, “Consider what you do, for you don’t judge for man, but for the LORD; and he is with you in the judgment. ^6
+
+**7** Now therefore let the fear of the LORD be on you. Take heed and do it; for there is no iniquity with the LORD our God, nor respect of persons, nor taking of bribes.” ^7
+
+**8** Moreover in Jerusalem Jehoshaphat appointed certain Levites, priests, and heads of the fathers’ households of Israel to give judgment for the LORD and for controversies. They returned to Jerusalem. ^8
+
+**9** He commanded them, saying, “You shall do this in the fear of the LORD, faithfully, and with a perfect heart. ^9
+
+**10** Whenever any controversy comes to you from your brothers who dwell in their cities, between blood and blood, between law and commandment, statutes and ordinances, you must warn them, that they not be guilty toward the LORD, and so wrath come on you and on your brothers. Do this, and you will not be guilty. ^10
+
+**11** Behold, Amariah the chief priest is over you in all matters of the LORD; and Zebadiah the son of Ishmael, the ruler of the house of Judah, in all the king’s matters. Also the Levites shall be officers before you. Deal courageously, and may the LORD be with the good.” ^11

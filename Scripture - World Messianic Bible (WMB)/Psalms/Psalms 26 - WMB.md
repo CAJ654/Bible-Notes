@@ -1,0 +1,32 @@
+---
+book: Psalms
+chapter: 26
+version: WMB
+---
+# Psalms 26 (WMB)
+
+← [[Psalms 25 - WMB]] | [[Psalms 27 - WMB]] →
+
+**1** By David. Judge me, LORD, for I have walked in my integrity. I have trusted also in the LORD without wavering. ^1
+
+**2** Examine me, LORD, and prove me. Try my heart and my mind. ^2
+
+**3** For your loving kindness is before my eyes. I have walked in your truth. ^3
+
+**4** I have not sat with deceitful men, neither will I go in with hypocrites. ^4
+
+**5** I hate the assembly of evildoers, and will not sit with the wicked. ^5
+
+**6** I will wash my hands in innocence, so I will go about your altar, LORD, ^6
+
+**7** that I may make the voice of thanksgiving to be heard and tell of all your wondrous deeds. ^7
+
+**8** LORD, I love the habitation of your house, the place where your glory dwells. ^8
+
+**9** Don’t gather my soul with sinners, nor my life with bloodthirsty men ^9
+
+**10** in whose hands is wickedness; their right hand is full of bribes. ^10
+
+**11** But as for me, I will walk in my integrity. Redeem me, and be merciful to me. ^11
+
+**12** My foot stands in an even place. In the congregations I will bless the LORD. ^12

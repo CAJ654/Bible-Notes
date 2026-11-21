@@ -1,0 +1,50 @@
+---
+book: Galatians
+chapter: 2
+version: WMB
+---
+# Galatians 2 (WMB)
+
+← [[Galatians 1 - WMB]] | [[Galatians 3 - WMB]] →
+
+**1** Then after a period of fourteen years I went up again to Jerusalem with Barnabas, taking Titus also with me. ^1
+
+**2** I went up by revelation, and I laid before them the Good News which I proclaim among the Gentiles, but privately before those who were respected, for fear that I might be running, or had run, in vain. ^2
+
+**3** But not even Titus, who was with me, being a Greek, was compelled to be circumcised. ^3
+
+**4** This was because of the false brothers secretly brought in, who stole in to spy out our liberty which we have in Messiah Yeshua, that they might bring us into bondage, ^4
+
+**5** to whom we gave no place in the way of subjection, not for an hour, that the truth of the Good News might continue with you. ^5
+
+**6** But from those who were reputed to be important—whatever they were, it makes no difference to me; God doesn’t show partiality to man—they, I say, who were respected imparted nothing to me, ^6
+
+**7** but to the contrary, when they saw that I had been entrusted with the Good News for the uncircumcised, even as Peter with the Good News for the circumcised— ^7
+
+**8** for he who worked through Peter in the apostleship with the circumcised also worked through me with the Gentiles— ^8
+
+**9** and when they perceived the grace that was given to me, Jacob and Kefa and Yochanan, those who were reputed to be pillars, gave to Barnabas and me the right hand of fellowship, that we should go to the Gentiles, and they to the circumcision. ^9
+
+**10** They only asked us to remember the poor—which very thing I was also zealous to do. ^10
+
+**11** But when Peter came to Antioch, I resisted him to his face, because he stood condemned. ^11
+
+**12** For before some people came from Jacob, he ate with the Gentiles. But when they came, he drew back and separated himself, fearing those who were of the circumcision. ^12
+
+**13** And the rest of the Jewish believers joined him in his hypocrisy, so that even Barnabas was carried away with their hypocrisy. ^13
+
+**14** But when I saw that they didn’t walk uprightly according to the truth of the Good News, I said to Peter before them all, “If you, being a Jew, live as the Gentiles do, and not as the Jews do, why do you compel the Gentiles to live as the Jews do? ^14
+
+**15** “We, being Jews by birth and not Gentile sinners, ^15
+
+**16** yet knowing that a man is not justified by the works of the law but through faith in Yeshua the Messiah, even we believed in Messiah Yeshua, that we might be justified by faith in Messiah and not by the works of the law, because no flesh will be justified by the works of the law. ^16
+
+**17** But if while we sought to be justified in Messiah, we ourselves also were found sinners, is Messiah a servant of sin? Certainly not! ^17
+
+**18** For if I build up again those things which I destroyed, I prove myself a law-breaker. ^18
+
+**19** For I through the law died to the law, that I might live to God. ^19
+
+**20** I have been crucified with Messiah, and it is no longer I who live, but Messiah lives in me. That life which I now live in the flesh, I live by faith in the Son of God, who loved me and gave himself up for me. ^20
+
+**21** I don’t reject the grace of God. For if righteousness is through the law, then Messiah died for nothing!” ^21

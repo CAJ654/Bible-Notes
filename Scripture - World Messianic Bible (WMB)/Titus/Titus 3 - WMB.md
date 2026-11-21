@@ -1,0 +1,38 @@
+---
+book: Titus
+chapter: 3
+version: WMB
+---
+# Titus 3 (WMB)
+
+← [[Titus 2 - WMB]]
+
+**1** Remind them to be in subjection to rulers and to authorities, to be obedient, to be ready for every good work, ^1
+
+**2** to speak evil of no one, not to be contentious, to be gentle, showing all humility toward all men. ^2
+
+**3** For we were also once foolish, disobedient, deceived, serving various lusts and pleasures, living in malice and envy, hateful, and hating one another. ^3
+
+**4** But when the kindness of God our Savior and his love toward mankind appeared, ^4
+
+**5** not by works of righteousness which we did ourselves, but according to his mercy, he saved us through the mikveh of rebirth and renewing by the Holy Spirit, ^5
+
+**6** whom he poured out on us richly through Yeshua the Messiah our Savior; ^6
+
+**7** that being justified by his grace, we might be made heirs according to the hope of eternal life. ^7
+
+**8** This saying is faithful, and concerning these things I desire that you insist confidently, so that those who have believed God may be careful to maintain good works. These things are good and profitable to men; ^8
+
+**9** but shun foolish questionings, genealogies, strife, and disputes about the law; for they are unprofitable and vain. ^9
+
+**10** Avoid a factious man after a first and second warning, ^10
+
+**11** knowing that such a one is perverted and sinful, being self-condemned. ^11
+
+**12** When I send Artemas to you, or Tychicus, be diligent to come to me to Nicopolis, for I have determined to winter there. ^12
+
+**13** Send Zenas the Torah scholar and Apollos on their journey speedily, that nothing may be lacking for them. ^13
+
+**14** Let our people also learn to maintain good works to meet necessary needs, that they may not be unfruitful. ^14
+
+**15** All who are with me greet you. Greet those who love us in faith. Grace be with you all. Amen. ^15

@@ -1,0 +1,48 @@
+---
+book: Leviticus
+chapter: 10
+version: WMB
+---
+# Leviticus 10 (WMB)
+
+← [[Leviticus 9 - WMB]] | [[Leviticus 11 - WMB]] →
+
+**1** Nadab and Abihu, the sons of Aaron, each took his censer, and put fire in it, and laid incense on it, and offered strange fire before the LORD, which he had not commanded them. ^1
+
+**2** Fire came out from before the LORD, and devoured them, and they died before the LORD. ^2
+
+**3** Then Moses said to Aaron, “This is what the LORD spoke of, saying, ‘I will show myself holy to those who come near me, and before all the people I will be glorified.’” Aaron held his peace. ^3
+
+**4** Moses called Mishael and Elzaphan, the sons of Uzziel the uncle of Aaron, and said to them, “Draw near, carry your brothers from before the sanctuary out of the camp.” ^4
+
+**5** So they came near, and carried them in their tunics out of the camp, as Moses had said. ^5
+
+**6** Moses said to Aaron, and to Eleazar and to Ithamar, his sons, “Don’t let the hair of your heads go loose, and don’t tear your clothes, so that you don’t die, and so that he will not be angry with all the congregation; but let your brothers, the whole house of Israel, bewail the burning which the LORD has kindled. ^6
+
+**7** You shall not go out from the door of the Tent of Meeting, lest you die; for the anointing oil of the LORD is on you.” They did according to the word of Moses. ^7
+
+**8** Then The LORD said to Aaron, ^8
+
+**9** “You and your sons are not to drink wine or strong drink whenever you go into the Tent of Meeting, or you will die. This shall be a statute forever throughout your generations. ^9
+
+**10** You are to make a distinction between the holy and the common, and between the unclean and the clean. ^10
+
+**11** You are to teach the children of Israel all the statutes which the LORD has spoken to them by Moses.” ^11
+
+**12** Moses spoke to Aaron, and to Eleazar and to Ithamar, his sons who were left, “Take the meal offering that remains of the offerings of the LORD made by fire, and eat it without yeast beside the altar; for it is most holy; ^12
+
+**13** and you shall eat it in a holy place, because it is your portion, and your sons’ portion, of the offerings of the LORD made by fire; for so I am commanded. ^13
+
+**14** The waved breast and the heaved thigh you shall eat in a clean place, you, and your sons, and your daughters with you: for they are given as your portion, and your sons’ portion, out of the sacrifices of the peace offerings of the children of Israel. ^14
+
+**15** They shall bring the heaved thigh and the waved breast with the offerings made by fire of the fat, to wave it for a wave offering before the LORD. It shall be yours, and your sons’ with you, as a portion forever, as the LORD has commanded.” ^15
+
+**16** Moses diligently inquired about the goat of the sin offering, and, behold, it was burned. He was angry with Eleazar and with Ithamar, the sons of Aaron who were left, saying, ^16
+
+**17** “Why haven’t you eaten the sin offering in the place of the sanctuary, since it is most holy, and he has given it to you to bear the iniquity of the congregation, to make atonement for them before the LORD? ^17
+
+**18** Behold, its blood was not brought into the inner part of the sanctuary. You certainly should have eaten it in the sanctuary, as I commanded.” ^18
+
+**19** Aaron spoke to Moses, “Behold, today they have offered their sin offering and their burnt offering before the LORD; and such things as these have happened to me. If I had eaten the sin offering today, would it have been pleasing in the LORD’s sight?” ^19
+
+**20** When Moses heard that, it was pleasing in his sight. ^20
