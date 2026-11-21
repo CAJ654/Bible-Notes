@@ -8,6 +8,14 @@ tags:
   - ot/minor-prophets
 ---
 
+## Chapters
+
+**KJV:** [[Habakkuk 1 - KJV|1]] · [[Habakkuk 2 - KJV|2]] · [[Habakkuk 3 - KJV|3]]
+
+**BSB:** [[Habakkuk 1 - BSB|1]] · [[Habakkuk 2 - BSB|2]] · [[Habakkuk 3 - BSB|3]]
+
+**WEBU:** [[Habakkuk 1 - WEBU|1]] · [[Habakkuk 2 - WEBU|2]] · [[Habakkuk 3 - WEBU|3]]
+
 *Previous Book (Tanakh)*
 [[Nahum (Nachum)]]
 

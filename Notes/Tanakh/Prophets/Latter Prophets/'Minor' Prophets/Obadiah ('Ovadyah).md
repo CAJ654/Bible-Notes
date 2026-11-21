@@ -8,6 +8,14 @@ tags:
   - ot/minor-prophets
 ---
 
+## Chapters
+
+**KJV:** [[Obadiah 1 - KJV|1]]
+
+**BSB:** [[Obadiah 1 - BSB|1]]
+
+**WEBU:** [[Obadiah 1 - WEBU|1]]
+
 *Previous Book (Tanakh)*
 [[Amos ('Amos)]]
 

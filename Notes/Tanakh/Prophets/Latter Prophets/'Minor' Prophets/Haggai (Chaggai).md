@@ -8,6 +8,14 @@ tags:
   - ot/minor-prophets
 ---
 
+## Chapters
+
+**KJV:** [[Haggai 1 - KJV|1]] · [[Haggai 2 - KJV|2]]
+
+**BSB:** [[Haggai 1 - BSB|1]] · [[Haggai 2 - BSB|2]]
+
+**WEBU:** [[Haggai 1 - WEBU|1]] · [[Haggai 2 - WEBU|2]]
+
 *Previous Book (Tanakh)*
 [[Zephaniah (Tzefanyah)]]
 

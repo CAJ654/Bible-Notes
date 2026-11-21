@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Tanakh/Writings/2 Chronicles (Divrei-HamYamim Bet).md",
+                "file": "Notes/Tanakh/Prophets/Earlier Prophets/Judges (Shoftim).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Chronicles (Divrei-HamYamim Bet)"
+              "title": "Judges (Shoftim)"
             }
           },
           {
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,18 +228,25 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "a74b863f45c13bc4",
+  "active": "65fba4d2c5cd5c4a",
   "lastOpenFiles": [
+    "Notes/Tanakh/Prophets/Earlier Prophets/Judges (Shoftim).md",
+    "Notes/Tanakh/Prophets/Earlier Prophets/Joshua (Yehoshua).md",
     "Notes/Tanakh/Tanakh Table of Contents.md",
-    "sortspec.md",
+    "Notes/Tanakh/Torah/Deuteronomy (D'varim).md",
+    "Notes/Tanakh/Torah/Numbers (B'midbar).md",
+    "Notes/Tanakh/Torah/Leviticus (Vayikra).md",
+    "Notes/Tanakh/Torah/Exodus (Sh'mot).md",
+    "Notes/Tanakh/Torah/Genesis (B'resheet).md",
+    "Scripture - English webu readaloud version/Genesis/Genesis 50 - WEBU.md",
     "Notes/Tanakh/Writings/2 Chronicles (Divrei-HamYamim Bet).md",
+    "sortspec.md",
     "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Haggai (Chaggai).md",
     "Notes/Tanakh/Prophets/Latter Prophets/'Greater' Prophets/Untitled.md",
     "Notes/Tanakh/Prophets/Latter Prophets/'Greater' Prophets/Jeremiah (Yirmiyahu).md",
     "Notes/Tanakh/Prophets/Prophets Table of Contents.md",
     "Notes/Tanakh/Prophets/Earlier Prophets/Earlier Prophets Table of Contents.md",
     "Notes/Tanakh/Torah/Torah Table of Contents.md",
-    "Notes/Tanakh/Torah/Genesis (B'resheet).md",
     "Notes/Brit-Chadashah/Letters of Paul (Sha'ul)/1 Corinthians.md",
     "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Obadiah ('Ovadyah).md",
     "Scripture - English webu readaloud version/Genesis",
@@ -250,13 +257,6 @@
     "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Micah (Mikhah).md",
     "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Amos ('Amos).md",
     "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Joel (Yo'el).md",
-    "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Hosea (Hoshea).md",
-    "Notes/Tanakh/Prophets/Latter Prophets/'Greater' Prophets/Ezekiel (Yechezkel).md",
-    "Notes/Tanakh/Prophets/Latter Prophets/'Greater' Prophets/Isaiah (Yeshayahu).md",
-    "Notes/Tanakh/Prophets/Earlier Prophets/2 Kings (Melachim Bet).md",
-    "Notes/Tanakh/Prophets/Earlier Prophets/1 Kings (Melachim Alef).md",
-    "Notes/Tanakh/Prophets/Earlier Prophets/1 Samuel (Shmuel Alef).md",
-    "Notes/Tanakh/Prophets/Earlier Prophets/Judges (Shoftim).md",
     "Scripture - English webu readaloud version/signature.txt.asc",
     "Scripture - English webu readaloud version/keys.asc",
     "Scripture - English webu readaloud version/engwebu_096_REV_22_read.txt",

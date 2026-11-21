@@ -78,14 +78,14 @@ Wisdom & Poetry
 	[[Proverbs (Mishlei)]]
 	[[Ecclesiastes (Kohelet)]]
 	[[Song of Songs (Shir Hashirim)]]
-	Prophets
-	    'Major' Prophets
+Prophets
+    'Major' Prophets
 			[[Isaiah (Yeshayahu)]]
 			[[Jeremiah (Yirmiyahu)]]
 			[[Lamentations (Eichah)]]
 			[[Ezekiel (Yechezkel)]]
 			[[Daniel (Dani'el)]]
-		'Minor' Prophets
+	'Minor' Prophets
 	        [[Hosea (Hoshea)]]
 			[[Joel (Yo'el)]]
 			[[Amos ('Amos)]]
