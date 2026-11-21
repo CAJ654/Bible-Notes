@@ -6,6 +6,7 @@ ot_order: 24
 tags:
   - tanakh/prophets/latter
   - ot/major-prophets
+status: unread
 ---
 
 ## Chapters

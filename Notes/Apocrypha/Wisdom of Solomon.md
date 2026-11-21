@@ -3,6 +3,7 @@ author: unknown
 chapters: 19
 tags:
   - apocrypha/wisdom
+status: unread
 ---
 
 ## Chapters

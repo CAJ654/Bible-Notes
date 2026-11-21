@@ -3,6 +3,7 @@ author: unknown
 chapters: 18
 tags:
   - apocrypha/philosophical
+status: unread
 ---
 
 ## Chapters

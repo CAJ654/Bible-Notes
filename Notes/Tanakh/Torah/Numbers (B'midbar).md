@@ -6,6 +6,7 @@ ot_order: 4
 tags:
   - tanakh/torah
   - ot/pentateuch
+status: unread
 ---
 
 ## Chapters

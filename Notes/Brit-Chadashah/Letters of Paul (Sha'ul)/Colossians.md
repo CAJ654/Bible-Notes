@@ -1,6 +1,9 @@
 ---
 author: Paul/Sha'ul
 chapters: 4
+status: unread
+tags:
+  - nt/paul
 ---
 
 ## Chapters

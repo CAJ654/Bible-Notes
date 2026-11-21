@@ -1,6 +1,9 @@
 ---
 author: James/Ya'akov
 chapters: 5
+status: unread
+tags:
+  - nt/epistles
 ---
 
 ## Chapters

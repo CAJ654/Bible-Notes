@@ -6,6 +6,7 @@ ot_order: 6
 tags:
   - tanakh/prophets/earlier
   - ot/historical
+status: unread
 ---
 
 ## Chapters

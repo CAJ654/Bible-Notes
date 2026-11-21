@@ -1,0 +1,32 @@
+filters:
+  and:
+    - 'chapters != ""'
+views:
+  - type: table
+    name: All books
+    order:
+      - file.name
+      - author
+      - chapters
+      - status
+      - file.tags
+    sort:
+      - property: status
+        direction: ASC
+  - type: table
+    name: Unread
+    filters:
+      and:
+        - 'status == "unread"'
+    order:
+      - file.name
+      - chapters
+      - file.tags
+  - type: table
+    name: In progress
+    filters:
+      and:
+        - 'status == "studying"'
+    order:
+      - file.name
+      - chapters

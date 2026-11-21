@@ -6,6 +6,7 @@ ot_order: 21
 tags:
   - tanakh/writings
   - ot/wisdom-poetry
+status: unread
 ---
 
 ## Chapters

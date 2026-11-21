@@ -3,6 +3,7 @@ author: Baruch
 chapters: 6
 tags:
   - apocrypha/prophetic
+status: unread
 ---
 
 ## Chapters

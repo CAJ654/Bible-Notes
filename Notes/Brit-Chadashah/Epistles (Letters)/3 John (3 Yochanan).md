@@ -1,6 +1,9 @@
 ---
 author: John/Yochanan
 chapters: 1
+status: unread
+tags:
+  - nt/epistles
 ---
 
 ## Chapters

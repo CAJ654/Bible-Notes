@@ -77,3 +77,5 @@
 	Revelation: [[Revelation (Revelation of Yeshua to Yochanan)]]
 
 [[Apocrypha Table of Contents]]
+
+[[Study Progress.base|Study Progress]] (set `status:` on a book note to unread / studying / studied)

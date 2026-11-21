@@ -1,6 +1,9 @@
 ---
 author: John/Yochanan
 chapters: 22
+status: unread
+tags:
+  - nt/revelation
 ---
 
 ## Chapters

@@ -1,6 +1,9 @@
 ---
 author: Luke
 chapters: 24
+status: unread
+tags:
+  - nt/gospels
 ---
 
 ## Chapters

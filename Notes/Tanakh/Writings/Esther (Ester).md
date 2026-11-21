@@ -6,6 +6,7 @@ ot_order: 17
 tags:
   - tanakh/writings
   - ot/historical
+status: unread
 ---
 
 ## Chapters

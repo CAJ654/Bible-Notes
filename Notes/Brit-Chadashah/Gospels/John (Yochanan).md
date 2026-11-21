@@ -1,6 +1,9 @@
 ---
 author: John/Yochanan
 chapters: 21
+status: unread
+tags:
+  - nt/gospels
 ---
 
 ## Chapters

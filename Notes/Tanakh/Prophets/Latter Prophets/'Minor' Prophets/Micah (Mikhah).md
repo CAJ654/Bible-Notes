@@ -6,6 +6,7 @@ ot_order: 33
 tags:
   - tanakh/prophets/latter
   - ot/minor-prophets
+status: unread
 ---
 
 ## Chapters

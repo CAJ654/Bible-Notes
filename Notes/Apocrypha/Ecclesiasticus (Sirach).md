@@ -3,6 +3,7 @@ author: Jesus ben Sira
 chapters: 51
 tags:
   - apocrypha/wisdom
+status: unread
 ---
 
 ## Chapters

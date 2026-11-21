@@ -1,6 +1,9 @@
 ---
 author: Jude/Y'hudah
 chapters: 1
+status: unread
+tags:
+  - nt/epistles
 ---
 
 ## Chapters
