@@ -1,0 +1,46 @@
+---
+book: 2 Chronicles
+chapter: 2
+version: WEBU
+---
+# 2 Chronicles 2 (WEBU)
+
+← [[2 Chronicles 1 - WEBU]] | [[2 Chronicles 3 - WEBU]] →
+
+**1** Now Solomon decided to build a house for the LORD’s name, and a house for his kingdom. ^1
+
+**2** Solomon counted out seventy thousand men to bear burdens, eighty thousand men who were stone cutters in the mountains, and three thousand six hundred to oversee them. ^2
+
+**3** Solomon sent to Huram the king of Tyre, saying, “As you dealt with David my father, and sent him cedars to build him a house in which to dwell, so deal with me. ^3
+
+**4** Behold, I am about to build a house for the name of the LORD my God, to dedicate it to him, to burn before him incense of sweet spices, for the continual show bread, and for the burnt offerings morning and evening, on the Sabbaths, on the new moons, and on the set feasts of the LORD our God. This is an ordinance forever to Israel. ^4
+
+**5** “The house which I am building will be great, for our God is greater than all gods. ^5
+
+**6** But who is able to build him a house, since heaven and the heaven of heavens can’t contain him? Who am I then, that I should build him a house, except just to burn incense before him? ^6
+
+**7** “Now therefore send me a man skillful to work in gold, in silver, in bronze, in iron, and in purple, crimson, and blue, and who knows how to engrave engravings, to be with the skillful men who are with me in Judah and in Jerusalem, whom David my father provided. ^7
+
+**8** “Send me also cedar trees, cypress trees, and algum trees out of Lebanon, for I know that your servants know how to cut timber in Lebanon. Behold, my servants will be with your servants, ^8
+
+**9** even to prepare timber in abundance for me; for the house which I am about to build will be great and wonderful. ^9
+
+**10** Behold, I will give to your servants, the cutters who cut timber, twenty thousand cors of beaten wheat, twenty thousand baths of barley, twenty thousand baths of wine, and twenty thousand baths of oil.” ^10
+
+**11** Then Huram the king of Tyre answered in writing, which he sent to Solomon, “Because the LORD loves his people, he has made you king over them.” ^11
+
+**12** Huram continued, “Blessed be the LORD, the God of Israel, who made heaven and earth, who has given to David the king a wise son, endowed with discretion and understanding, who would build a house for the LORD and a house for his kingdom. ^12
+
+**13** Now I have sent a skillful man, endowed with understanding, Huram-abi, ^13
+
+**14** the son of a woman of the daughters of Dan; and his father was a man of Tyre. He is skillful to work in gold, in silver, in bronze, in iron, in stone, in timber, in purple, in blue, in fine linen, and in crimson, also to engrave any kind of engraving and to devise any device, that there may be a place appointed to him with your skillful men, and with the skillful men of my lord David your father. ^14
+
+**15** “Now therefore, the wheat, the barley, the oil, and the wine which my lord has spoken of, let him send to his servants; ^15
+
+**16** and we will cut wood out of Lebanon, as much as you need. We will bring it to you in rafts by sea to Joppa; then you shall carry it up to Jerusalem.” ^16
+
+**17** Solomon counted all the foreigners who were in the land of Israel, after the census with which David his father had counted them; and they found one hundred fifty-three thousand six hundred. ^17
+
+**18** He set seventy thousand of them to bear burdens, eighty thousand who were stone cutters in the mountains, and three thousand six hundred overseers to assign the people their work. ^18
+
+← [[2 Chronicles 1 - WEBU]] | [[2 Chronicles 3 - WEBU]] →

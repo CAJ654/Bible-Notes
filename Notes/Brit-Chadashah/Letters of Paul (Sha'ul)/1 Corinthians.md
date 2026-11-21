@@ -4,7 +4,6 @@ chapters: 16
 ---
 
 
-
 *Previous Book*
 [[Romans]]
 

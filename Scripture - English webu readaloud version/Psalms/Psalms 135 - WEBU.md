@@ -1,0 +1,52 @@
+---
+book: Psalms
+chapter: 135
+version: WEBU
+---
+# Psalms 135 (WEBU)
+
+← [[Psalms 134 - WEBU]] | [[Psalms 136 - WEBU]] →
+
+**1** Praise the LORD! Praise the LORD’s name! Praise him, you servants of the LORD, ^1
+
+**2** you who stand in the LORD’s house, in the courts of our God’s house. ^2
+
+**3** Praise the LORD, for the LORD is good. Sing praises to his name, for that is pleasant. ^3
+
+**4** For the LORD has chosen Jacob for himself, Israel for his own possession. ^4
+
+**5** For I know that the LORD is great, that our Lord is above all gods. ^5
+
+**6** Whatever the LORD pleased, that he has done, in heaven and in earth, in the seas and in all deeps. ^6
+
+**7** He causes the clouds to rise from the ends of the earth. He makes lightnings with the rain. He brings the wind out of his treasuries. ^7
+
+**8** He struck the firstborn of Egypt, both of man and animal. ^8
+
+**9** He sent signs and wonders into the middle of you, Egypt, on Pharaoh, and on all his servants. ^9
+
+**10** He struck many nations, and killed mighty kings— ^10
+
+**11** Sihon king of the Amorites, Og king of Bashan, and all the kingdoms of Canaan— ^11
+
+**12** and gave their land for a heritage, a heritage to Israel, his people. ^12
+
+**13** Your name, LORD, endures forever; your renown, LORD, throughout all generations. ^13
+
+**14** For the LORD will judge his people and have compassion on his servants. ^14
+
+**15** The idols of the nations are silver and gold, the work of men’s hands. ^15
+
+**16** They have mouths, but they can’t speak. They have eyes, but they can’t see. ^16
+
+**17** They have ears, but they can’t hear, neither is there any breath in their mouths. ^17
+
+**18** Those who make them will be like them, yes, everyone who trusts in them. ^18
+
+**19** House of Israel, praise the LORD! House of Aaron, praise the LORD! ^19
+
+**20** House of Levi, praise the LORD! You who fear the LORD, praise the LORD! ^20
+
+**21** Blessed be the LORD from Zion, who dwells in Jerusalem. Praise the LORD! ^21
+
+← [[Psalms 134 - WEBU]] | [[Psalms 136 - WEBU]] →

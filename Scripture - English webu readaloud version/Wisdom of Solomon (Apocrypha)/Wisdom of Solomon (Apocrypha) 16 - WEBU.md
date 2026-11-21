@@ -1,0 +1,68 @@
+---
+book: Wisdom of Solomon (Apocrypha)
+chapter: 16
+version: WEBU
+---
+# Wisdom of Solomon (Apocrypha) 16 (WEBU)
+
+← [[Wisdom of Solomon (Apocrypha) 15 - WEBU]] | [[Wisdom of Solomon (Apocrypha) 17 - WEBU]] →
+
+**1** For this cause, they were deservedly punished through creatures like those which they worship, and tormented through a multitude of vermin. ^1
+
+**2** Instead of this punishment, you, giving benefits to your people, prepared quails for food, a delicacy to satisfy the desire of their appetite, ^2
+
+**3** to the end that your enemies, desiring food, might for the hideousness of the creatures sent among them, loathe even the necessary appetite; but these, your people, having for a short time suffered lack, might even partake of delicacies. ^3
+
+**4** For it was necessary that inescapable lack should come upon those oppressors, but that to these it should only be showed how their enemies were tormented. ^4
+
+**5** For even when terrible raging of wild beasts came upon your people, and they were perishing by the bites of crooked serpents, your wrath didn’t continue to the uttermost; ^5
+
+**6** but for admonition were they troubled for a short time, having a token of salvation to put them in remembrance of the commandment of your law; ^6
+
+**7** for he who turned toward it was not saved because of that which was seen, but because of you, the Savior of all. ^7
+
+**8** Yes, and in this you persuaded our enemies that you are he who delivers out of every evil. ^8
+
+**9** For the bites of locusts and flies truly killed them. No healing for their life was found, because they were worthy to be punished by such things. ^9
+
+**10** But your children weren’t overcome by the very fangs of venomous dragons, for your mercy passed by where they were and healed them. ^10
+
+**11** For they were bitten to put them in remembrance of your oracles, and were quickly saved, lest, falling into deep forgetfulness, they should become unable to respond to your kindness. ^11
+
+**12** For truly it was neither herb nor poultice that cured them, but your word, O Lord, which heals all people. ^12
+
+**13** For you have authority over life and death, and you lead down to the gates of Hades, and lead up again. ^13
+
+**14** But though a man kills by his wickedness, he can’t retrieve the spirit that has departed or release the imprisoned soul. ^14
+
+**15** But it is not possible to escape your hand; ^15
+
+**16** for ungodly men, refusing to know you, were scourged in the strength of your arm, pursued with strange rains and hails and relentless storms, and utterly consumed with fire. ^16
+
+**17** For, what was most marvelous, in the water which quenches all things, the fire burned hotter; for the world fights for the righteous. ^17
+
+**18** For at one time the flame was restrained, that it might not burn up the creatures sent against the ungodly, but that these themselves as they looked might see that they were chased by the judgment of God. ^18
+
+**19** At another time even in the midst of water it burns more intensely than fire, that it may destroy the produce of an unrighteous land. ^19
+
+**20** Instead of these things, you gave your people angels’ food to eat, and you provided ready-to-eat bread for them from heaven without toil, having the virtue of every pleasant flavor, and agreeable to every taste. ^20
+
+**21** For your nature showed your sweetness toward your children, while that bread, serving the desire of the eater, changed itself according to every man’s choice. ^21
+
+**22** But snow and ice endured fire, and didn’t melt, that people might know that fire was destroying the fruits of the enemies, burning in the hail and flashing in the rains; ^22
+
+**23** and that this fire, again, in order that righteous people may be nourished, has even forgotten its own power. ^23
+
+**24** For the creation, ministering to you, its maker, strains its force against the unrighteous for punishment and in kindness, slackens it on behalf of those who trust in you. ^24
+
+**25** Therefore at that time also, converting itself into all forms, it ministered to your all-nourishing bounty, according to the desire of those who had need, ^25
+
+**26** that your children, whom you loved, O Lord, might learn that it is not the growth of crops that nourishes a man, but that your word preserves those who trust you. ^26
+
+**27** For that which was not destroyed by fire, melted away when it was simply warmed by a faint sunbeam, ^27
+
+**28** that it might be known that we must rise before the sun to give you thanks, and must pray to you at the dawning of the light; ^28
+
+**29** for the hope of the unthankful will melt as the winter’s hoar frost, and will flow away as water that has no use. ^29
+
+← [[Wisdom of Solomon (Apocrypha) 15 - WEBU]] | [[Wisdom of Solomon (Apocrypha) 17 - WEBU]] →

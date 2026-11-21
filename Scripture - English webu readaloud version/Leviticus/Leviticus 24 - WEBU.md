@@ -1,0 +1,56 @@
+---
+book: Leviticus
+chapter: 24
+version: WEBU
+---
+# Leviticus 24 (WEBU)
+
+← [[Leviticus 23 - WEBU]] | [[Leviticus 25 - WEBU]] →
+
+**1** The LORD spoke to Moses, saying, ^1
+
+**2** “Command the children of Israel, that they bring to you pure olive oil beaten for the light, to cause a lamp to burn continually. ^2
+
+**3** Outside of the veil of the Testimony, in the Tent of Meeting, Aaron shall keep it in order from evening to morning before the LORD continually. It shall be a statute forever throughout your generations. ^3
+
+**4** He shall keep in order the lamps on the pure gold lamp stand before the LORD continually. ^4
+
+**5** “You shall take fine flour, and bake twelve cakes of it: two tenths of an ephah shall be in one cake. ^5
+
+**6** You shall set them in two rows, six on a row, on the pure gold table before the LORD. ^6
+
+**7** You shall put pure frankincense on each row, that it may be to the bread for a memorial, even an offering made by fire to the LORD. ^7
+
+**8** Every Sabbath day he shall set it in order before the LORD continually. It is an everlasting covenant on the behalf of the children of Israel. ^8
+
+**9** It shall be for Aaron and his sons. They shall eat it in a holy place; for it is most holy to him of the offerings of the LORD made by fire by a perpetual statute.” ^9
+
+**10** The son of an Israelite woman, whose father was an Egyptian, went out among the children of Israel; and the son of the Israelite woman and a man of Israel strove together in the camp. ^10
+
+**11** The son of the Israelite woman blasphemed the Name, and cursed; and they brought him to Moses. His mother’s name was Shelomith, the daughter of Dibri, of the tribe of Dan. ^11
+
+**12** They put him in custody until the LORD’s will should be declared to them. ^12
+
+**13** The LORD spoke to Moses, saying, ^13
+
+**14** “Bring him who cursed out of the camp; and let all who heard him lay their hands on his head, and let all the congregation stone him. ^14
+
+**15** You shall speak to the children of Israel, saying, ‘Whoever curses his God shall bear his sin. ^15
+
+**16** He who blasphemes the LORD’s name, he shall surely be put to death. All the congregation shall certainly stone him. The foreigner as well as the native-born shall be put to death when he blasphemes the Name. ^16
+
+**17** “‘He who strikes any man mortally shall surely be put to death. ^17
+
+**18** He who strikes an animal mortally shall make it good, life for life. ^18
+
+**19** If anyone injures his neighbor, it shall be done to him as he has done: ^19
+
+**20** fracture for fracture, eye for eye, tooth for tooth. It shall be done to him as he has injured someone. ^20
+
+**21** He who kills an animal shall make it good; and he who kills a man shall be put to death. ^21
+
+**22** You shall have one kind of law for the foreigner as well as the native-born; for I am the LORD your God.’” ^22
+
+**23** Moses spoke to the children of Israel; and they brought him who had cursed out of the camp, and stoned him with stones. The children of Israel did as the LORD commanded Moses. ^23
+
+← [[Leviticus 23 - WEBU]] | [[Leviticus 25 - WEBU]] →

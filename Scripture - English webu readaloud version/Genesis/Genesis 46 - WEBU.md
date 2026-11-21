@@ -1,0 +1,78 @@
+---
+book: Genesis
+chapter: 46
+version: WEBU
+---
+# Genesis 46 (WEBU)
+
+← [[Genesis 45 - WEBU]] | [[Genesis 47 - WEBU]] →
+
+**1** Israel traveled with all that he had, and came to Beersheba, and offered sacrifices to the God of his father, Isaac. ^1
+
+**2** God spoke to Israel in the visions of the night, and said, “Jacob, Jacob!” He said, “Here I am.” ^2
+
+**3** He said, “I am God, the God of your father. Don’t be afraid to go down into Egypt, for there I will make of you a great nation. ^3
+
+**4** I will go down with you into Egypt. I will also surely bring you up again. Joseph’s hand will close your eyes.” ^4
+
+**5** Jacob rose up from Beersheba, and the sons of Israel carried Jacob, their father, their little ones, and their wives, in the wagons which Pharaoh had sent to carry him. ^5
+
+**6** They took their livestock, and their goods, which they had gotten in the land of Canaan, and came into Egypt—Jacob, and all his offspring with him, ^6
+
+**7** his sons, and his sons’ sons with him, his daughters, and his sons’ daughters, and he brought all his offspring with him into Egypt. ^7
+
+**8** These are the names of the children of Israel, who came into Egypt, Jacob and his sons: Reuben, Jacob’s firstborn. ^8
+
+**9** The sons of Reuben: Hanoch, Pallu, Hezron, and Carmi. ^9
+
+**10** The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul the son of a Canaanite woman. ^10
+
+**11** The sons of Levi: Gershon, Kohath, and Merari. ^11
+
+**12** The sons of Judah: Er, Onan, Shelah, Perez, and Zerah; but Er and Onan died in the land of Canaan. The sons of Perez were Hezron and Hamul. ^12
+
+**13** The sons of Issachar: Tola, Puvah, Iob, and Shimron. ^13
+
+**14** The sons of Zebulun: Sered, Elon, and Jahleel. ^14
+
+**15** These are the sons of Leah, whom she bore to Jacob in Paddan Aram, with his daughter Dinah. All the souls of his sons and his daughters were thirty-three. ^15
+
+**16** The sons of Gad: Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli. ^16
+
+**17** The sons of Asher: Imnah, Ishvah, Ishvi, Beriah, and Serah their sister. The sons of Beriah: Heber and Malchiel. ^17
+
+**18** These are the sons of Zilpah, whom Laban gave to Leah, his daughter, and these she bore to Jacob, even sixteen souls. ^18
+
+**19** The sons of Rachel, Jacob’s wife: Joseph and Benjamin. ^19
+
+**20** To Joseph in the land of Egypt were born Manasseh and Ephraim, whom Asenath, the daughter of Potiphera, priest of On, bore to him. ^20
+
+**21** The sons of Benjamin: Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard. ^21
+
+**22** These are the sons of Rachel, who were born to Jacob: all the souls were fourteen. ^22
+
+**23** The son of Dan: Hushim. ^23
+
+**24** The sons of Naphtali: Jahzeel, Guni, Jezer, and Shillem. ^24
+
+**25** These are the sons of Bilhah, whom Laban gave to Rachel, his daughter, and these she bore to Jacob: all the souls were seven. ^25
+
+**26** All the souls who came with Jacob into Egypt, who were his direct offspring, in addition to Jacob’s sons’ wives, all the souls were sixty-six. ^26
+
+**27** The sons of Joseph, who were born to him in Egypt, were two souls. All the souls of the house of Jacob, who came into Egypt, were seventy. ^27
+
+**28** Jacob sent Judah before him to Joseph, to show the way before him to Goshen, and they came into the land of Goshen. ^28
+
+**29** Joseph prepared his chariot, and went up to meet Israel, his father, in Goshen. He presented himself to him, and fell on his neck, and wept on his neck a good while. ^29
+
+**30** Israel said to Joseph, “Now let me die, since I have seen your face, that you are still alive.” ^30
+
+**31** Joseph said to his brothers, and to his father’s house, “I will go up, and speak with Pharaoh, and will tell him, ‘My brothers, and my father’s house, who were in the land of Canaan, have come to me. ^31
+
+**32** These men are shepherds, for they have been keepers of livestock, and they have brought their flocks, and their herds, and all that they have.’ ^32
+
+**33** It will happen, when Pharaoh summons you, and will say, ‘What is your occupation?’ ^33
+
+**34** that you shall say, ‘Your servants have been keepers of livestock from our youth even until now, both we, and our fathers:’ that you may dwell in the land of Goshen; for every shepherd is an abomination to the Egyptians.” ^34
+
+← [[Genesis 45 - WEBU]] | [[Genesis 47 - WEBU]] →

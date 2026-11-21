@@ -1,0 +1,104 @@
+---
+book: 1 Chronicles
+chapter: 11
+version: WEBU
+---
+# 1 Chronicles 11 (WEBU)
+
+← [[1 Chronicles 10 - WEBU]] | [[1 Chronicles 12 - WEBU]] →
+
+**1** Then all Israel gathered themselves to David to Hebron, saying, “Behold, we are your bone and your flesh. ^1
+
+**2** In times past, even when Saul was king, it was you who led out and brought in Israel. The LORD your God said to you, ‘You shall be shepherd of my people Israel, and you shall be prince over my people Israel.’” ^2
+
+**3** So all the elders of Israel came to the king to Hebron; and David made a covenant with them in Hebron before the LORD. They anointed David king over Israel, according to the LORD’s word by Samuel. ^3
+
+**4** David and all Israel went to Jerusalem (also called Jebus); and the Jebusites, the inhabitants of the land, were there. ^4
+
+**5** The inhabitants of Jebus said to David, “You will not come in here!” Nevertheless David took the stronghold of Zion. The same is David’s city. ^5
+
+**6** David had said, “Whoever strikes the Jebusites first shall be chief and captain.” Joab the son of Zeruiah went up first, and was made chief. ^6
+
+**7** David lived in the stronghold; therefore they called it David’s city. ^7
+
+**8** He built the city all around, from Millo even around; and Joab repaired the rest of the city. ^8
+
+**9** David grew greater and greater, for the LORD of Armies was with him. ^9
+
+**10** Now these are the chief of the mighty men whom David had, who showed themselves strong with him in his kingdom, together with all Israel, to make him king, according to the LORD’s word concerning Israel. ^10
+
+**11** This is the number of the mighty men whom David had: Jashobeam, the son of a Hachmonite, the chief of the thirty; he lifted up his spear against three hundred and killed them at one time. ^11
+
+**12** After him was Eleazar the son of Dodo, the Ahohite, who was one of the three mighty men. ^12
+
+**13** He was with David at Pasdammim, and there the Philistines were gathered together to battle, where there was a plot of ground full of barley; and the people fled from before the Philistines. ^13
+
+**14** They stood in the middle of the plot, defended it, and killed the Philistines; and the LORD saved them by a great victory. ^14
+
+**15** Three of the thirty chief men went down to the rock to David, into the cave of Adullam; and the army of the Philistines were encamped in the valley of Rephaim. ^15
+
+**16** David was then in the stronghold, and the garrison of the Philistines was in Bethlehem at that time. ^16
+
+**17** David longed, and said, “Oh, that someone would give me water to drink from the well of Bethlehem, which is by the gate!” ^17
+
+**18** The three broke through the army of the Philistines, and drew water out of the well of Bethlehem that was by the gate, took it, and brought it to David; but David would not drink any of it, but poured it out to the LORD, ^18
+
+**19** and said, “My God forbid me, that I should do this! Shall I drink the blood of these men who have put their lives in jeopardy?” For they risked their lives to bring it. Therefore he would not drink it. The three mighty men did these things. ^19
+
+**20** Abishai, the brother of Joab, was chief of the three; for he lifted up his spear against three hundred and killed them, and had a name among the three. ^20
+
+**21** Of the three, he was more honorable than the two, and was made their captain; however he wasn’t included in the three. ^21
+
+**22** Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done mighty deeds, killed the two sons of Ariel of Moab. He also went down and killed a lion in the middle of a pit on a snowy day. ^22
+
+**23** He killed an Egyptian, a man of great stature, five cubits high. In the Egyptian’s hand was a spear like a weaver’s beam; and he went down to him with a staff, plucked the spear out of the Egyptian’s hand, and killed him with his own spear. ^23
+
+**24** Benaiah the son of Jehoiada did these things and had a name among the three mighty men. ^24
+
+**25** Behold, he was more honorable than the thirty, but he didn’t attain to the three; and David set him over his guard. ^25
+
+**26** The mighty men of the armies also include Asahel the brother of Joab, Elhanan the son of Dodo of Bethlehem, ^26
+
+**27** Shammoth the Harorite, Helez the Pelonite, ^27
+
+**28** Ira the son of Ikkesh the Tekoite, Abiezer the Anathothite, ^28
+
+**29** Sibbecai the Hushathite, Ilai the Ahohite, ^29
+
+**30** Maharai the Netophathite, Heled the son of Baanah the Netophathite, ^30
+
+**31** Ithai the son of Ribai of Gibeah of the children of Benjamin, Benaiah the Pirathonite, ^31
+
+**32** Hurai of the brooks of Gaash, Abiel the Arbathite, ^32
+
+**33** Azmaveth the Baharumite, Eliahba the Shaalbonite, ^33
+
+**34** the sons of Hashem the Gizonite, Jonathan the son of Shagee the Hararite, ^34
+
+**35** Ahiam the son of Sacar the Hararite, Eliphal the son of Ur, ^35
+
+**36** Hepher the Mecherathite, Ahijah the Pelonite, ^36
+
+**37** Hezro the Carmelite, Naarai the son of Ezbai, ^37
+
+**38** Joel the brother of Nathan, Mibhar the son of Hagri, ^38
+
+**39** Zelek the Ammonite, Naharai the Berothite (the armor bearer of Joab the son of Zeruiah), ^39
+
+**40** Ira the Ithrite, Gareb the Ithrite, ^40
+
+**41** Uriah the Hittite, Zabad the son of Ahlai, ^41
+
+**42** Adina the son of Shiza the Reubenite (a chief of the Reubenites), and thirty with him, ^42
+
+**43** Hanan the son of Maacah, Joshaphat the Mithnite, ^43
+
+**44** Uzzia the Ashterathite, Shama and Jeiel the sons of Hotham the Aroerite, ^44
+
+**45** Jediael the son of Shimri, and Joha his brother, the Tizite, ^45
+
+**46** Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite, ^46
+
+**47** Eliel, Obed, and Jaasiel the Mezobaite. ^47
+
+← [[1 Chronicles 10 - WEBU]] | [[1 Chronicles 12 - WEBU]] →

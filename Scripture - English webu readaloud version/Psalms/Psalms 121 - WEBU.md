@@ -1,0 +1,26 @@
+---
+book: Psalms
+chapter: 121
+version: WEBU
+---
+# Psalms 121 (WEBU)
+
+← [[Psalms 120 - WEBU]] | [[Psalms 122 - WEBU]] →
+
+**1** A Song of Ascents. I will lift up my eyes to the hills. Where does my help come from? ^1
+
+**2** My help comes from the LORD, who made heaven and earth. ^2
+
+**3** He will not allow your foot to be moved. He who keeps you will not slumber. ^3
+
+**4** Behold, he who keeps Israel will neither slumber nor sleep. ^4
+
+**5** The LORD is your keeper. The LORD is your shade on your right hand. ^5
+
+**6** The sun will not harm you by day, nor the moon by night. ^6
+
+**7** The LORD will keep you from all evil. He will keep your soul. ^7
+
+**8** The LORD will keep your going out and your coming in, from this time forward, and forever more. ^8
+
+← [[Psalms 120 - WEBU]] | [[Psalms 122 - WEBU]] →

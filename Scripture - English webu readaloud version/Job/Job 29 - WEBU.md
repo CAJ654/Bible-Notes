@@ -1,0 +1,60 @@
+---
+book: Job
+chapter: 29
+version: WEBU
+---
+# Job 29 (WEBU)
+
+← [[Job 28 - WEBU]] | [[Job 30 - WEBU]] →
+
+**1** Job again took up his parable, and said, ^1
+
+**2** “Oh that I were as in the months of old, as in the days when God watched over me; ^2
+
+**3** when his lamp shone on my head, and by his light I walked through darkness, ^3
+
+**4** as I was in my prime, when the friendship of God was in my tent, ^4
+
+**5** when the Almighty was yet with me, and my children were around me, ^5
+
+**6** when my steps were washed with butter, and the rock poured out streams of oil for me, ^6
+
+**7** when I went out to the city gate, when I prepared my seat in the street. ^7
+
+**8** The young men saw me and hid themselves. The aged rose up and stood. ^8
+
+**9** The princes refrained from talking, and laid their hand on their mouth. ^9
+
+**10** The voice of the nobles was hushed, and their tongue stuck to the roof of their mouth. ^10
+
+**11** For when the ear heard me, then it blessed me, and when the eye saw me, it commended me, ^11
+
+**12** because I delivered the poor who cried, and the fatherless also, who had no one to help him, ^12
+
+**13** the blessing of him who was ready to perish came on me, and I caused the widow’s heart to sing for joy. ^13
+
+**14** I put on righteousness, and it clothed me. My justice was as a robe and a diadem. ^14
+
+**15** I was eyes to the blind, and feet to the lame. ^15
+
+**16** I was a father to the needy. I researched the cause of him whom I didn’t know. ^16
+
+**17** I broke the jaws of the unrighteous and plucked the prey out of his teeth. ^17
+
+**18** Then I said, ‘I will die in my own house, I will count my days as the sand. ^18
+
+**19** My root is spread out to the waters. The dew lies all night on my branch. ^19
+
+**20** My glory is fresh in me. My bow is renewed in my hand.’ ^20
+
+**21** “Men listened to me, waited, and kept silence for my counsel. ^21
+
+**22** After my words they didn’t speak again. My speech fell on them. ^22
+
+**23** They waited for me as for the rain. Their mouths drank as with the spring rain. ^23
+
+**24** I smiled on them when they had no confidence. They didn’t reject the light of my face. ^24
+
+**25** I chose out their way, and sat as chief. I lived as a king in the army, as one who comforts the mourners. ^25
+
+← [[Job 28 - WEBU]] | [[Job 30 - WEBU]] →

@@ -1,0 +1,60 @@
+---
+book: Ecclesiasticus
+chapter: 25
+version: WEBU
+---
+# Ecclesiasticus 25 (WEBU)
+
+← [[Ecclesiasticus 24 - WEBU]] | [[Ecclesiasticus 26 - WEBU]] →
+
+**1** I enjoy three things, and they are beautiful before the Lord and men: the agreement of kindred, the friendship of neighbors, and a woman and her husband who walk together in agreement. ^1
+
+**2** But my soul hates three sorts of people, and I am greatly offended at their life: a poor man who is arrogant, a rich man who is a liar, and an old fool who is an adulterer. ^2
+
+**3** If you gathered nothing in your youth, how could you find anything in your old age? ^3
+
+**4** How beautiful a thing is judgment in the gray-haired, and for elders to know good counsel! ^4
+
+**5** How beautiful is the wisdom of old men, and understanding and counsel to men who are in honor! ^5
+
+**6** Much experience is the crown of the aged. Their glory is the fear of the Lord. ^6
+
+**7** There are nine things that I have thought of, and in my heart counted happy, and the tenth I will utter with my tongue: a man who has joy with his children, and a man who lives and sees the fall of his enemies. ^7
+
+**8** Happy is he who dwells with a wife of understanding, he who has not slipped with his tongue, and he who has not served a man who is unworthy of him. ^8
+
+**9** Happy is he who has found prudence, and he who speaks in the ears of those who listen. ^9
+
+**10** How great is he who has found wisdom! Yet there is none greater than one who fears the Lord. ^10
+
+**11** The fear of the Lord surpasses all things. To whom shall he who holds it be likened? ^11
+
+**12** Any wound but a wound of the heart! Any wickedness but the wickedness of a woman! ^12
+
+**13** Any calamity but a calamity from those who hate me! Any vengeance but the vengeance of enemies! ^13
+
+**14** There is no venom worse than a snake’s venom. There is no wrath worse than an enemy’s wrath. ^14
+
+**15** I would rather dwell with a lion and a dragon than keep house with a wicked woman. ^15
+
+**16** The wickedness of a woman changes her appearance, and darkens her countenance like that of a bear. ^16
+
+**17** Her husband will sit among his neighbors, and when he hears it, he sighs bitterly. ^17
+
+**18** All malice is small compared to the malice of a woman. Let the portion of a sinner fall on her. ^18
+
+**19** As walking up a sandy hill is to the feet of the aged, so is a wife full of words to a quiet man. ^19
+
+**20** Don’t be ensnared by a woman’s beauty. Don’t desire a woman for her beauty. ^20
+
+**21** There is anger, impudence, and great reproach if a woman supports her husband. ^21
+
+**22** A wicked woman is abasement of heart, sadness of countenance, and a wounded heart. A woman who won’t make her husband happy is like hands that hang down, and weak knees. ^22
+
+**23** The beginning of sin came from a woman. Because of her, we all die. ^23
+
+**24** Don’t give water an outlet, and don’t give a wicked woman freedom of speech. ^24
+
+**25** If she doesn’t go as you direct, cut her away from your flesh. ^25
+
+← [[Ecclesiasticus 24 - WEBU]] | [[Ecclesiasticus 26 - WEBU]] →

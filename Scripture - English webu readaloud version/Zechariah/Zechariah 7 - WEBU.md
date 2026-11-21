@@ -1,0 +1,38 @@
+---
+book: Zechariah
+chapter: 7
+version: WEBU
+---
+# Zechariah 7 (WEBU)
+
+← [[Zechariah 6 - WEBU]] | [[Zechariah 8 - WEBU]] →
+
+**1** In the fourth year of King Darius, the LORD’s word came to Zechariah in the fourth day of the ninth month, the month of Chislev. ^1
+
+**2** The people of Bethel sent Sharezer and Regem Melech and their men to entreat the LORD’s favor, ^2
+
+**3** and to speak to the priests of the house of the LORD of Armies and to the prophets, saying, “Should I weep in the fifth month, separating myself, as I have done these so many years?” ^3
+
+**4** Then the word of the LORD of Armies came to me, saying, ^4
+
+**5** “Speak to all the people of the land and to the priests, saying, ‘When you fasted and mourned in the fifth and in the seventh month for these seventy years, did you at all fast to me, really to me? ^5
+
+**6** When you eat and when you drink, don’t you eat for yourselves and drink for yourselves? ^6
+
+**7** Aren’t these the words which the LORD proclaimed by the former prophets when Jerusalem was inhabited and in prosperity, and its cities around her, and the South and the lowland were inhabited?’” ^7
+
+**8** The LORD’s word came to Zechariah, saying, ^8
+
+**9** “Thus has the LORD of Armies spoken, saying, ‘Execute true judgment, and show kindness and compassion every man to his brother. ^9
+
+**10** Don’t oppress the widow, the fatherless, the foreigner, nor the poor; and let none of you devise evil against his brother in your heart.’ ^10
+
+**11** But they refused to listen, and turned their backs, and stopped their ears, that they might not hear. ^11
+
+**12** Yes, they made their hearts as hard as flint, lest they might hear the law and the words which the LORD of Armies had sent by his Spirit by the former prophets. Therefore great wrath came from the LORD of Armies. ^12
+
+**13** It has come to pass that, as he called and they refused to listen, so they will call and I will not listen,” said the LORD of Armies; ^13
+
+**14** “but I will scatter them with a whirlwind among all the nations which they have not known. Thus the land was desolate after them, so that no man passed through nor returned; for they made the pleasant land desolate.” ^14
+
+← [[Zechariah 6 - WEBU]] | [[Zechariah 8 - WEBU]] →

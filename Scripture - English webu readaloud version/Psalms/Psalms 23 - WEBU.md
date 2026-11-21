@@ -1,0 +1,22 @@
+---
+book: Psalms
+chapter: 23
+version: WEBU
+---
+# Psalms 23 (WEBU)
+
+← [[Psalms 22 - WEBU]] | [[Psalms 24 - WEBU]] →
+
+**1** A Psalm by David. The LORD is my shepherd; I shall lack nothing. ^1
+
+**2** He makes me lie down in green pastures. He leads me beside still waters. ^2
+
+**3** He restores my soul. He guides me in the paths of righteousness for his name’s sake. ^3
+
+**4** Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me. Your rod and your staff, they comfort me. ^4
+
+**5** You prepare a table before me in the presence of my enemies. You anoint my head with oil. My cup runs over. ^5
+
+**6** Surely goodness and loving kindness shall follow me all the days of my life, and I will dwell in the LORD’s house forever. ^6
+
+← [[Psalms 22 - WEBU]] | [[Psalms 24 - WEBU]] →

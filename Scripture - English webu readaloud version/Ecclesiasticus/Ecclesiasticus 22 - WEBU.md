@@ -1,0 +1,60 @@
+---
+book: Ecclesiasticus
+chapter: 22
+version: WEBU
+---
+# Ecclesiasticus 22 (WEBU)
+
+← [[Ecclesiasticus 21 - WEBU]] | [[Ecclesiasticus 23 - WEBU]] →
+
+**1** A slothful man is compared to a stone that is defiled. Everyone will hiss at him in his disgrace. ^1
+
+**2** A slothful man is compared to the filth of a dunghill. Anyone who picks it up will shake it out of his hand. ^2
+
+**3** An undisciplined child is a disgrace to his father, and a foolish daughter is born to his loss. ^3
+
+**4** A prudent daughter will inherit a husband of her own. She who brings shame is the grief of her father. ^4
+
+**5** She who is arrogant brings shame on father and husband. She will be despised by both of them. ^5
+
+**6** Ill-timed conversation is like music in mourning, but stripes and correction are wisdom in every season. ^6
+
+**7** He who teaches a fool is like one who glues potsherds together, even like one who wakes a sleeper out of a deep sleep. ^7
+
+**8** He who teaches a fool is as one who teaches a man who slumbers. In the end he will say, “What is it?” ^8
+
+**9** Weep for the dead, for he lacks light. Weep for a fool, for he lacks understanding. Weep more sweetly for the dead, because he has found rest, but the life of the fool is worse than death. ^9
+
+**10** Mourning for the dead lasts seven days, but for a fool and an ungodly man, it lasts all the days of his life. ^10
+
+**11** Don’t talk much with a foolish man, and don’t go to one who has no understanding. Beware of him, lest you have trouble and be defiled in his onslaught. Turn away from him, and you will find rest, and you won’t be wearied in his madness. ^11
+
+**12** What would be heavier than lead? What is its name, but “Fool”? ^12
+
+**13** Sand, salt, and a mass of iron is easier to bear than a man without understanding. ^13
+
+**14** Timber girded and bound into a building will not be released with shaking. So a heart established in due season on well advised counsel will not be afraid. ^14
+
+**15** A heart settled upon a thoughtful understanding is as an ornament of plaster on a polished wall. ^15
+
+**16** Fences set on a high place will not stand against the wind; so a fearful heart in the imagination of a fool will not stand against any fear. ^16
+
+**17** He who pricks the eye will make tears fall. He who pricks the heart makes it show feeling. ^17
+
+**18** Whoever casts a stone at birds scares them away. He who insults a friend will dissolve friendship. ^18
+
+**19** If you have drawn a sword against a friend, don’t despair, for there may be a way back. ^19
+
+**20** If you have opened your mouth against a friend, don’t be afraid, for there may be reconciliation, unless it is for insulting, arrogance, disclosing of a secret, or a treacherous blow— for these things any friend will flee. ^20
+
+**21** Gain trust with your neighbor in his poverty, that in his prosperity you may have gladness. Stay steadfast to him in the time of his affliction, that you may be heir with him in his inheritance. ^21
+
+**22** Before fire is the vapor and smoke of a furnace, so insults precede bloodshed. ^22
+
+**23** I won’t be ashamed to shelter a friend. I won’t hide myself from his face. ^23
+
+**24** If any evil happens to me because of him, everyone who hears it will beware of him. ^24
+
+**25** Who will set a watch over my mouth, and a seal of shrewdness upon my lips, that I may not fall from it, and that my tongue may not destroy me? ^25
+
+← [[Ecclesiasticus 21 - WEBU]] | [[Ecclesiasticus 23 - WEBU]] →

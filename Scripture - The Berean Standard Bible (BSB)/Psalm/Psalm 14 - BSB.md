@@ -1,0 +1,24 @@
+---
+book: Psalm
+chapter: 14
+version: BSB
+---
+# Psalm 14 (BSB)
+
+← [[Psalm 13 - BSB]] | [[Psalm 15 - BSB]] →
+
+**1** For the choirmaster. Of David. The fool says in his heart, “There is no God.” They are corrupt; their acts are vile. There is no one who does good. ^1
+
+**2** The LORD looks down from heaven upon the sons of men to see if any understand, if any seek God. ^2
+
+**3** All have turned away, they have together become corrupt; there is no one who does good, not even one. ^3
+
+**4** Will the workers of iniquity never learn? They devour my people like bread; they refuse to call upon the LORD. ^4
+
+**5** There they are, overwhelmed with dread, for God is in the company of the righteous. ^5
+
+**6** You sinners frustrate the plans of the oppressed, yet the LORD is their shelter. ^6
+
+**7** Oh, that the salvation of Israel would come from Zion! When the LORD restores His captive people, let Jacob rejoice, let Israel be glad! ^7
+
+← [[Psalm 13 - BSB]] | [[Psalm 15 - BSB]] →

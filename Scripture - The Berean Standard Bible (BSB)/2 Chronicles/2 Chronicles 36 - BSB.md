@@ -1,0 +1,56 @@
+---
+book: 2 Chronicles
+chapter: 36
+version: BSB
+---
+# 2 Chronicles 36 (BSB)
+
+← [[2 Chronicles 35 - BSB]]
+
+**1** Then the people of the land took Jehoahaz son of Josiah and made him king in Jerusalem in place of his father. ^1
+
+**2** Jehoahaz was twenty-three years old when he became king, and he reigned in Jerusalem three months. ^2
+
+**3** And the king of Egypt dethroned him in Jerusalem and imposed on Judah a levy of a hundred talents of silver and a talent of gold. ^3
+
+**4** Then Neco king of Egypt made Eliakim brother of Jehoahaz king over Judah and Jerusalem, and he changed Eliakim’s name to Jehoiakim. But Neco took Eliakim’s brother Jehoahaz and carried him off to Egypt. ^4
+
+**5** Jehoiakim was twenty-five years old when he became king, and he reigned in Jerusalem eleven years. And he did evil in the sight of the LORD his God. ^5
+
+**6** Then Nebuchadnezzar king of Babylon came up against Jehoiakim and bound him with bronze shackles to take him to Babylon. ^6
+
+**7** Nebuchadnezzar also took to Babylon some of the articles from the house of the LORD, and he put them in his temple in Babylon. ^7
+
+**8** As for the rest of the acts of Jehoiakim, the abominations he committed, and all that was found against him, they are indeed written in the Book of the Kings of Israel and Judah. And his son Jehoiachin reigned in his place. ^8
+
+**9** Jehoiachin was eighteen years old when he became king, and he reigned in Jerusalem three months and ten days. And he did evil in the sight of the LORD. ^9
+
+**10** In the spring, King Nebuchadnezzar summoned Jehoiachin and brought him to Babylon, along with the articles of value from the house of the LORD. And he made Jehoiachin’s relative Zedekiah king over Judah and Jerusalem. ^10
+
+**11** Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years. ^11
+
+**12** And he did evil in the sight of the LORD his God and did not humble himself before Jeremiah the prophet, who spoke for the LORD. ^12
+
+**13** He also rebelled against King Nebuchadnezzar, who had made him swear by God. But Zedekiah stiffened his neck and hardened his heart against turning to the LORD, the God of Israel. ^13
+
+**14** Furthermore, all the leaders of the priests and the people multiplied their unfaithful deeds, following all the abominations of the nations, and they defiled the house of the LORD, which He had consecrated in Jerusalem. ^14
+
+**15** Again and again the LORD, the God of their fathers, sent word to His people through His messengers because He had compassion on them and on His dwelling place. ^15
+
+**16** But they mocked the messengers of God, despising His words and scoffing at His prophets, until the wrath of the LORD against His people was stirred up beyond remedy. ^16
+
+**17** So He brought up against them the king of the Chaldeans, who put their young men to the sword in the sanctuary, sparing neither young men nor young women, neither elderly nor infirm. God gave them all into the hand of Nebuchadnezzar, ^17
+
+**18** who carried off everything to Babylon—all the articles of the house of God, both large and small, and the treasures of the house of the LORD and of the king and his officials. ^18
+
+**19** Then the Chaldeans set fire to the house of God and broke down the wall of Jerusalem. They burned down all the palaces and destroyed every article of value. ^19
+
+**20** Those who escaped the sword were carried by Nebuchadnezzar into exile in Babylon, and they became servants to him and his sons until the kingdom of Persia came to power. ^20
+
+**21** So the land enjoyed its Sabbath rest all the days of the desolation, until seventy years were completed, in fulfillment of the word of the LORD spoken through Jeremiah. ^21
+
+**22** In the first year of Cyrus king of Persia, to fulfill the word of the LORD spoken through Jeremiah, the LORD stirred the spirit of Cyrus king of Persia to send a proclamation throughout his kingdom and to put it in writing as follows: ^22
+
+**23** “This is what Cyrus king of Persia says: ‘The LORD, the God of heaven, who has given me all the kingdoms of the earth, has appointed me to build a house for Him at Jerusalem in Judah. Whoever among you belongs to His people, may the LORD his God be with him, and may he go up.’” ^23
+
+← [[2 Chronicles 35 - BSB]]

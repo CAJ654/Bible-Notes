@@ -1,0 +1,20 @@
+---
+book: Jeremiah
+chapter: 45
+version: WEBU
+---
+# Jeremiah 45 (WEBU)
+
+← [[Jeremiah 44 - WEBU]] | [[Jeremiah 46 - WEBU]] →
+
+**1** The message that Jeremiah the prophet spoke to Baruch the son of Neriah, when he wrote these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah, king of Judah, saying, ^1
+
+**2** “The LORD, the God of Israel, says to you, Baruch: ^2
+
+**3** ‘You said, “Woe is me now! For the LORD has added sorrow to my pain! I am weary with my groaning, and I find no rest.”’ ^3
+
+**4** “You shall tell him, the LORD says: ‘Behold, that which I have built, I will break down, and that which I have planted I will pluck up; and this in the whole land. ^4
+
+**5** Do you seek great things for yourself? Don’t seek them; for, behold, I will bring evil on all flesh,’ says the LORD, ‘but I will let you escape with your life wherever you go.’” ^5
+
+← [[Jeremiah 44 - WEBU]] | [[Jeremiah 46 - WEBU]] →

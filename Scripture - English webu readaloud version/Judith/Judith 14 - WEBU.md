@@ -1,0 +1,48 @@
+---
+book: Judith
+chapter: 14
+version: WEBU
+---
+# Judith 14 (WEBU)
+
+← [[Judith 13 - WEBU]] | [[Judith 15 - WEBU]] →
+
+**1** Judith said to them, “Hear me now, my kindred, and take this head, and hang it upon the battlement of your wall. ^1
+
+**2** It will be, so soon as the morning appears, and the sun comes up on the earth, you shall each take up his weapons of war, and every valiant man of you go out of the city. You shall set a captain over them, as though you would go down to the plain toward the watch of the children of Asshur; but you men shall not go down. ^2
+
+**3** These will take up their full armor, and shall go into their camp and rouse up the captains of the army of Asshur. They will run together to Holofernes’ tent. They won’t find him. Fear will fall upon them, and they will flee before your face. ^3
+
+**4** You men, and all that inhabit every border of Israel, shall pursue them and overthrow them as they go. ^4
+
+**5** But before you do these things, summon Achior the Ammonite to me, that he may see and know him that despised the house of Israel, and that sent him to us, as it were to death. ^5
+
+**6** And they called Achior out of the house of Ozias; but when he came, and saw the head of Holofernes in a man’s hand in the assembly of the people, he fell upon his face, and his spirit failed. ^6
+
+**7** But when they had recovered him, he fell at Judith’s feet, bowed down to her, and said, “Blessed are you in every tent of Judah! In every nation, those who hear your name will be troubled. ^7
+
+**8** Now tell me all the things that you have done in these days.” And Judith declared to him in the midst of the people all the things that she had done, from the day that she went out until the time that she spoke to them. ^8
+
+**9** But when she finished speaking, the people shouted with a loud voice, and made a joyful noise in their city. ^9
+
+**10** But when Achior saw all the things that the God of Israel had done, he believed in God exceedingly, and circumcised the flesh of his foreskin, and was joined to the house of Israel, to this day. ^10
+
+**11** But as soon as the morning arose, they hanged the head of Holofernes upon the wall, and every man took up his weapons, and they went forth by bands to the ascents of the mountain. ^11
+
+**12** But when the children of Asshur saw them, they sent word to their leaders, and they went to their captains and tribunes, and to every one of their rulers. ^12
+
+**13** They came to Holofernes’ tent, and said to him that was over all that he had, “Wake our lord up, now, for the slaves have been bold to come down against us to battle, that they may be utterly destroyed.” ^13
+
+**14** Bagoas went in, and knocked at the outer door of the tent; for he supposed that Holofernes was sleeping with Judith. ^14
+
+**15** But when no one answered, he opened it, went into the bedchamber, and found him cast upon the threshold dead; and his head had been taken from him. ^15
+
+**16** He cried with a loud voice, with weeping, groaning, and shouting, and tore his garments. ^16
+
+**17** He entered into the tent where Judith lodged, and he didn’t find her. He leaped out to the people, and cried aloud, ^17
+
+**18** “The slaves have dealt treacherously! One woman of the Hebrews has brought shame upon the house of King Nebuchadnezzar; for, behold, Holofernes lies upon the ground, and his head is not on him!” ^18
+
+**19** But when the rulers of the army of Asshur heard this, they tore their tunics, and their souls were troubled exceedingly. There were cries and an exceedingly great noise in the midst of the camp. ^19
+
+← [[Judith 13 - WEBU]] | [[Judith 15 - WEBU]] →

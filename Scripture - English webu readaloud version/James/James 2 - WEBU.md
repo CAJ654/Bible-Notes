@@ -1,0 +1,62 @@
+---
+book: James
+chapter: 2
+version: WEBU
+---
+# James 2 (WEBU)
+
+← [[James 1 - WEBU]] | [[James 3 - WEBU]] →
+
+**1** My brothers, don’t hold the faith of our glorious Lord Jesus Christ with partiality. ^1
+
+**2** For if a man with a gold ring, in fine clothing, comes into your synagogue, and a poor man in filthy clothing also comes in, ^2
+
+**3** and you pay special attention to him who wears the fine clothing and say, “Sit here in a good place;” and you tell the poor man, “Stand there,” or “Sit by my footstool” ^3
+
+**4** haven’t you shown partiality among yourselves, and become judges with evil thoughts? ^4
+
+**5** Listen, my beloved brothers. Didn’t God choose those who are poor in this world to be rich in faith and heirs of the Kingdom which he promised to those who love him? ^5
+
+**6** But you have dishonored the poor man. Don’t the rich oppress you and personally drag you before the courts? ^6
+
+**7** Don’t they blaspheme the honorable name by which you are called? ^7
+
+**8** However, if you fulfill the royal law according to the Scripture, “You shall love your neighbor as yourself,” you do well. ^8
+
+**9** But if you show partiality, you commit sin, being convicted by the law as transgressors. ^9
+
+**10** For whoever keeps the whole law, and yet stumbles in one point, he has become guilty of all. ^10
+
+**11** For he who said, “Do not commit adultery,” also said, “Do not commit murder.” Now if you do not commit adultery but do murder, you have become a transgressor of the law. ^11
+
+**12** So speak and so do as men who are to be judged by the law of freedom. ^12
+
+**13** For judgment is without mercy to him who has shown no mercy. Mercy triumphs over judgment. ^13
+
+**14** What good is it, my brothers, if a man says he has faith, but has no works? Can faith save him? ^14
+
+**15** And if a brother or sister is naked and in lack of daily food, ^15
+
+**16** and one of you tells them, “Go in peace. Be warmed and filled;” yet you didn’t give them the things the body needs, what good is it? ^16
+
+**17** Even so faith, if it has no works, is dead in itself. ^17
+
+**18** Yes, a man will say, “You have faith, and I have works.” Show me your faith without works, and I will show you my faith by my works. ^18
+
+**19** You believe that God is one. You do well. The demons also believe—and shudder. ^19
+
+**20** But do you want to know, vain man, that faith apart from works is dead? ^20
+
+**21** Wasn’t Abraham our father justified by works, in that he offered up Isaac his son on the altar? ^21
+
+**22** You see that faith worked with his works, and by works faith was perfected. ^22
+
+**23** So the Scripture was fulfilled which says, “Abraham believed God, and it was accounted to him as righteousness,” and he was called the friend of God. ^23
+
+**24** You see then that by works a man is justified, and not only by faith. ^24
+
+**25** In the same way, wasn’t Rahab the prostitute also justified by works when she received the messengers and sent them out another way? ^25
+
+**26** For as the body apart from the spirit is dead, even so faith apart from works is dead. ^26
+
+← [[James 1 - WEBU]] | [[James 3 - WEBU]] →

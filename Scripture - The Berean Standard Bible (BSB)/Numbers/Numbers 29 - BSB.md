@@ -1,0 +1,90 @@
+---
+book: Numbers
+chapter: 29
+version: BSB
+---
+# Numbers 29 (BSB)
+
+← [[Numbers 28 - BSB]] | [[Numbers 30 - BSB]] →
+
+**1** “On the first day of the seventh month, you are to hold a sacred assembly, and you must not do any regular work. This will be a day for you to sound the trumpets. ^1
+
+**2** As a pleasing aroma to the LORD, you are to present a burnt offering of one young bull, one ram, and seven male lambs a year old, all unblemished, ^2
+
+**3** together with their grain offerings of fine flour mixed with oil—three-tenths of an ephah with the bull, two-tenths of an ephah with the ram, ^3
+
+**4** and a tenth of an ephah with each of the seven male lambs. ^4
+
+**5** Include one male goat as a sin offering to make atonement for you. ^5
+
+**6** These are in addition to the monthly and daily burnt offerings with their prescribed grain offerings and drink offerings. They are a pleasing aroma, a food offering to the LORD. ^6
+
+**7** On the tenth day of this seventh month, you are to hold a sacred assembly, and you shall humble yourselves; you must not do any work. ^7
+
+**8** Present as a pleasing aroma to the LORD a burnt offering of one young bull, one ram, and seven male lambs a year old, all unblemished, ^8
+
+**9** together with their grain offerings of fine flour mixed with oil—three-tenths of an ephah with the bull, two-tenths of an ephah with the ram, ^9
+
+**10** and a tenth of an ephah with each of the seven lambs. ^10
+
+**11** Include one male goat for a sin offering, in addition to the sin offering of atonement and the regular burnt offering with its grain offering and drink offerings. ^11
+
+**12** On the fifteenth day of the seventh month, you are to hold a sacred assembly; you must not do any regular work, and you shall observe a feast to the LORD for seven days. ^12
+
+**13** As a pleasing aroma to the LORD, you are to present a food offering, a burnt offering of thirteen young bulls, two rams, and fourteen male lambs a year old, all unblemished, ^13
+
+**14** along with the grain offering of three-tenths of an ephah of fine flour mixed with oil with each of the thirteen bulls, two-tenths of an ephah with each of the two rams, ^14
+
+**15** and a tenth of an ephah with each of the fourteen lambs. ^15
+
+**16** Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering. ^16
+
+**17** On the second day you are to present twelve young bulls, two rams, and fourteen male lambs a year old, all unblemished, ^17
+
+**18** along with the grain and drink offerings for the bulls, rams, and lambs, according to the number prescribed. ^18
+
+**19** Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering. ^19
+
+**20** On the third day you are to present eleven bulls, two rams, and fourteen male lambs a year old, all unblemished, ^20
+
+**21** along with the grain and drink offerings for the bulls, rams, and lambs, according to the number prescribed. ^21
+
+**22** Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering. ^22
+
+**23** On the fourth day you are to present ten bulls, two rams, and fourteen male lambs a year old, all unblemished, ^23
+
+**24** along with the grain and drink offerings for the bulls, rams, and lambs, according to the number prescribed. ^24
+
+**25** Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering. ^25
+
+**26** On the fifth day you are to present nine bulls, two rams, and fourteen male lambs a year old, all unblemished, ^26
+
+**27** along with the grain and drink offerings for the bulls, rams, and lambs, according to the number prescribed. ^27
+
+**28** Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering. ^28
+
+**29** On the sixth day you are to present eight bulls, two rams, and fourteen male lambs a year old, all unblemished, ^29
+
+**30** along with the grain and drink offerings for the bulls, rams, and lambs, according to the number prescribed. ^30
+
+**31** Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering. ^31
+
+**32** On the seventh day you are to present seven bulls, two rams, and fourteen male lambs a year old, all unblemished, ^32
+
+**33** along with the grain and drink offerings for the bulls, rams, and lambs, according to the number prescribed. ^33
+
+**34** Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering. ^34
+
+**35** On the eighth day you are to hold a solemn assembly; you must not do any regular work. ^35
+
+**36** As a pleasing aroma to the LORD, you are to present a food offering, a burnt offering of one bull, one ram, and seven male lambs a year old, all unblemished, ^36
+
+**37** along with the grain and drink offerings for the bulls, rams, and lambs, according to the number prescribed. ^37
+
+**38** Include one male goat as a sin offering, in addition to the regular burnt offering with its grain offering and drink offering. ^38
+
+**39** You are to present these offerings to the LORD at your appointed times, in addition to your vow and freewill offerings, whether burnt offerings, grain offerings, drink offerings, or peace offerings.” ^39
+
+**40** So Moses spoke all this to the Israelites just as the LORD had commanded him. ^40
+
+← [[Numbers 28 - BSB]] | [[Numbers 30 - BSB]] →

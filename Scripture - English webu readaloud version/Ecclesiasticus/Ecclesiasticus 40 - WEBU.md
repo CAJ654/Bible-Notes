@@ -1,0 +1,70 @@
+---
+book: Ecclesiasticus
+chapter: 40
+version: WEBU
+---
+# Ecclesiasticus 40 (WEBU)
+
+← [[Ecclesiasticus 39 - WEBU]] | [[Ecclesiasticus 41 - WEBU]] →
+
+**1** Great travail is created for every man. A heavy yoke is upon the sons of Adam, from the day of their coming forth from their mother’s womb, until the day for their burial in the mother of all things. ^1
+
+**2** The expectation of things to come, and the day of death, trouble their thoughts, and cause fear in their hearts. ^2
+
+**3** From him who sits on a throne of glory, even to him who is humbled in earth and ashes, ^3
+
+**4** from him who wears purple and a crown, even to him who is clothed in burlap, ^4
+
+**5** there is wrath, jealousy, trouble, unrest, fear of death, anger, and strife. In the time of rest upon his bed, his night sleep changes his knowledge. ^5
+
+**6** He gets little or no rest, and afterward in his sleep, as in a day of keeping watch, he is troubled in the vision of his heart, as one who has escaped from the front of battle. ^6
+
+**7** In the very time of his deliverance, he awakens, and marvels that the fear is nothing. ^7
+
+**8** To all creatures, human and animal, and upon sinners sevenfold more, ^8
+
+**9** come death, bloodshed, strife, sword, calamities, famine, suffering, and plague. ^9
+
+**10** All these things were created for the wicked, and because of them the flood came. ^10
+
+**11** All things that are of the earth turn to the earth again. All things that are of the waters return into the sea. ^11
+
+**12** All bribery and injustice will be blotted out. Good faith will stand forever. ^12
+
+**13** The goods of the unjust will be dried up like a river, and like a great thunder in rain will go off in noise. ^13
+
+**14** In opening his hands, a man will be made glad; so lawbreakers will utterly fail. ^14
+
+**15** The children of the ungodly won’t grow many branches, and are as unhealthy roots on a sheer rock. ^15
+
+**16** The reeds by every water or river bank will be plucked up before all grass. ^16
+
+**17** Kindness is like a garden of blessings. Almsgiving endures forever. ^17
+
+**18** The life of one who labors and is content will be made sweet. He who finds a treasure is better than both. ^18
+
+**19** Children and the building of a city establish a name. A blameless wife is better than both. ^19
+
+**20** Wine and music rejoice the heart. The love of wisdom is better than both. ^20
+
+**21** The pipe and the lute make pleasant melody. A pleasant tongue is better than both. ^21
+
+**22** Your eye desires grace and beauty, but the green shoots of grain more than both. ^22
+
+**23** A friend and a companion is always welcome, and a wife with her husband is better than both. ^23
+
+**24** Relatives and helpers are for a time of affliction, but almsgiving rescues better than both. ^24
+
+**25** Gold and silver will make the foot stand sure, and counsel is esteemed better than both. ^25
+
+**26** Riches and strength will lift up the heart. The fear of the Lord is better than both. There is nothing lacking in the fear of the Lord. In it, there is no need to seek help. ^26
+
+**27** The fear of the Lord is like a garden of blessing and covers a man more than any glory. ^27
+
+**28** My son, don’t lead a beggar’s life. It is better to die than to beg. ^28
+
+**29** A man who looks to the table of another, his life is not to be considered a life. He will pollute his soul with another person’s food, but a wise and well-instructed person will beware of that. ^29
+
+**30** Begging will be sweet in the mouth of the shameless, but it kindles a fire in his belly. ^30
+
+← [[Ecclesiasticus 39 - WEBU]] | [[Ecclesiasticus 41 - WEBU]] →

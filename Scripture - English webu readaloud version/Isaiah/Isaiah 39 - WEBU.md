@@ -1,0 +1,26 @@
+---
+book: Isaiah
+chapter: 39
+version: WEBU
+---
+# Isaiah 39 (WEBU)
+
+← [[Isaiah 38 - WEBU]] | [[Isaiah 40 - WEBU]] →
+
+**1** At that time, Merodach-baladan the son of Baladan, king of Babylon, sent letters and a present to Hezekiah, for he heard that he had been sick, and had recovered. ^1
+
+**2** Hezekiah was pleased with them, and showed them the house of his precious things, the silver, the gold, the spices, and the precious oil, and all the house of his armor, and all that was found in his treasures. There was nothing in his house, nor in all his dominion, that Hezekiah didn’t show them. ^2
+
+**3** Then Isaiah the prophet came to King Hezekiah, and asked him, “What did these men say? From where did they come to you?” Hezekiah said, “They have come from a country far from me, even from Babylon.” ^3
+
+**4** Then he asked, “What have they seen in your house?” Hezekiah answered, “They have seen all that is in my house. There is nothing among my treasures that I have not shown them.” ^4
+
+**5** Then Isaiah said to Hezekiah, “Hear the word of the LORD of Armies: ^5
+
+**6** ‘Behold, the days are coming when all that is in your house, and that which your fathers have stored up until today, will be carried to Babylon. Nothing will be left,’ says the LORD. ^6
+
+**7** ‘They will take away your sons who will issue from you, whom you shall father, and they will be eunuchs in the king of Babylon’s palace.’” ^7
+
+**8** Then Hezekiah said to Isaiah, “The LORD’s word which you have spoken is good.” He said moreover, “For there will be peace and truth in my days.” ^8
+
+← [[Isaiah 38 - WEBU]] | [[Isaiah 40 - WEBU]] →

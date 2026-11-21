@@ -1,0 +1,52 @@
+---
+book: 2 Peter
+chapter: 1
+version: WEBU
+---
+# 2 Peter 1 (WEBU)
+
+[[2 Peter 2 - WEBU]] →
+
+**1** Simon Peter, a servant and apostle of Jesus Christ, to those who have obtained a like precious faith with us in the righteousness of our God and Savior, Jesus Christ: ^1
+
+**2** Grace to you and peace be multiplied in the knowledge of God and of Jesus our Lord, ^2
+
+**3** seeing that his divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us by his own glory and virtue, ^3
+
+**4** by which he has granted to us his precious and exceedingly great promises; that through these you may become partakers of the divine nature, having escaped from the corruption that is in the world by lust. ^4
+
+**5** Yes, and for this very cause adding on your part all diligence, in your faith supply moral excellence; and in moral excellence, knowledge; ^5
+
+**6** and in knowledge, self-control; and in self-control, perseverance; and in perseverance, godliness; ^6
+
+**7** and in godliness, brotherly affection; and in brotherly affection, love. ^7
+
+**8** For if these things are yours and abound, they make you to not be idle or unfruitful in the knowledge of our Lord Jesus Christ. ^8
+
+**9** For he who lacks these things is blind, seeing only what is near, having forgotten the cleansing from his old sins. ^9
+
+**10** Therefore, brothers, be more diligent to make your calling and election sure. For if you do these things, you will never stumble. ^10
+
+**11** For thus you will be richly supplied with the entrance into the eternal Kingdom of our Lord and Savior, Jesus Christ. ^11
+
+**12** Therefore I will not be negligent to remind you of these things, though you know them and are established in the present truth. ^12
+
+**13** I think it right, as long as I am in this tent, to stir you up by reminding you, ^13
+
+**14** knowing that the putting off of my tent comes swiftly, even as our Lord Jesus Christ made clear to me. ^14
+
+**15** Yes, I will make every effort that you may always be able to remember these things even after my departure. ^15
+
+**16** For we didn’t follow cunningly devised fables when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of his majesty. ^16
+
+**17** For he received from God the Father honor and glory when the voice came to him from the Majestic Glory, “This is my beloved Son, in whom I am well pleased.” ^17
+
+**18** We heard this voice come out of heaven when we were with him on the holy mountain. ^18
+
+**19** We have the more sure word of prophecy; and you do well that you heed it as to a lamp shining in a dark place, until the day dawns and the morning star arises in your hearts, ^19
+
+**20** knowing this first, that no prophecy of Scripture is of private interpretation. ^20
+
+**21** For no prophecy ever came by the will of man, but holy men of God spoke, being moved by the Holy Spirit. ^21
+
+[[2 Peter 2 - WEBU]] →

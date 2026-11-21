@@ -1,0 +1,46 @@
+---
+book: Psalms
+chapter: 132
+version: WEBU
+---
+# Psalms 132 (WEBU)
+
+← [[Psalms 131 - WEBU]] | [[Psalms 133 - WEBU]] →
+
+**1** A Song of Ascents. LORD, remember David and all his affliction, ^1
+
+**2** how he swore to the LORD, and vowed to the Mighty One of Jacob: ^2
+
+**3** “Surely I will not come into the structure of my house, nor go up into my bed; ^3
+
+**4** I will not give sleep to my eyes, or slumber to my eyelids, ^4
+
+**5** until I find out a place for the LORD, a dwelling for the Mighty One of Jacob.” ^5
+
+**6** Behold, we heard of it in Ephrathah. We found it in the field of Jaar. ^6
+
+**7** “We will go into his dwelling place. We will worship at his footstool.” ^7
+
+**8** Arise, LORD, into your resting place, you, and the ark of your strength. ^8
+
+**9** Let your priests be clothed with righteousness. Let your saints shout for joy! ^9
+
+**10** For your servant David’s sake, don’t turn away the face of your anointed one. ^10
+
+**11** The LORD has sworn to David in truth. He will not turn from it: “I will set the fruit of your body on your throne. ^11
+
+**12** If your children will keep my covenant, my testimony that I will teach them, their children also will sit on your throne forever more.” ^12
+
+**13** For the LORD has chosen Zion. He has desired it for his habitation. ^13
+
+**14** “This is my resting place forever. I will live here, for I have desired it. ^14
+
+**15** I will abundantly bless her provision. I will satisfy her poor with bread. ^15
+
+**16** I will also clothe her priests with salvation. Her saints will shout aloud for joy. ^16
+
+**17** I will make the horn of David to bud there. I have ordained a lamp for my anointed. ^17
+
+**18** I will clothe his enemies with shame, but on himself, his crown will shine.” ^18
+
+← [[Psalms 131 - WEBU]] | [[Psalms 133 - WEBU]] →

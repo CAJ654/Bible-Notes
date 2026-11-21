@@ -1,0 +1,56 @@
+---
+book: Ecclesiasticus
+chapter: 44
+version: WEBU
+---
+# Ecclesiasticus 44 (WEBU)
+
+← [[Ecclesiasticus 43 - WEBU]] | [[Ecclesiasticus 45 - WEBU]] →
+
+**1** Let us now praise famous men, our ancestors in their generations. ^1
+
+**2** The Lord created great glory in them— his mighty power from the beginning. ^2
+
+**3** Some ruled in their kingdoms and were men renowned for their power, giving counsel by their understanding. Some have spoken in prophecies, ^3
+
+**4** leaders of the people by their counsels, and by their understanding, giving instruction for the people. Their words in their instruction were wise. ^4
+
+**5** Some composed musical tunes, and set forth verses in writing, ^5
+
+**6** rich men endowed with ability, living peaceably in their homes. ^6
+
+**7** All these were honored in their generations, and were outstanding in their days. ^7
+
+**8** Some of them have left a name behind them, so that others declare their praises. ^8
+
+**9** But of others, there is no memory. They perished as though they had not been. They become as though they had not been born, they and their children after them. ^9
+
+**10** But these were men of mercy, whose righteous deeds have not been forgotten. ^10
+
+**11** A good inheritance remains with their offspring. Their children are within the covenant. ^11
+
+**12** Their offspring stand fast, with their children, for their sakes. ^12
+
+**13** Their offspring will remain forever. Their glory won’t be blotted out. ^13
+
+**14** Their bodies were buried in peace. Their name lives to all generations. ^14
+
+**15** People will declare their wisdom. The congregation proclaims their praise. ^15
+
+**16** Enoch pleased the Lord, and was taken up, an example of repentance to all generations. ^16
+
+**17** Noah was found perfect and righteous. In the season of wrath, he kept the race alive. Therefore a remnant was left on the earth when the flood came. ^17
+
+**18** Everlasting covenants were made with him, that all flesh should no more be blotted out by a flood. ^18
+
+**19** Abraham was a great father of a multitude of nations. There was none found like him in glory, ^19
+
+**20** who kept the law of the Most High, and was taken into covenant with him. In his flesh he established the covenant. When he was tested, he was found faithful. ^20
+
+**21** Therefore he assured him by an oath that the nations would be blessed through his offspring, that he would multiply him like the dust of the earth, exalt his offspring like the stars, and cause them to inherit from sea to sea, and from the Euphrates River to the utmost parts of the earth. ^21
+
+**22** In Isaac also, he established the same assurance for Abraham his father’s sake, the blessing of all men, and the covenant. ^22
+
+**23** He made it rest upon the head of Jacob. He acknowledged him in his blessings, gave to him by inheritance, and divided his portions. He distributed them among twelve tribes. ^23
+
+← [[Ecclesiasticus 43 - WEBU]] | [[Ecclesiasticus 45 - WEBU]] →

@@ -1,0 +1,86 @@
+---
+book: 4 Maccabees (Apocrypha)
+chapter: 5
+version: WEBU
+---
+# 4 Maccabees (Apocrypha) 5 (WEBU)
+
+← [[4 Maccabees (Apocrypha) 4 - WEBU]] | [[4 Maccabees (Apocrypha) 6 - WEBU]] →
+
+**1** The tyrant Antiochus, therefore, sitting in public state with his assessors upon a certain lofty place, with his armed troops standing in a circle around him, ^1
+
+**2** commanded his spearbearers to seize every one of the Hebrews, and to compel them to taste swine’s flesh and things offered to idols. ^2
+
+**3** Should any of them be unwilling to eat the accursed food, they were to be tortured on the wheel and so killed. ^3
+
+**4** When many had been seized, a foremost man of the assembly, a Hebrew, by name Eleazar, a priest by family, by profession a lawyer, and advanced in years, and for this reason known to many of the king’s followers, was brought near to him. ^4
+
+**5** Antiochus, seeing him, said, ^5
+
+**6** “I would counsel you, old man, before your tortures begin, to taste the swine’s flesh, and save your life; for I feel respect for your age and hoary head, which since you have had so long, you appear to me to be no philosopher in retaining the superstition of the Jews. ^6
+
+**7** For therefore, since nature has conferred upon you the most excellent flesh of this animal, do you loathe it? ^7
+
+**8** It seems senseless not to enjoy what is pleasant, yet not disgraceful; and from notions of sinfulness, to reject the gifts of nature. ^8
+
+**9** You will be acting, I think, still more senselessly, if you follow vain conceits about the truth. ^9
+
+**10** You will, moreover, be despising me to your own punishment. ^10
+
+**11** Won’t you awake from your trifling philosophy, give up the folly of your notions, and regaining understanding worthy of your age, search into the truth of an expedient course? ^11
+
+**12** Won’t you respect my kindly admonition and have pity on your own years? ^12
+
+**13** For bear in mind that if there is any power which watches over this religion of yours, it will pardon you for all transgressions of the law which you commit through compulsion.” ^13
+
+**14** While the tyrant incited him in this manner to the unlawful eating of meat, Eleazar begged permission to speak. ^14
+
+**15** Having received permission to speak, he began to address the people as follows: ^15
+
+**16** “We, O Antiochus, who are persuaded that we live under a divine law, consider no compulsion to be so forcible as obedience to that law. ^16
+
+**17** Therefore we consider that we ought not to transgress the law in any way. ^17
+
+**18** Indeed, were our law (as you suppose) not truly divine, and if we wrongly think it divine, we would have no right even in that case to destroy our sense of religion. ^18
+
+**19** Don’t think that eating unclean meat is a trifling offense. ^19
+
+**20** For transgression of the law, whether in small or great matters, is of equal importance; ^20
+
+**21** for in either case the law is equally slighted. ^21
+
+**22** But you deride our philosophy, as though we lived in it irrationally. ^22
+
+**23** Yet it instructs us in self-control, so that we are superior to all pleasures and lusts; and it trains us in courage, so that we cheerfully undergo every grievance. ^23
+
+**24** It instructs us in justice, so that in all our dealings we give what is due. It teaches us piety, so that we properly worship the one and only God. ^24
+
+**25** That is why we don’t eat the unclean; for believing that the law was established by God, we are convinced that the Creator of the world, in giving his laws, sympathizes with our nature. ^25
+
+**26** Those things which are suitable for our souls, he has directed us to eat; but those which are not, he has forbidden. ^26
+
+**27** But, tyrant-like, you not only force us to break the law, but also to eat, that you may ridicule us as we thus profanely eat. ^27
+
+**28** But you won’t have this cause of laughter against me, ^28
+
+**29** nor will I transgress the sacred oaths of my forefathers to keep the law. ^29
+
+**30** No, not if you pluck out my eyes, and consume my entrails. ^30
+
+**31** I am not so old, and void of courage as to not be youthful in reason and in defense of my religion. ^31
+
+**32** Now then, prepare your wheels, and kindle a fiercer flame. ^32
+
+**33** I will not so pity my old age, as on my account to break the law of my country. ^33
+
+**34** I will not play false to you, O law, my instructor, or forsake you, O beloved self-control! ^34
+
+**35** I will not put you to shame, O philosopher Reason, or deny you, O honored priesthood and knowledge of the law. ^35
+
+**36** Mouth! You shall not pollute my old age, nor the full stature of a perfect life. ^36
+
+**37** My ancestors will receive me as pure, not having feared your compulsion, even to death. ^37
+
+**38** For you will rule like a tyrant over the ungodly, but you will not lord it over my thoughts about religion, either by your arguments, or through deeds.” ^38
+
+← [[4 Maccabees (Apocrypha) 4 - WEBU]] | [[4 Maccabees (Apocrypha) 6 - WEBU]] →

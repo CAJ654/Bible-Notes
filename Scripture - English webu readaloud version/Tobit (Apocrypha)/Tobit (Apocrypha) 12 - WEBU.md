@@ -1,0 +1,54 @@
+---
+book: Tobit (Apocrypha)
+chapter: 12
+version: WEBU
+---
+# Tobit (Apocrypha) 12 (WEBU)
+
+← [[Tobit (Apocrypha) 11 - WEBU]] | [[Tobit (Apocrypha) 13 - WEBU]] →
+
+**1** And Tobit called his son Tobias, and said to him, “See, my child, that the man which went with you have his wages, and you must give him more.” ^1
+
+**2** And he said to him, “Father, it is no harm to me to give him the half of those things which I have brought; ^2
+
+**3** for he has led me for you in safety, and he cured my wife, and brought my money, and likewise cured you.” ^3
+
+**4** The old man said, “It is due to him.” ^4
+
+**5** And he called the angel, and said to him, “Take half of all that you have brought.” ^5
+
+**6** Then he called them both privately, and said to them, “Bless God, and give him thanks, and magnify him, and give him thanks in the sight of all that live, for the things which he has done with you. It is good to bless God and exalt his name, showing forth with honor the works of God. Don’t be slack to give him thanks. ^6
+
+**7** It is good to conceal the secret of a king, but to reveal gloriously the works of God. Do good, and evil won’t find you. ^7
+
+**8** Good is prayer with fasting, alms, and righteousness. A little with righteousness is better than much with unrighteousness. It is better to give alms than to lay up gold. ^8
+
+**9** Alms delivers from death, and it purges away all sin. Those who give alms and do righteousness will be filled with life; ^9
+
+**10** but those who sin are enemies to their own life. ^10
+
+**11** Surely I will conceal nothing from you. I have said, ‘It is good to conceal the secret of a king, but to reveal gloriously the works of God.’ ^11
+
+**12** And now, when you prayed, and Sarah your daughter-in-law, I brought the memorial of your prayer before the Holy One. When you buried the dead, I was with you likewise. ^12
+
+**13** And when you didn’t delay to rise up, and leave your dinner, that you might go and cover the dead, your good deed was not hidden from me. I was with you. ^13
+
+**14** And now God sent me to heal you and Sarah your daughter-in-law. ^14
+
+**15** I am Raphael, one of the seven holy angels which present the prayers of the saints and go in before the glory of the Holy One.” ^15
+
+**16** And they were both troubled, and fell upon their faces; for they were afraid. ^16
+
+**17** And he said to them, “Don’t be afraid. You will all have peace; but bless God forever. ^17
+
+**18** For I came not of any favor of my own, but by the will of your God. Therefore bless him forever. ^18
+
+**19** All these days I appeared to you. I didn’t eat or drink, but you all saw a vision. ^19
+
+**20** Now give God thanks, because I ascend to him who sent me. Write in a book all the things which have been done.” ^20
+
+**21** Then they rose up, and saw him no more. ^21
+
+**22** They confessed the great and wonderful works of God, and how the angel of the Lord had appeared to them. ^22
+
+← [[Tobit (Apocrypha) 11 - WEBU]] | [[Tobit (Apocrypha) 13 - WEBU]] →

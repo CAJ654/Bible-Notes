@@ -1,0 +1,36 @@
+---
+book: Psalms
+chapter: 85
+version: WEBU
+---
+# Psalms 85 (WEBU)
+
+← [[Psalms 84 - WEBU]] | [[Psalms 86 - WEBU]] →
+
+**1** For the Chief Musician. A Psalm by the sons of Korah. LORD, you have been favorable to your land. You have restored the fortunes of Jacob. ^1
+
+**2** You have forgiven the iniquity of your people. You have covered all their sin. Selah. ^2
+
+**3** You have taken away all your wrath. You have turned from the fierceness of your anger. ^3
+
+**4** Turn us, God of our salvation, and cause your indignation toward us to cease. ^4
+
+**5** Will you be angry with us forever? Will you draw out your anger to all generations? ^5
+
+**6** Won’t you revive us again, that your people may rejoice in you? ^6
+
+**7** Show us your loving kindness, LORD. Grant us your salvation. ^7
+
+**8** I will hear what God, the LORD, will speak, for he will speak peace to his people, his saints; but let them not turn again to folly. ^8
+
+**9** Surely his salvation is near those who fear him, that glory may dwell in our land. ^9
+
+**10** Mercy and truth meet together. Righteousness and peace have kissed each other. ^10
+
+**11** Truth springs out of the earth. Righteousness has looked down from heaven. ^11
+
+**12** Yes, the LORD will give that which is good. Our land will yield its increase. ^12
+
+**13** Righteousness goes before him, and prepares the way for his steps. ^13
+
+← [[Psalms 84 - WEBU]] | [[Psalms 86 - WEBU]] →

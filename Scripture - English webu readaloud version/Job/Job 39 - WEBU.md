@@ -1,0 +1,70 @@
+---
+book: Job
+chapter: 39
+version: WEBU
+---
+# Job 39 (WEBU)
+
+← [[Job 38 - WEBU]] | [[Job 40 - WEBU]] →
+
+**1** “Do you know the time when the mountain goats give birth? Do you watch when the doe bears fawns? ^1
+
+**2** Can you count the months that they fulfill? Or do you know the time when they give birth? ^2
+
+**3** They bow themselves. They bear their young. They end their labor pains. ^3
+
+**4** Their young ones become strong. They grow up in the open field. They go out, and don’t return again. ^4
+
+**5** “Who has set the wild donkey free? Or who has loosened the bonds of the swift donkey, ^5
+
+**6** whose home I have made the wilderness, and the salt land his dwelling place? ^6
+
+**7** He scorns the tumult of the city, neither does he hear the shouting of the driver. ^7
+
+**8** The range of the mountains is his pasture. He searches after every green thing. ^8
+
+**9** “Will the wild ox be content to serve you? Or will he stay by your feeding trough? ^9
+
+**10** Can you hold the wild ox in the furrow with his harness? Or will he till the valleys after you? ^10
+
+**11** Will you trust him, because his strength is great? Or will you leave to him your labor? ^11
+
+**12** Will you confide in him, that he will bring home your seed, and gather the grain of your threshing floor? ^12
+
+**13** “The wings of the ostrich wave proudly, but are they the feathers and plumage of love? ^13
+
+**14** For she leaves her eggs on the earth, warms them in the dust, ^14
+
+**15** and forgets that the foot may crush them, or that the wild animal may trample them. ^15
+
+**16** She deals harshly with her young ones, as if they were not hers. Though her labor is in vain, she is without fear, ^16
+
+**17** because God has deprived her of wisdom, neither has he imparted to her understanding. ^17
+
+**18** When she lifts up herself on high, she scorns the horse and his rider. ^18
+
+**19** “Have you given the horse might? Have you clothed his neck with a quivering mane? ^19
+
+**20** Have you made him to leap as a locust? The glory of his snorting is awesome. ^20
+
+**21** He paws in the valley, and rejoices in his strength. He goes out to meet the armed men. ^21
+
+**22** He mocks at fear, and is not dismayed, neither does he turn back from the sword. ^22
+
+**23** The quiver rattles against him, the flashing spear and the javelin. ^23
+
+**24** He eats up the ground with fierceness and rage, neither does he stand still at the sound of the trumpet. ^24
+
+**25** As often as the trumpet sounds he snorts, ‘Aha!’ He smells the battle afar off, the thunder of the captains, and the shouting. ^25
+
+**26** “Is it by your wisdom that the hawk soars, and stretches her wings toward the south? ^26
+
+**27** Is it at your command that the eagle mounts up, and makes his nest on high? ^27
+
+**28** On the cliff he dwells and makes his home, on the point of the cliff and the stronghold. ^28
+
+**29** From there he spies out the prey. His eyes see it afar off. ^29
+
+**30** His young ones also suck up blood. Where the slain are, there he is.” ^30
+
+← [[Job 38 - WEBU]] | [[Job 40 - WEBU]] →

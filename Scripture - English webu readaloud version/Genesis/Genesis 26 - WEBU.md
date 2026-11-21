@@ -1,0 +1,80 @@
+---
+book: Genesis
+chapter: 26
+version: WEBU
+---
+# Genesis 26 (WEBU)
+
+← [[Genesis 25 - WEBU]] | [[Genesis 27 - WEBU]] →
+
+**1** There was a famine in the land, in addition to the first famine that was in the days of Abraham. Isaac went to Abimelech king of the Philistines, to Gerar. ^1
+
+**2** The LORD appeared to him, and said, “Don’t go down into Egypt. Live in the land I will tell you about. ^2
+
+**3** Live in this land, and I will be with you, and will bless you. For I will give to you, and to your offspring, all these lands, and I will establish the oath which I swore to Abraham your father. ^3
+
+**4** I will multiply your offspring as the stars of the sky, and will give all these lands to your offspring. In your offspring all the nations of the earth will be blessed, ^4
+
+**5** because Abraham obeyed my voice, and kept my requirements, my commandments, my statutes, and my laws.” ^5
+
+**6** Isaac lived in Gerar. ^6
+
+**7** The men of the place asked him about his wife. He said, “She is my sister,” for he was afraid to say, “My wife”, lest, he thought, “the men of the place might kill me for Rebekah, because she is beautiful to look at.” ^7
+
+**8** When he had been there a long time, Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac was caressing Rebekah, his wife. ^8
+
+**9** Abimelech called Isaac, and said, “Behold, surely she is your wife. Why did you say, ‘She is my sister’?” Isaac said to him, “Because I said, ‘Lest I die because of her.’” ^9
+
+**10** Abimelech said, “What is this you have done to us? One of the people might easily have lain with your wife, and you would have brought guilt on us!” ^10
+
+**11** Abimelech commanded all the people, saying, “He who touches this man or his wife will surely be put to death.” ^11
+
+**12** Isaac sowed in that land, and reaped in the same year one hundred times what he planted. The LORD blessed him. ^12
+
+**13** The man grew great, and grew more and more until he became very great. ^13
+
+**14** He had possessions of flocks, possessions of herds, and a great household. The Philistines envied him. ^14
+
+**15** Now all the wells which his father’s servants had dug in the days of Abraham his father, the Philistines had stopped, and filled with earth. ^15
+
+**16** Abimelech said to Isaac, “Go away from us, for you are much mightier than we.” ^16
+
+**17** Isaac departed from there, encamped in the valley of Gerar, and lived there. ^17
+
+**18** Isaac dug again the wells of water, which they had dug in the days of Abraham his father, for the Philistines had stopped them after the death of Abraham. He called their names after the names by which his father had called them. ^18
+
+**19** Isaac’s servants dug in the valley, and found there a well of flowing water. ^19
+
+**20** The herdsmen of Gerar argued with Isaac’s herdsmen, saying, “The water is ours.” So he called the name of the well Esek, because they contended with him. ^20
+
+**21** They dug another well, and they argued over that, also. So he called its name Sitnah. ^21
+
+**22** He left that place, and dug another well. They didn’t argue over that one. So he called it Rehoboth. He said, “For now the LORD has made room for us, and we will be fruitful in the land.” ^22
+
+**23** He went up from there to Beersheba. ^23
+
+**24** The LORD appeared to him the same night, and said, “I am the God of Abraham your father. Don’t be afraid, for I am with you, and will bless you, and multiply your offspring for my servant Abraham’s sake.” ^24
+
+**25** He built an altar there, and called on the LORD’s name, and pitched his tent there. There Isaac’s servants dug a well. ^25
+
+**26** Then Abimelech went to him from Gerar with Ahuzzath his friend, and Phicol the captain of his army. ^26
+
+**27** Isaac said to them, “Why have you come to me, since you hate me, and have sent me away from you?” ^27
+
+**28** They said, “We saw plainly that the LORD was with you. We said, ‘Let there now be an oath between us, even between us and you, and let’s make a covenant with you, ^28
+
+**29** that you will do us no harm, as we have not touched you, and as we have done to you nothing but good, and have sent you away in peace.’ You are now the blessed of the LORD.” ^29
+
+**30** He made them a feast, and they ate and drank. ^30
+
+**31** They rose up some time in the morning, and swore an oath to one another. Isaac sent them away, and they departed from him in peace. ^31
+
+**32** The same day, Isaac’s servants came, and told him concerning the well which they had dug, and said to him, “We have found water.” ^32
+
+**33** He called it “Shibah”. Therefore the name of the city is “Beersheba” to this day. ^33
+
+**34** When Esau was forty years old, he took as wife Judith, the daughter of Beeri the Hittite, and Basemath, the daughter of Elon the Hittite. ^34
+
+**35** They grieved Isaac’s and Rebekah’s spirits. ^35
+
+← [[Genesis 25 - WEBU]] | [[Genesis 27 - WEBU]] →
