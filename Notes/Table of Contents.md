@@ -75,7 +75,21 @@
 		[[3 John (3 Yochanan)]]
 		[[Jude (Y'hudah)]]
 	Revelation: [[Revelation (Revelation of Yeshua to Yochanan)]]
-
 [[Apocrypha Table of Contents]]
+	[[1 Esdras]]
+	[[2 Esdras]]
+	[[Tobit]]
+	[[Judith]]
+	[[Esther (Greek)]]
+	[[Wisdom of Solomon]]
+	[[Ecclesiasticus (Sirach)]]
+	[[Baruch]]
+	[[Daniel (Greek)]]
+	[[Prayer of Manasseh]]
+	[[1 Maccabees]]
+	[[2 Maccabees]]
+	[[3 Maccabees]]
+	[[4 Maccabees]]
+	[[Psalm 151]]
 
 [[Study Progress.base|Study Progress]] (set `status:` on a book note to unread / studying / studied)
