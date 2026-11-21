@@ -1,11 +1,11 @@
 ---
-book: 1 Thesalonians
+book: 1 Thessalonians
 chapter: 3
 version: WEBU
 ---
-# 1 Thesalonians 3 (WEBU)
+# 1 Thessalonians 3 (WEBU)
 
-← [[1 Thesalonians 2 - WEBU]] | [[1 Thesalonians 4 - WEBU]] →
+← [[1 Thessalonians 2 - WEBU]] | [[1 Thessalonians 4 - WEBU]] →
 
 **1** Therefore when we couldn’t stand it any longer, we thought it good to be left behind at Athens alone, ^1
 
@@ -33,4 +33,4 @@ version: WEBU
 
 **13** to the end he may establish your hearts blameless in holiness before our God and Father at the coming of our Lord Jesus with all his saints. ^13
 
-← [[1 Thesalonians 2 - WEBU]] | [[1 Thesalonians 4 - WEBU]] →
+← [[1 Thessalonians 2 - WEBU]] | [[1 Thessalonians 4 - WEBU]] →

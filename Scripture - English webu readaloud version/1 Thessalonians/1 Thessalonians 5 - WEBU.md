@@ -1,11 +1,11 @@
 ---
-book: 1 Thesalonians
+book: 1 Thessalonians
 chapter: 5
 version: WEBU
 ---
-# 1 Thesalonians 5 (WEBU)
+# 1 Thessalonians 5 (WEBU)
 
-← [[1 Thesalonians 4 - WEBU]]
+← [[1 Thessalonians 4 - WEBU]]
 
 **1** But concerning the times and the seasons, brothers, you have no need that anything be written to you. ^1
 
@@ -63,4 +63,4 @@ version: WEBU
 
 **28** The grace of our Lord Jesus Christ be with you. Amen. ^28
 
-← [[1 Thesalonians 4 - WEBU]]
+← [[1 Thessalonians 4 - WEBU]]

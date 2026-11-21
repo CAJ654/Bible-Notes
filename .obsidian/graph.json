@@ -365,7 +365,7 @@
       }
     },
     {
-      "query": "path:\"/1 Thessalonians/\" OR path:\"/1 Thesalonians/\" OR file:\"1 Thessalonians.md\"",
+      "query": "path:\"/1 Thessalonians/\" OR path:\"/1 Thessalonians/\" OR file:\"1 Thessalonians.md\"",
       "color": {
         "a": 1,
         "rgb": 10696418

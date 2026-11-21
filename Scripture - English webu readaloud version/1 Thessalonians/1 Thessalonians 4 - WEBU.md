@@ -1,11 +1,11 @@
 ---
-book: 1 Thesalonians
+book: 1 Thessalonians
 chapter: 4
 version: WEBU
 ---
-# 1 Thesalonians 4 (WEBU)
+# 1 Thessalonians 4 (WEBU)
 
-← [[1 Thesalonians 3 - WEBU]] | [[1 Thesalonians 5 - WEBU]] →
+← [[1 Thessalonians 3 - WEBU]] | [[1 Thessalonians 5 - WEBU]] →
 
 **1** Finally then, brothers, we beg and exhort you in the Lord Jesus, that as you received from us how you ought to walk and to please God, that you abound more and more. ^1
 
@@ -43,4 +43,4 @@ version: WEBU
 
 **18** Therefore comfort one another with these words. ^18
 
-← [[1 Thesalonians 3 - WEBU]] | [[1 Thesalonians 5 - WEBU]] →
+← [[1 Thessalonians 3 - WEBU]] | [[1 Thessalonians 5 - WEBU]] →

@@ -1,11 +1,11 @@
 ---
-book: 1 Thesalonians
+book: 1 Thessalonians
 chapter: 1
 version: WEBU
 ---
-# 1 Thesalonians 1 (WEBU)
+# 1 Thessalonians 1 (WEBU)
 
-[[1 Thesalonians 2 - WEBU]] →
+[[1 Thessalonians 2 - WEBU]] →
 
 **1** Paul, Silvanus, and Timothy, to the assembly of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace from God our Father and the Lord Jesus Christ. ^1
 
@@ -27,4 +27,4 @@ version: WEBU
 
 **10** and to wait for his Son from heaven, whom he raised from the dead: Jesus, who delivers us from the wrath to come. ^10
 
-[[1 Thesalonians 2 - WEBU]] →
+[[1 Thessalonians 2 - WEBU]] →

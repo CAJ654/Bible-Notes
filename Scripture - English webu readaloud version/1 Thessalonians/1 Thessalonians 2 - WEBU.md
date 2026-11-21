@@ -1,11 +1,11 @@
 ---
-book: 1 Thesalonians
+book: 1 Thessalonians
 chapter: 2
 version: WEBU
 ---
-# 1 Thesalonians 2 (WEBU)
+# 1 Thessalonians 2 (WEBU)
 
-← [[1 Thesalonians 1 - WEBU]] | [[1 Thesalonians 3 - WEBU]] →
+← [[1 Thessalonians 1 - WEBU]] | [[1 Thessalonians 3 - WEBU]] →
 
 **1** For you yourselves know, brothers, our visit to you wasn’t in vain, ^1
 
@@ -47,4 +47,4 @@ version: WEBU
 
 **20** For you are our glory and our joy. ^20
 
-← [[1 Thesalonians 1 - WEBU]] | [[1 Thesalonians 3 - WEBU]] →
+← [[1 Thessalonians 1 - WEBU]] | [[1 Thessalonians 3 - WEBU]] →
