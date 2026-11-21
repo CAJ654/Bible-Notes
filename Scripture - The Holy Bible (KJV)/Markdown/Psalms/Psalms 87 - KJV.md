@@ -1,0 +1,24 @@
+---
+book: Psalms
+chapter: 87
+version: KJV
+---
+# Psalms 87 (KJV)
+
+← [[Psalms 86 - KJV]] | [[Psalms 88 - KJV]] →
+
+**1** A Psalm or Song for the sons of Korah. His foundation is in the holy mountains. ^1
+
+**2** The LORD loveth the gates of Zion more than all the dwellings of Jacob. ^2
+
+**3** Glorious things are spoken of thee, O city of God. Selah. ^3
+
+**4** I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this man was born there. ^4
+
+**5** And of Zion it shall be said, This and that man was born in her: and the highest himself shall establish her. ^5
+
+**6** The LORD shall count, when he writeth up the people, that this man was bom there. Selah. ^6
+
+**7** As well the singers as the players on instruments shall be there: all my springs are in thee. ^7
+
+← [[Psalms 86 - KJV]] | [[Psalms 88 - KJV]] →
