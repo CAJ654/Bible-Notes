@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Tanakh/Tanakh Table of Contents.md",
+                "file": "Notes/Apocrypha/Apocrypha Table of Contents.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tanakh Table of Contents"
+              "title": "Apocrypha Table of Contents"
             }
           },
           {
@@ -230,9 +230,16 @@
   },
   "active": "65fba4d2c5cd5c4a",
   "lastOpenFiles": [
+    "Notes/Apocrypha/Daniel (Greek).md",
+    "Notes/Apocrypha/Ecclesiasticus (Sirach).md",
+    "Notes/Apocrypha/Esther (Greek).md",
+    "Notes/Apocrypha/1 Esdras.md",
+    "Scripture - World Messianic Bible (WMB)/Revelation/Revelation 22 - WMB.md",
+    "Notes/Apocrypha",
+    "Scripture - World Messianic Bible (WMB)/Genesis/Genesis 1 - WMB.md",
+    "Notes/Tanakh/Tanakh Table of Contents.md",
     "Notes/Tanakh/Prophets/Earlier Prophets/Judges (Shoftim).md",
     "Notes/Tanakh/Prophets/Earlier Prophets/Joshua (Yehoshua).md",
-    "Notes/Tanakh/Tanakh Table of Contents.md",
     "Notes/Tanakh/Torah/Deuteronomy (D'varim).md",
     "Notes/Tanakh/Torah/Numbers (B'midbar).md",
     "Notes/Tanakh/Torah/Leviticus (Vayikra).md",
@@ -251,12 +258,6 @@
     "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Obadiah ('Ovadyah).md",
     "Scripture - English webu readaloud version/Genesis",
     "Notes/Tanakh/Prophets/Earlier Prophets/2 Samuel (Shmuel Bet).md",
-    "Notes/Table of Contents.md",
-    "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Zechariah (Zekharyah).md",
-    "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Jonah (Yonah).md",
-    "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Micah (Mikhah).md",
-    "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Amos ('Amos).md",
-    "Notes/Tanakh/Prophets/Latter Prophets/'Minor' Prophets/Joel (Yo'el).md",
     "Scripture - English webu readaloud version/signature.txt.asc",
     "Scripture - English webu readaloud version/keys.asc",
     "Scripture - English webu readaloud version/engwebu_096_REV_22_read.txt",
@@ -264,7 +265,6 @@
     "Scripture - English webu readaloud version/engwebu_096_REV_20_read.txt",
     "Scripture - English webu readaloud version/engwebu_096_REV_19_read.txt",
     "Scripture - English webu readaloud version/engwebu_096_REV_18_read.txt",
-    "Scripture - English webu readaloud version/engwebu_096_REV_17_read.txt",
-    "Scripture - English webu readaloud version/engwebu_096_REV_16_read.txt"
+    "Scripture - English webu readaloud version/engwebu_096_REV_17_read.txt"
   ]
 }
