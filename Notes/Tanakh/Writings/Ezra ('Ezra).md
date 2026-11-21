@@ -1,6 +1,11 @@
 ---
 author: Ezra
 chapters: 10
+tanakh_order: 36
+ot_order: 15
+tags:
+  - tanakh/writings
+  - ot/historical
 ---
 
 

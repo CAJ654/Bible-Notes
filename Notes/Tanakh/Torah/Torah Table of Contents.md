@@ -1,0 +1,5 @@
+[[Genesis (B'resheet)]]
+[[Exodus (Sh'mot)]]
+[[Leviticus (Vayikra)]]
+[[Numbers (B'midbar)]]
+[[Deuteronomy (D'varim)]]

@@ -1,6 +1,11 @@
 ---
 author: unknown, traditionally Samuel/Shmuel
 chapters: 24
+tanakh_order: 9
+ot_order: 10
+tags:
+  - tanakh/prophets/earlier
+  - ot/historical
 ---
 
 *Previous Book*
