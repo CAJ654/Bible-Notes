@@ -8,9 +8,14 @@ tags:
   - ot/wisdom-poetry
 ---
 
-
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Proverbs (Mishlei)]]
 
-*Next Book*
+*Next Book (Tanakh)*
 [[Song of Songs (Shir Hashirim)]]
+
+*Previous Book (Christian OT)*
+[[Esther (Ester)]]
+
+*Next Book (Christian OT)*
+[[Psalms (Tehillim)]]

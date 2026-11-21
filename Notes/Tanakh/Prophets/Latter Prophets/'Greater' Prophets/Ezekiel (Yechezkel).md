@@ -8,7 +8,14 @@ tags:
   - ot/major-prophets
 ---
 
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Jeremiah (Yirmiyahu)]]
-*Next Book*
+
+*Next Book (Tanakh)*
 [[Hosea (Hoshea)]]
+
+*Previous Book (Christian OT)*
+[[Lamentations (Eichah)]]
+
+*Next Book (Christian OT)*
+[[Daniel (Dani'el)]]

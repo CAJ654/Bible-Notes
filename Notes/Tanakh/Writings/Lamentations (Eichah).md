@@ -8,9 +8,14 @@ tags:
   - ot/major-prophets
 ---
 
-
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Ruth (Rut)]]
 
-*Next Book*
+*Next Book (Tanakh)*
 [[Ecclesiastes (Kohelet)]]
+
+*Previous Book (Christian OT)*
+[[Jeremiah (Yirmiyahu)]]
+
+*Next Book (Christian OT)*
+[[Ezekiel (Yechezkel)]]

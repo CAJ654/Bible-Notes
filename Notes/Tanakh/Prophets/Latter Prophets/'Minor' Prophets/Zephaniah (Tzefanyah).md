@@ -8,9 +8,14 @@ tags:
   - ot/minor-prophets
 ---
 
-
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Habakkuk (Chavakuk)]]
 
-*Next Book*
+*Next Book (Tanakh)*
+[[Haggai (Chaggai)]]
+
+*Previous Book (Christian OT)*
+[[Habakkuk (Chavakuk)]]
+
+*Next Book (Christian OT)*
 [[Haggai (Chaggai)]]

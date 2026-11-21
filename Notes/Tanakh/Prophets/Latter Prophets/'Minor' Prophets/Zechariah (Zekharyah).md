@@ -8,11 +8,14 @@ tags:
   - ot/minor-prophets
 ---
 
-
-
-
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Haggai (Chaggai)]]
 
-*Next Book*
+*Next Book (Tanakh)*
+[[Malachi (Mal'akhi)]]
+
+*Previous Book (Christian OT)*
+[[Haggai (Chaggai)]]
+
+*Next Book (Christian OT)*
 [[Malachi (Mal'akhi)]]

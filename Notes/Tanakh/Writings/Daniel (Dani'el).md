@@ -8,10 +8,14 @@ tags:
   - ot/major-prophets
 ---
 
-
-
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Esther (Ester)]]
 
-*Next Book*
+*Next Book (Tanakh)*
 [[Ezra ('Ezra)]]
+
+*Previous Book (Christian OT)*
+[[Ezekiel (Yechezkel)]]
+
+*Next Book (Christian OT)*
+[[Hosea (Hoshea)]]

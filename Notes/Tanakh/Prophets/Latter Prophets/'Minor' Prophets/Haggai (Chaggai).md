@@ -8,10 +8,14 @@ tags:
   - ot/minor-prophets
 ---
 
-
-
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Zephaniah (Tzefanyah)]]
 
-*Next Book*
+*Next Book (Tanakh)*
+[[Zechariah (Zekharyah)]]
+
+*Previous Book (Christian OT)*
+[[Zephaniah (Tzefanyah)]]
+
+*Next Book (Christian OT)*
 [[Zechariah (Zekharyah)]]

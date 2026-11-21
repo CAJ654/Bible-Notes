@@ -8,5 +8,8 @@ tags:
   - ot/pentateuch
 ---
 
-*Next Book*
+*Next Book (Tanakh)*
+[[Exodus (Sh'mot)]]
+
+*Next Book (Christian OT)*
 [[Exodus (Sh'mot)]]

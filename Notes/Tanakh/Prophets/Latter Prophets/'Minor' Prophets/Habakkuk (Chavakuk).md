@@ -8,10 +8,14 @@ tags:
   - ot/minor-prophets
 ---
 
-
-
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Nahum (Nachum)]]
 
-*Next Book*
+*Next Book (Tanakh)*
+[[Zephaniah (Tzefanyah)]]
+
+*Previous Book (Christian OT)*
+[[Nahum (Nachum)]]
+
+*Next Book (Christian OT)*
 [[Zephaniah (Tzefanyah)]]

@@ -8,7 +8,14 @@ tags:
   - ot/major-prophets
 ---
 
-*Previous Book*
+*Previous Book (Tanakh)*
 [[2 Kings (Melachim Bet)]]
-*Next Book*
+
+*Next Book (Tanakh)*
+[[Jeremiah (Yirmiyahu)]]
+
+*Previous Book (Christian OT)*
+[[Song of Songs (Shir Hashirim)]]
+
+*Next Book (Christian OT)*
 [[Jeremiah (Yirmiyahu)]]

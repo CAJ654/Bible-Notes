@@ -8,9 +8,14 @@ tags:
   - ot/minor-prophets
 ---
 
-
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Zechariah (Zekharyah)]]
 
-*Next Book*
+*Next Book (Tanakh)*
 [[Psalms (Tehillim)]]
+
+*Previous Book (Christian OT)*
+[[Zechariah (Zekharyah)]]
+
+*Next Book (Christian OT)*
+[[Matthew (Mattityahu)]]

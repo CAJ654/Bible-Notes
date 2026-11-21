@@ -8,7 +8,14 @@ tags:
   - ot/major-prophets
 ---
 
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Isaiah (Yeshayahu)]]
-*Next Book*
+
+*Next Book (Tanakh)*
 [[Ezekiel (Yechezkel)]]
+
+*Previous Book (Christian OT)*
+[[Isaiah (Yeshayahu)]]
+
+*Next Book (Christian OT)*
+[[Lamentations (Eichah)]]

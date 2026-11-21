@@ -8,10 +8,14 @@ tags:
   - ot/wisdom-poetry
 ---
 
-
-
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Psalms (Tehillim)]]
 
-*Next Book*
+*Next Book (Tanakh)*
 [[Job (Iyov)]]
+
+*Previous Book (Christian OT)*
+[[Psalms (Tehillim)]]
+
+*Next Book (Christian OT)*
+[[Ecclesiastes (Kohelet)]]

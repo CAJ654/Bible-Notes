@@ -8,11 +8,14 @@ tags:
   - ot/wisdom-poetry
 ---
 
-
-
-
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Job (Iyov)]]
 
-*Next Book*
+*Next Book (Tanakh)*
 [[Ruth (Rut)]]
+
+*Previous Book (Christian OT)*
+[[Ecclesiastes (Kohelet)]]
+
+*Next Book (Christian OT)*
+[[Isaiah (Yeshayahu)]]

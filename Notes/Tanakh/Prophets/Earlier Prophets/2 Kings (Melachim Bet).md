@@ -8,7 +8,14 @@ tags:
   - ot/historical
 ---
 
-*Previous Book*
+*Previous Book (Tanakh)*
 [[1 Kings (Melachim Alef)]]
-*Next Book*
+
+*Next Book (Tanakh)*
 [[Isaiah (Yeshayahu)]]
+
+*Previous Book (Christian OT)*
+[[1 Kings (Melachim Alef)]]
+
+*Next Book (Christian OT)*
+[[1 Chronicles (Divrei-HamYamim Alef)]]

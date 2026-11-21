@@ -8,9 +8,14 @@ tags:
   - ot/minor-prophets
 ---
 
-
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Jonah (Yonah)]]
 
-*Next Book*
+*Next Book (Tanakh)*
+[[Nahum (Nachum)]]
+
+*Previous Book (Christian OT)*
+[[Jonah (Yonah)]]
+
+*Next Book (Christian OT)*
 [[Nahum (Nachum)]]

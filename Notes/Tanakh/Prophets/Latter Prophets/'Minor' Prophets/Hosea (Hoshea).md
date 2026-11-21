@@ -8,7 +8,14 @@ tags:
   - ot/minor-prophets
 ---
 
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Ezekiel (Yechezkel)]]
-*Next Book*
+
+*Next Book (Tanakh)*
+[[Joel (Yo'el)]]
+
+*Previous Book (Christian OT)*
+[[Daniel (Dani'el)]]
+
+*Next Book (Christian OT)*
 [[Joel (Yo'el)]]

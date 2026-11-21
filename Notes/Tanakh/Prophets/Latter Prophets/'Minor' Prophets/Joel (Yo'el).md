@@ -8,7 +8,14 @@ tags:
   - ot/minor-prophets
 ---
 
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Hosea (Hoshea)]]
-*Next Book*
+
+*Next Book (Tanakh)*
+[[Amos ('Amos)]]
+
+*Previous Book (Christian OT)*
+[[Hosea (Hoshea)]]
+
+*Next Book (Christian OT)*
 [[Amos ('Amos)]]

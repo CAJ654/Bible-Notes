@@ -8,7 +8,14 @@ tags:
   - ot/historical
 ---
 
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Joshua (Yehoshua)]]
-*Next Book*
+
+*Next Book (Tanakh)*
 [[1 Samuel (Shmuel Alef)]]
+
+*Previous Book (Christian OT)*
+[[Joshua (Yehoshua)]]
+
+*Next Book (Christian OT)*
+[[Ruth (Rut)]]

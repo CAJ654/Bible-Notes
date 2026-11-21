@@ -8,7 +8,14 @@ tags:
   - ot/minor-prophets
 ---
 
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Obadiah ('Ovadyah)]]
-*Next Book*
+
+*Next Book (Tanakh)*
+[[Micah (Mikhah)]]
+
+*Previous Book (Christian OT)*
+[[Obadiah ('Ovadyah)]]
+
+*Next Book (Christian OT)*
 [[Micah (Mikhah)]]

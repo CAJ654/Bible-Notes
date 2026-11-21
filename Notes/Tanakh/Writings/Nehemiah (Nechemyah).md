@@ -8,10 +8,14 @@ tags:
   - ot/historical
 ---
 
-
-
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Ezra ('Ezra)]]
 
-*Next Book*
+*Next Book (Tanakh)*
 [[1 Chronicles (Divrei-HamYamim Alef)]]
+
+*Previous Book (Christian OT)*
+[[Ezra ('Ezra)]]
+
+*Next Book (Christian OT)*
+[[Esther (Ester)]]

@@ -8,7 +8,14 @@ tags:
   - ot/pentateuch
 ---
 
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Exodus (Sh'mot)]]
-*Next Book*
+
+*Next Book (Tanakh)*
+[[Numbers (B'midbar)]]
+
+*Previous Book (Christian OT)*
+[[Exodus (Sh'mot)]]
+
+*Next Book (Christian OT)*
 [[Numbers (B'midbar)]]

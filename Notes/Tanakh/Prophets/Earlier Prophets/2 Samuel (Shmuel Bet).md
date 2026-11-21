@@ -8,7 +8,14 @@ tags:
   - ot/historical
 ---
 
-*Previous Book*
+*Previous Book (Tanakh)*
 [[1 Samuel (Shmuel Alef)]]
-*Next Book*
+
+*Next Book (Tanakh)*
+[[1 Kings (Melachim Alef)]]
+
+*Previous Book (Christian OT)*
+[[1 Samuel (Shmuel Alef)]]
+
+*Next Book (Christian OT)*
 [[1 Kings (Melachim Alef)]]

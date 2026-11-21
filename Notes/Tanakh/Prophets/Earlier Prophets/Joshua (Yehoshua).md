@@ -8,7 +8,14 @@ tags:
   - ot/historical
 ---
 
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Deuteronomy (D'varim)]]
-*Next Book*
+
+*Next Book (Tanakh)*
+[[Judges (Shoftim)]]
+
+*Previous Book (Christian OT)*
+[[Deuteronomy (D'varim)]]
+
+*Next Book (Christian OT)*
 [[Judges (Shoftim)]]

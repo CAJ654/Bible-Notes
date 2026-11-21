@@ -8,7 +8,14 @@ tags:
   - ot/pentateuch
 ---
 
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Numbers (B'midbar)]]
-*Next Book*
+
+*Next Book (Tanakh)*
+[[Joshua (Yehoshua)]]
+
+*Previous Book (Christian OT)*
+[[Numbers (B'midbar)]]
+
+*Next Book (Christian OT)*
 [[Joshua (Yehoshua)]]

@@ -8,9 +8,14 @@ tags:
   - ot/historical
 ---
 
-
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Nehemiah (Nechemyah)]]
 
-*Next Book*
+*Next Book (Tanakh)*
+[[2 Chronicles (Divrei-HamYamim Bet)]]
+
+*Previous Book (Christian OT)*
+[[2 Kings (Melachim Bet)]]
+
+*Next Book (Christian OT)*
 [[2 Chronicles (Divrei-HamYamim Bet)]]

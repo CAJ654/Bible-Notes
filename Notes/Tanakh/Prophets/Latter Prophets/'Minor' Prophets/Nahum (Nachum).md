@@ -8,10 +8,14 @@ tags:
   - ot/minor-prophets
 ---
 
-
-
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Micah (Mikhah)]]
 
-*Next Book*
+*Next Book (Tanakh)*
+[[Habakkuk (Chavakuk)]]
+
+*Previous Book (Christian OT)*
+[[Micah (Mikhah)]]
+
+*Next Book (Christian OT)*
 [[Habakkuk (Chavakuk)]]

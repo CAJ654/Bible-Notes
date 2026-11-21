@@ -8,10 +8,14 @@ tags:
   - ot/historical
 ---
 
-
-
-*Previous Book*
+*Previous Book (Tanakh)*
 [[1 Chronicles (Divrei-HamYamim Alef)]]
 
-*Next Book*
+*Next Book (Tanakh)*
 [[Matthew (Mattityahu)]]
+
+*Previous Book (Christian OT)*
+[[1 Chronicles (Divrei-HamYamim Alef)]]
+
+*Next Book (Christian OT)*
+[[Ezra ('Ezra)]]

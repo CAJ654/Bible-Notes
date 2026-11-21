@@ -8,10 +8,14 @@ tags:
   - ot/historical
 ---
 
-
-
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Ecclesiastes (Kohelet)]]
 
-*Next Book*
+*Next Book (Tanakh)*
 [[Daniel (Dani'el)]]
+
+*Previous Book (Christian OT)*
+[[Nehemiah (Nechemyah)]]
+
+*Next Book (Christian OT)*
+[[Job (Iyov)]]

@@ -8,7 +8,14 @@ tags:
   - ot/historical
 ---
 
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Judges (Shoftim)]]
-*Next Book*
+
+*Next Book (Tanakh)*
+[[2 Samuel (Shmuel Bet)]]
+
+*Previous Book (Christian OT)*
+[[Ruth (Rut)]]
+
+*Next Book (Christian OT)*
 [[2 Samuel (Shmuel Bet)]]

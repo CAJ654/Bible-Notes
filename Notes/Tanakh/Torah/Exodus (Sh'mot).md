@@ -8,7 +8,14 @@ tags:
   - ot/pentateuch
 ---
 
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Genesis (B'resheet)]]
-*Next Book*
+
+*Next Book (Tanakh)*
+[[Leviticus (Vayikra)]]
+
+*Previous Book (Christian OT)*
+[[Genesis (B'resheet)]]
+
+*Next Book (Christian OT)*
 [[Leviticus (Vayikra)]]

@@ -8,7 +8,14 @@ tags:
   - ot/minor-prophets
 ---
 
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Joel (Yo'el)]]
-*Next Book*
+
+*Next Book (Tanakh)*
+[[Obadiah ('Ovadyah)]]
+
+*Previous Book (Christian OT)*
+[[Joel (Yo'el)]]
+
+*Next Book (Christian OT)*
 [[Obadiah ('Ovadyah)]]

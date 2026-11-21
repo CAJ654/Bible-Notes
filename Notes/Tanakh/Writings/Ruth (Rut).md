@@ -8,9 +8,14 @@ tags:
   - ot/historical
 ---
 
-
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Song of Songs (Shir Hashirim)]]
 
-*Next Book*
+*Next Book (Tanakh)*
 [[Lamentations (Eichah)]]
+
+*Previous Book (Christian OT)*
+[[Judges (Shoftim)]]
+
+*Next Book (Christian OT)*
+[[1 Samuel (Shmuel Alef)]]

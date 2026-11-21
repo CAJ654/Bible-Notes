@@ -8,7 +8,14 @@ tags:
   - ot/pentateuch
 ---
 
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Leviticus (Vayikra)]]
-*Next Book*
+
+*Next Book (Tanakh)*
+[[Deuteronomy (D'varim)]]
+
+*Previous Book (Christian OT)*
+[[Leviticus (Vayikra)]]
+
+*Next Book (Christian OT)*
 [[Deuteronomy (D'varim)]]

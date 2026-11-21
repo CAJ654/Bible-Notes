@@ -8,9 +8,14 @@ tags:
   - ot/wisdom-poetry
 ---
 
-
-*Previous Book*
+*Previous Book (Tanakh)*
 [[Malachi (Mal'akhi)]]
 
-*Next Book*
+*Next Book (Tanakh)*
+[[Proverbs (Mishlei)]]
+
+*Previous Book (Christian OT)*
+[[Job (Iyov)]]
+
+*Next Book (Christian OT)*
 [[Proverbs (Mishlei)]]
