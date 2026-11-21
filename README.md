@@ -1,5 +1,16 @@
 # Bible Notes
 
+## Download and set up (easiest)
+
+1. Download [`Bible Notes.zip`](Bible%20Notes.zip) from this repo (open it on GitHub and click **Download raw file**).
+2. Unzip it anywhere.
+3. Install [Obsidian](https://obsidian.md), choose **Open folder as vault**, and select the unzipped `Bible Notes` folder.
+4. Start at `Notes/Table of Contents.md`.
+
+Not using Obsidian? The vault is plain Markdown, so any Markdown editor or viewer can open the unzipped folder (links are Obsidian-style `[[wikilinks]]`, which some viewers show as plain text).
+
+The zip leaves out the KJV page scans (`.jp2` images) to keep it small; the Markdown text is all included.
+
 An [Obsidian](https://obsidian.md) vault for Bible study notes, with the scripture text stored alongside so chapters can be linked and read in place.
 
 ## Structure
@@ -23,4 +34,7 @@ Open the repository folder as a vault in Obsidian and start from `Notes/Table of
 
 ## Licensing
 
-Scripture texts keep their own licenses (e.g. WEBU/WMB are public domain; BSB is released to the public domain; KJV is public domain). See `copr.htm` in the WEBU folder for details. Check each source before redistributing.
+- KJV, WMB and WEB(U) are public domain.
+- BSB is released under Creative Commons; see https://berean.bible for current terms.
+
+See `copr.htm` in the WEBU folder for details. Check each source before redistributing.
